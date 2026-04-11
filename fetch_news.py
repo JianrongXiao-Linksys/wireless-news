@@ -9,9 +9,11 @@ import hashlib
 import json
 import os
 import re
+import smtplib
 import sys
 import time
 from datetime import datetime, timedelta
+from email.mime.text import MIMEText
 from pathlib import Path
 from urllib.request import urlopen, Request
 from urllib.error import URLError
@@ -433,6 +435,180 @@ def update_dashboard(config, briefings_dir):
         f.write("\n".join(lines))
 
 
+def update_readme(articles, config):
+    """Update the README.md (GitHub homepage) with briefing summaries.
+
+    - Latest briefing: bold + red, top 10 headlines
+    - Older briefings: normal style in collapsible section
+    """
+    briefings_path = Path(config["briefings_dir"])
+    briefing_files = sorted(briefings_path.glob("*.md"), reverse=True)
+    now = datetime.now()
+
+    lines = []
+    lines.append("# Wireless Router & WiFi News Monitor")
+    lines.append("")
+    lines.append("Daily news briefings covering major wireless router brands and WiFi standards.")
+    lines.append("")
+    lines.append("**Tracking**: Linksys | Netgear | TP-Link | Asus | D-Link | "
+                 "Ubiquiti | WiFi 7 | WiFi 8 | Mesh WiFi")
+    lines.append("")
+    lines.append(f"*Last updated: {now.strftime('%Y-%m-%d %H:%M')}*")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+
+    for idx, bf in enumerate(briefing_files):
+        date_str = bf.stem
+        is_latest = (idx == 0)
+
+        with open(bf) as f:
+            content = f.read()
+
+        # Extract article count
+        article_count = 0
+        m = re.search(r"\*Articles:\s*(\d+)\*", content)
+        if m:
+            article_count = int(m.group(1))
+
+        # Extract headlines from the detailed "### N. Title" sections
+        headlines = []
+        article_re = re.compile(r"^### \d+\.\s+(.+)$")
+        src_re = re.compile(r"^\- \*\*Source\*\*:\s+(.+)$")
+        date_re = re.compile(r"^\- \*\*Date\*\*:\s+(.+)$")
+        tags_re = re.compile(r"^\- \*\*Tags\*\*:\s+(.+)$")
+        current = None
+        for line in content.split("\n"):
+            am = article_re.match(line)
+            if am:
+                if current:
+                    headlines.append(current)
+                current = {"title": am.group(1), "source": "", "date": "", "tags": ""}
+                continue
+            if current:
+                sm = src_re.match(line)
+                if sm:
+                    current["source"] = sm.group(1)
+                dm = date_re.match(line)
+                if dm:
+                    current["date"] = dm.group(1)
+                tgm = tags_re.match(line)
+                if tgm:
+                    current["tags"] = tgm.group(1)
+        if current:
+            headlines.append(current)
+
+        if is_latest:
+            lines.append(f'<h3 style="color:red;">{date_str} - Daily Briefing ({article_count} articles)</h3>')
+            lines.append("")
+            for i, h in enumerate(headlines[:10], 1):
+                title = h["title"]
+                # Clean trailing " - Source" from title if present
+                clean_title = re.sub(r"\s*-\s*[A-Za-z][\w\s'.&]*$", "", title)
+                if clean_title == title:
+                    clean_title = re.sub(r"\s*\|\s*[A-Za-z][\w\s'.&]*$", "", title)
+                lines.append(
+                    f'<span style="color:red;"><b>{i}. {clean_title}</b>'
+                    f' — {h["source"]}</span><br>'
+                )
+            lines.append("")
+
+            # Full table in collapsible
+            if len(headlines) > 10:
+                lines.append(f'<details><summary><b>View all {len(headlines)} articles...</b></summary>')
+                lines.append("")
+                lines.append("| # | Date | Title | Source | Tags |")
+                lines.append("|---|------|-------|--------|------|")
+                for i, h in enumerate(headlines, 1):
+                    lines.append(f"| {i} | {h['date']} | {h['title']} | {h['source']} | {h['tags']} |")
+                lines.append("")
+                lines.append("</details>")
+                lines.append("")
+        else:
+            # Older briefings: normal style
+            lines.append(f"### {date_str} - Daily Briefing ({article_count} articles)")
+            lines.append("")
+            for h in headlines[:5]:
+                lines.append(f"- {h['title']} — {h['source']}")
+            lines.append("")
+
+    lines.append("---")
+    lines.append("")
+    lines.append("## How It Works")
+    lines.append("")
+    lines.append("```")
+    lines.append("cron (daily) -> fetch_news.py -> RSS feeds (Google News, The Verge, Ars Technica, ...)")
+    lines.append("                              -> filter by keywords (brands + WiFi standards)")
+    lines.append("                              -> deduplicate")
+    lines.append("                              -> generate briefing (briefings/YYYY-MM-DD.md)")
+    lines.append("                              -> update README.md")
+    lines.append("                              -> send email notification")
+    lines.append("```")
+    lines.append("")
+    lines.append("**Manual run**: `python3 fetch_news.py`")
+    lines.append("")
+    lines.append("**Config**: [`config.json`](config.json)")
+    lines.append("")
+    lines.append("---")
+    lines.append("*Generated by wireless-news monitor*")
+    lines.append("")
+
+    readme_path = SCRIPT_DIR / "README.md"
+    with open(readme_path, "w") as f:
+        f.write("\n".join(lines))
+
+
+def send_email(articles, date_str, smtp_conf_path, recipient=None, subject_tag="WiFiNewsCreated"):
+    """Send briefing email."""
+    if not os.path.exists(smtp_conf_path):
+        print(f"  [EMAIL] {smtp_conf_path} not found, skipping email")
+        return
+
+    with open(smtp_conf_path) as f:
+        smtp = json.load(f)
+
+    to_addr = recipient or smtp.get("recipient")
+
+    # Build email body
+    body_lines = []
+    body_lines.append(f"Wireless Router & WiFi News Briefing - {date_str}")
+    body_lines.append("=" * 55)
+    body_lines.append(f"Articles: {len(articles)}")
+    body_lines.append("")
+
+    for i, a in enumerate(articles, 1):
+        body_lines.append(f"{i}. [{a.get('date_str', '')}] {a['title']}")
+        body_lines.append(f"   Source: {a.get('source', 'Unknown')}  |  Tags: {', '.join(a.get('_tags', []))}")
+        if a.get("description"):
+            desc = a["description"]
+            if len(desc) > 200:
+                desc = desc[:197] + "..."
+            body_lines.append(f"   {desc}")
+        if a.get("link"):
+            body_lines.append(f"   {a['link']}")
+        body_lines.append("")
+
+    body_lines.append("---")
+    body_lines.append("Dashboard: https://github.com/JianrongXiao-Linksys/wireless-news")
+
+    body = "\n".join(body_lines)
+
+    msg = MIMEText(body, "plain", "utf-8")
+    msg["Subject"] = f"[{subject_tag}] WiFi & Router News Briefing - {date_str} ({len(articles)} articles)"
+    msg["From"] = smtp["sender"]
+    msg["To"] = to_addr
+
+    try:
+        server = smtplib.SMTP(smtp["smtp_server"], smtp["smtp_port"])
+        server.starttls()
+        server.login(smtp["sender"], smtp["password"])
+        server.sendmail(smtp["sender"], to_addr, msg.as_string())
+        server.quit()
+        print(f"  [EMAIL] Sent to {to_addr}")
+    except Exception as e:
+        print(f"  [EMAIL] Failed: {e}")
+
+
 def main():
     config = load_config()
     state = load_state(config["state_file"])
@@ -475,9 +651,18 @@ def main():
     state["last_run"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     save_state(config["state_file"], state)
 
-    # Update dashboard
+    # Update dashboard and README
     update_dashboard(config, config["briefings_dir"])
     print(f"Dashboard updated: {config['dashboard_path']}")
+
+    update_readme(articles, config)
+    print(f"README updated: {SCRIPT_DIR / 'README.md'}")
+
+    # Send email
+    smtp_conf = config.get("smtp_conf", str(SCRIPT_DIR / ".smtp.conf"))
+    recipient = config.get("email_recipient", "jianrong.xiao@linksys.com")
+    if articles:
+        send_email(articles, today_str, smtp_conf, recipient)
 
     # Print top headlines
     if articles:
