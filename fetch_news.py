@@ -627,30 +627,51 @@ def send_email(articles, date_str, smtp_conf_path, recipient=None, subject_tag="
 
 
 def send_push(articles, date_str, ntfy_topic):
-    """Send push notification via ntfy.sh (free, no account needed)."""
-    # Build message with top 10 headlines
+    """Send push notification via ntfy.sh with clickable article links."""
+    import json as _json
+
+    # Build JSON payload with Markdown formatting for clickable links
     body_lines = []
     for i, a in enumerate(articles[:10], 1):
         title = a["title"]
-        # Clean trailing " - Source" from title
         clean = re.sub(r"\s*-\s*[A-Za-z][\w\s'.&]*$", "", title)
         source = a.get("source", "")
-        body_lines.append(f"{i}. {clean} ({source})")
+        link = a.get("link", "")
+        if link:
+            body_lines.append(f"{i}. [{clean}]({link}) — {source}")
+        else:
+            body_lines.append(f"{i}. {clean} — {source}")
 
-    body = "\n".join(body_lines)
+    # Build actions for top 3 articles (ntfy supports up to 3 action buttons)
+    actions = []
+    for a in articles[:3]:
+        link = a.get("link", "")
+        title = a.get("title", "")
+        clean = re.sub(r"\s*-\s*[A-Za-z][\w\s'.&]*$", "", title)
+        if len(clean) > 30:
+            clean = clean[:27] + "..."
+        if link:
+            actions.append({
+                "action": "view",
+                "label": clean,
+                "url": link,
+            })
 
-    url = f"https://ntfy.sh/{ntfy_topic}"
-    data = body.encode("utf-8")
-    headers = {
-        "Title": f"WiFi News {date_str} - {len(articles)} articles",
-        "Priority": "default",
-        "Tags": "newspaper,wifi",
-        "Click": "https://github.com/JianrongXiao-Linksys/wireless-news",
+    payload = {
+        "topic": ntfy_topic,
+        "title": f"WiFi News {date_str} - {len(articles)} articles",
+        "message": "\n".join(body_lines),
+        "markdown": True,
+        "priority": 3,
+        "tags": ["newspaper", "wifi"],
+        "click": "https://github.com/JianrongXiao-Linksys/wireless-news",
+        "actions": actions,
     }
 
+    url = "https://ntfy.sh/"
+    data = _json.dumps(payload).encode("utf-8")
     req = Request(url, data=data, method="POST")
-    for k, v in headers.items():
-        req.add_header(k, v)
+    req.add_header("Content-Type", "application/json")
 
     try:
         with urlopen(req, timeout=10) as resp:
