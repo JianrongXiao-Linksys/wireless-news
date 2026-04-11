@@ -477,13 +477,14 @@ def update_readme(articles, config):
         src_re = re.compile(r"^\- \*\*Source\*\*:\s+(.+)$")
         date_re = re.compile(r"^\- \*\*Date\*\*:\s+(.+)$")
         tags_re = re.compile(r"^\- \*\*Tags\*\*:\s+(.+)$")
+        link_re = re.compile(r"^\- \*\*Link\*\*:\s+(.+)$")
         current = None
         for line in content.split("\n"):
             am = article_re.match(line)
             if am:
                 if current:
                     headlines.append(current)
-                current = {"title": am.group(1), "source": "", "date": "", "tags": ""}
+                current = {"title": am.group(1), "source": "", "date": "", "tags": "", "link": ""}
                 continue
             if current:
                 sm = src_re.match(line)
@@ -495,6 +496,9 @@ def update_readme(articles, config):
                 tgm = tags_re.match(line)
                 if tgm:
                     current["tags"] = tgm.group(1)
+                lm = link_re.match(line)
+                if lm:
+                    current["link"] = lm.group(1)
         if current:
             headlines.append(current)
 
@@ -507,10 +511,17 @@ def update_readme(articles, config):
                 clean_title = re.sub(r"\s*-\s*[A-Za-z][\w\s'.&]*$", "", title)
                 if clean_title == title:
                     clean_title = re.sub(r"\s*\|\s*[A-Za-z][\w\s'.&]*$", "", title)
-                lines.append(
-                    f'<span style="color:red;"><b>{i}. {clean_title}</b>'
-                    f' — {h["source"]}</span><br>'
-                )
+                link = h.get("link", "")
+                if link:
+                    lines.append(
+                        f'<span style="color:red;"><b>{i}. <a href="{link}" style="color:red;">{clean_title}</a></b>'
+                        f' — {h["source"]}</span><br>'
+                    )
+                else:
+                    lines.append(
+                        f'<span style="color:red;"><b>{i}. {clean_title}</b>'
+                        f' — {h["source"]}</span><br>'
+                    )
             lines.append("")
 
             # Full table in collapsible
@@ -520,7 +531,9 @@ def update_readme(articles, config):
                 lines.append("| # | Date | Title | Source | Tags |")
                 lines.append("|---|------|-------|--------|------|")
                 for i, h in enumerate(headlines, 1):
-                    lines.append(f"| {i} | {h['date']} | {h['title']} | {h['source']} | {h['tags']} |")
+                    link = h.get("link", "")
+                    title_cell = f"[{h['title']}]({link})" if link else h['title']
+                    lines.append(f"| {i} | {h['date']} | {title_cell} | {h['source']} | {h['tags']} |")
                 lines.append("")
                 lines.append("</details>")
                 lines.append("")
@@ -529,7 +542,11 @@ def update_readme(articles, config):
             lines.append(f"### {date_str} - Daily Briefing ({article_count} articles)")
             lines.append("")
             for h in headlines[:5]:
-                lines.append(f"- {h['title']} — {h['source']}")
+                link = h.get("link", "")
+                if link:
+                    lines.append(f"- [{h['title']}]({link}) — {h['source']}")
+                else:
+                    lines.append(f"- {h['title']} — {h['source']}")
             lines.append("")
 
     lines.append("---")
