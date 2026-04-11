@@ -626,6 +626,66 @@ def send_email(articles, date_str, smtp_conf_path, recipient=None, subject_tag="
         print(f"  [EMAIL] Failed: {e}")
 
 
+def send_sms(articles, date_str, smtp_conf_path, phone_number):
+    """Send SMS via email-to-SMS gateways for major US carriers."""
+    if not os.path.exists(smtp_conf_path):
+        print(f"  [SMS] {smtp_conf_path} not found, skipping SMS")
+        return
+
+    with open(smtp_conf_path) as f:
+        smtp = json.load(f)
+
+    # SMS body must be short — top 5 headlines + link
+    body_lines = []
+    body_lines.append(f"WiFi News {date_str}")
+    body_lines.append(f"{len(articles)} articles")
+    body_lines.append("")
+    for i, a in enumerate(articles[:5], 1):
+        title = a["title"]
+        if len(title) > 60:
+            title = title[:57] + "..."
+        body_lines.append(f"{i}. {title}")
+    body_lines.append("")
+    body_lines.append("https://github.com/JianrongXiao-Linksys/wireless-news")
+    body = "\n".join(body_lines)
+
+    # US carrier email-to-SMS gateways
+    sms_gateways = [
+        f"{phone_number}@txt.att.net",           # AT&T
+        f"{phone_number}@tmomail.net",            # T-Mobile
+        f"{phone_number}@vtext.com",              # Verizon
+        f"{phone_number}@messaging.sprintpcs.com", # Sprint/T-Mobile
+        f"{phone_number}@sms.cricketwireless.net", # Cricket
+        f"{phone_number}@mymetropcs.com",          # Metro PCS
+        f"{phone_number}@email.uscc.net",          # US Cellular
+        f"{phone_number}@msg.fi.google.com",       # Google Fi
+    ]
+
+    subject = f"[WiFiNewsCreated] {date_str}"
+
+    try:
+        server = smtplib.SMTP(smtp["smtp_server"], smtp["smtp_port"])
+        server.starttls()
+        server.login(smtp["sender"], smtp["password"])
+
+        sent_count = 0
+        for gateway in sms_gateways:
+            try:
+                msg = MIMEText(body, "plain", "utf-8")
+                msg["Subject"] = subject
+                msg["From"] = smtp["sender"]
+                msg["To"] = gateway
+                server.sendmail(smtp["sender"], gateway, msg.as_string())
+                sent_count += 1
+            except Exception:
+                pass
+
+        server.quit()
+        print(f"  [SMS] Sent to {phone_number} via {sent_count} carrier gateways")
+    except Exception as e:
+        print(f"  [SMS] Failed: {e}")
+
+
 def main():
     config = load_config()
     state = load_state(config["state_file"])
@@ -675,11 +735,13 @@ def main():
     update_readme(articles, config)
     print(f"README updated: {SCRIPT_DIR / 'README.md'}")
 
-    # Send email
+    # Send email and SMS
     smtp_conf = config.get("smtp_conf", str(SCRIPT_DIR / ".smtp.conf"))
     recipient = config.get("email_recipient", "jianrong.xiao@linksys.com")
+    sms_phone = config.get("sms_phone", "9494394037")
     if articles:
         send_email(articles, today_str, smtp_conf, recipient)
+        send_sms(articles, today_str, smtp_conf, sms_phone)
 
     # Print top headlines
     if articles:

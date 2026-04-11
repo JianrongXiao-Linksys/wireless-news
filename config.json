@@ -74,5 +74,7 @@
   "briefings_dir": "/home/jianrong/code/claude/wireless-news/briefings",
   "state_file": "/home/jianrong/code/claude/wireless-news/.state.json",
   "max_articles_per_briefing": 30,
-  "lookback_days": 3
+  "lookback_days": 3,
+  "email_recipient": "jianrong.xiao@linksys.com",
+  "sms_phone": "9494394037"
 }
