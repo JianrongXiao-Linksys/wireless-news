@@ -1,0 +1,78 @@
+{
+  "keywords": {
+    "brands": [
+      "Linksys", "Netgear", "TP-Link", "Asus", "D-Link",
+      "Eero", "Ubiquiti", "Arris", "Motorola", "Google Wifi",
+      "Belkin", "Cisco", "Qualcomm", "Broadcom", "MediaTek"
+    ],
+    "technologies": [
+      "WiFi 7", "Wi-Fi 7", "WiFi7", "802.11be",
+      "WiFi 8", "Wi-Fi 8", "WiFi8", "802.11bn",
+      "WiFi 6E", "Wi-Fi 6E", "mesh router", "mesh wifi",
+      "wireless router", "home router", "tri-band", "quad-band"
+    ]
+  },
+  "rss_feeds": [
+    {
+      "name": "Google News - WiFi Router",
+      "url": "https://news.google.com/rss/search?q=wifi+router&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News - WiFi 7",
+      "url": "https://news.google.com/rss/search?q=%22wifi+7%22+OR+%22wi-fi+7%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News - WiFi 8",
+      "url": "https://news.google.com/rss/search?q=%22wifi+8%22+OR+%22wi-fi+8%22+OR+%22802.11bn%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News - Linksys",
+      "url": "https://news.google.com/rss/search?q=Linksys+router&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News - Netgear",
+      "url": "https://news.google.com/rss/search?q=Netgear+router+OR+Netgear+wifi&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News - TP-Link",
+      "url": "https://news.google.com/rss/search?q=TP-Link+router+OR+TP-Link+wifi&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News - Asus Router",
+      "url": "https://news.google.com/rss/search?q=Asus+router+OR+Asus+wifi&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News - Mesh WiFi",
+      "url": "https://news.google.com/rss/search?q=mesh+wifi+system&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "The Verge - WiFi",
+      "url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/"
+    },
+    {
+      "name": "CNET",
+      "url": "https://www.cnet.com/rss/news/"
+    },
+    {
+      "name": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/feeds/all"
+    },
+    {
+      "name": "PCMag",
+      "url": "https://www.pcmag.com/feeds/all"
+    }
+  ],
+  "dashboard_path": "/home/jianrong/code/claude/wireless-news/dashboard.md",
+  "briefings_dir": "/home/jianrong/code/claude/wireless-news/briefings",
+  "state_file": "/home/jianrong/code/claude/wireless-news/.state.json",
+  "max_articles_per_briefing": 30,
+  "lookback_days": 3
+}
