@@ -626,64 +626,40 @@ def send_email(articles, date_str, smtp_conf_path, recipient=None, subject_tag="
         print(f"  [EMAIL] Failed: {e}")
 
 
-def send_sms(articles, date_str, smtp_conf_path, phone_number):
-    """Send SMS via email-to-SMS gateways for major US carriers."""
-    if not os.path.exists(smtp_conf_path):
-        print(f"  [SMS] {smtp_conf_path} not found, skipping SMS")
-        return
-
-    with open(smtp_conf_path) as f:
-        smtp = json.load(f)
-
-    # SMS body must be short — top 5 headlines + link
+def send_push(articles, date_str, ntfy_topic):
+    """Send push notification via ntfy.sh (free, no account needed)."""
+    # Build message with top 10 headlines
     body_lines = []
-    body_lines.append(f"WiFi News {date_str}")
-    body_lines.append(f"{len(articles)} articles")
-    body_lines.append("")
-    for i, a in enumerate(articles[:5], 1):
+    for i, a in enumerate(articles[:10], 1):
         title = a["title"]
-        if len(title) > 60:
-            title = title[:57] + "..."
-        body_lines.append(f"{i}. {title}")
-    body_lines.append("")
-    body_lines.append("https://github.com/JianrongXiao-Linksys/wireless-news")
+        # Clean trailing " - Source" from title
+        clean = re.sub(r"\s*-\s*[A-Za-z][\w\s'.&]*$", "", title)
+        source = a.get("source", "")
+        body_lines.append(f"{i}. {clean} ({source})")
+
     body = "\n".join(body_lines)
 
-    # US carrier email-to-SMS gateways
-    sms_gateways = [
-        f"{phone_number}@txt.att.net",           # AT&T
-        f"{phone_number}@tmomail.net",            # T-Mobile
-        f"{phone_number}@vtext.com",              # Verizon
-        f"{phone_number}@messaging.sprintpcs.com", # Sprint/T-Mobile
-        f"{phone_number}@sms.cricketwireless.net", # Cricket
-        f"{phone_number}@mymetropcs.com",          # Metro PCS
-        f"{phone_number}@email.uscc.net",          # US Cellular
-        f"{phone_number}@msg.fi.google.com",       # Google Fi
-    ]
+    url = f"https://ntfy.sh/{ntfy_topic}"
+    data = body.encode("utf-8")
+    headers = {
+        "Title": f"WiFi News {date_str} - {len(articles)} articles",
+        "Priority": "default",
+        "Tags": "newspaper,wifi",
+        "Click": "https://github.com/JianrongXiao-Linksys/wireless-news",
+    }
 
-    subject = f"[WiFiNewsCreated] {date_str}"
+    req = Request(url, data=data, method="POST")
+    for k, v in headers.items():
+        req.add_header(k, v)
 
     try:
-        server = smtplib.SMTP(smtp["smtp_server"], smtp["smtp_port"])
-        server.starttls()
-        server.login(smtp["sender"], smtp["password"])
-
-        sent_count = 0
-        for gateway in sms_gateways:
-            try:
-                msg = MIMEText(body, "plain", "utf-8")
-                msg["Subject"] = subject
-                msg["From"] = smtp["sender"]
-                msg["To"] = gateway
-                server.sendmail(smtp["sender"], gateway, msg.as_string())
-                sent_count += 1
-            except Exception:
-                pass
-
-        server.quit()
-        print(f"  [SMS] Sent to {phone_number} via {sent_count} carrier gateways")
+        with urlopen(req, timeout=10) as resp:
+            if resp.status == 200:
+                print(f"  [PUSH] Sent to ntfy.sh/{ntfy_topic}")
+            else:
+                print(f"  [PUSH] Unexpected status: {resp.status}")
     except Exception as e:
-        print(f"  [SMS] Failed: {e}")
+        print(f"  [PUSH] Failed: {e}")
 
 
 def main():
@@ -735,13 +711,13 @@ def main():
     update_readme(articles, config)
     print(f"README updated: {SCRIPT_DIR / 'README.md'}")
 
-    # Send email and SMS
+    # Send email and push notification
     smtp_conf = config.get("smtp_conf", str(SCRIPT_DIR / ".smtp.conf"))
     recipient = config.get("email_recipient", "jianrong.xiao@linksys.com")
-    sms_phone = config.get("sms_phone", "9494394037")
+    ntfy_topic = config.get("ntfy_topic", "wifi-news-jianrong")
     if articles:
         send_email(articles, today_str, smtp_conf, recipient)
-        send_sms(articles, today_str, smtp_conf, sms_phone)
+        send_push(articles, today_str, ntfy_topic)
 
     # Print top headlines
     if articles:

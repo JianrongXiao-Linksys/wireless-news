@@ -76,5 +76,5 @@
   "max_articles_per_briefing": 30,
   "lookback_days": 3,
   "email_recipient": "jianrong.xiao@linksys.com",
-  "sms_phone": "9494394037"
+  "ntfy_topic": "wifi-news-jianrong"
 }
