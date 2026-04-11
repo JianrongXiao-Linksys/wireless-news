@@ -630,42 +630,25 @@ def send_push(articles, date_str, ntfy_topic):
     """Send push notification via ntfy.sh with clickable article links."""
     import json as _json
 
-    # Build JSON payload with Markdown formatting for clickable links
+    # Plain text format — URLs on their own line are auto-linked by the app
     body_lines = []
     for i, a in enumerate(articles[:10], 1):
         title = a["title"]
         clean = re.sub(r"\s*-\s*[A-Za-z][\w\s'.&]*$", "", title)
         source = a.get("source", "")
         link = a.get("link", "")
+        body_lines.append(f"{i}. {clean} — {source}")
         if link:
-            body_lines.append(f"{i}. [{clean}]({link}) — {source}")
-        else:
-            body_lines.append(f"{i}. {clean} — {source}")
-
-    # Build actions for top 3 articles (ntfy supports up to 3 action buttons)
-    actions = []
-    for a in articles[:3]:
-        link = a.get("link", "")
-        title = a.get("title", "")
-        clean = re.sub(r"\s*-\s*[A-Za-z][\w\s'.&]*$", "", title)
-        if len(clean) > 30:
-            clean = clean[:27] + "..."
-        if link:
-            actions.append({
-                "action": "view",
-                "label": clean,
-                "url": link,
-            })
+            body_lines.append(f"   {link}")
+        body_lines.append("")
 
     payload = {
         "topic": ntfy_topic,
         "title": f"WiFi News {date_str} - {len(articles)} articles",
-        "message": "\n".join(body_lines),
-        "markdown": True,
+        "message": "\n".join(body_lines).strip(),
         "priority": 3,
         "tags": ["newspaper", "wifi"],
         "click": "https://github.com/JianrongXiao-Linksys/wireless-news",
-        "actions": actions,
     }
 
     url = "https://ntfy.sh/"
