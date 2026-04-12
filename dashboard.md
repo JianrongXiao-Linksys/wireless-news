@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-12 16:14**
+Last updated: **2026-04-12 09:23**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -10,9 +10,11 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
   <a href="briefings/2026-04-12.md" style="color:red;font-weight:bold;">
-    2026-04-12 - Daily Briefing (0 articles)
+    2026-04-12 - Daily Briefing (1 articles)
   </a>
 </p>
+
+<span style="color:red;">**- Why Russian Threat Actors are Targeting Internet Routers - Cyber Magazine**</span>  
 
 [2026-04-11 - Daily Briefing (30 articles)](briefings/2026-04-11.md)
 

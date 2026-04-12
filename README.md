@@ -4,12 +4,13 @@ Daily news briefings covering major wireless router brands and WiFi standards.
 
 **Tracking**: Linksys | Netgear | TP-Link | Asus | D-Link | Ubiquiti | WiFi 7 | WiFi 8 | Mesh WiFi
 
-*Last updated: 2026-04-12 16:14*
+*Last updated: 2026-04-12 09:23*
 
 ---
 
-<h3 style="color:red;">2026-04-12 - Daily Briefing (0 articles)</h3>
+<h3 style="color:red;">2026-04-12 - Daily Briefing (1 articles)</h3>
 
+<span style="color:red;"><b>1. <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkNkZWVQTTdSQkxzT2lSTHNtNjJDZVhoSDFOV25UWjQyNXItNkR3bnFkclBCZEVuS0gzWGlYVlM4aEl1YWNBUURHU2RLMGQwOHUxaFRUSjl6MXpTd1NvUlZ1dHVOeU43cnE0T2dHTFNENVFOUHN4SHVFZ2tKXzFLRTFnWEpDaUtUN3FDNl84em42dw?oc=5" style="color:red;">Why Russian Threat Actors are Targeting Internet Routers</a></b> — Cyber Magazine</span><br>
 
 ### 2026-04-11 - Daily Briefing (30 articles)
 
