@@ -666,8 +666,17 @@ def send_push(articles, date_str, ntfy_topic):
         print(f"  [PUSH] Failed: {e}")
 
 
+def resolve_paths(config):
+    """Resolve relative paths in config against SCRIPT_DIR."""
+    for key in ("dashboard_path", "briefings_dir", "state_file"):
+        if key in config and not os.path.isabs(config[key]):
+            config[key] = str(SCRIPT_DIR / config[key])
+    return config
+
+
 def main():
-    config = load_config()
+    config = resolve_paths(load_config())
+    os.makedirs(config["briefings_dir"], exist_ok=True)
     state = load_state(config["state_file"])
     today_str = datetime.now().strftime("%Y-%m-%d")
 

@@ -70,9 +70,9 @@
       "url": "https://www.pcmag.com/feeds/all"
     }
   ],
-  "dashboard_path": "/home/jianrong/code/claude/wireless-news/dashboard.md",
-  "briefings_dir": "/home/jianrong/code/claude/wireless-news/briefings",
-  "state_file": "/home/jianrong/code/claude/wireless-news/.state.json",
+  "dashboard_path": "dashboard.md",
+  "briefings_dir": "briefings",
+  "state_file": ".state.json",
   "max_articles_per_briefing": 30,
   "lookback_days": 3,
   "email_recipient": "jianrong.xiao@linksys.com",
