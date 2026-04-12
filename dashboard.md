@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-12 09:01**
+Last updated: **2026-04-12 16:14**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -10,15 +10,9 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
   <a href="briefings/2026-04-12.md" style="color:red;font-weight:bold;">
-    2026-04-12 - Daily Briefing (8 articles)
+    2026-04-12 - Daily Briefing (0 articles)
   </a>
 </p>
-
-<span style="color:red;">**- At the HumanX conference, everyone was talking about Claude**</span>  
-<span style="color:red;">**- NETGEAR AC1200 Smart Wi-Fi Router | Dual-Band Gigabit For Streaming & Gaming,...**</span>  
-<span style="color:red;">**- Tech enthusiast gets Doom to run on a 40-year-old printer controller — ancien...**</span>  
-<span style="color:red;">**- Here's How Many Devices The Average Home Router Can Connect To - Yahoo Life UK**</span>  
-<span style="color:red;">**- FCC Router Ban Is Bad News for These Brands. Is Yours on the List? - PCMag UK**</span>  
 
 [2026-04-11 - Daily Briefing (30 articles)](briefings/2026-04-11.md)
 
