@@ -1,0 +1,48 @@
+name: Daily Wireless News
+
+on:
+  schedule:
+    # 1:00 AM Los Angeles time (PT)
+    # PT = UTC-7 (PDT) or UTC-8 (PST), using 8 AM UTC to cover PDT
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Create SMTP config
+        run: |
+          cat > .smtp.conf <<EOF
+          {
+            "smtp_server": "smtp.gmail.com",
+            "smtp_port": 587,
+            "sender": "${{ secrets.SMTP_SENDER }}",
+            "password": "${{ secrets.SMTP_PASSWORD }}",
+            "recipient": "${{ secrets.SMTP_RECIPIENT }}"
+          }
+          EOF
+
+      - name: Fetch news and generate briefing
+        run: python3 fetch_news.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add briefings/ README.md dashboard.md .state.json
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Add $(date +%Y-%m-%d) daily briefing"
+          git push
