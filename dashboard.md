@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-12 09:23**
+Last updated: **2026-04-13 10:03**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,12 +9,20 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-12.md" style="color:red;font-weight:bold;">
-    2026-04-12 - Daily Briefing (1 articles)
+  <a href="briefings/2026-04-13.md" style="color:red;font-weight:bold;">
+    2026-04-13 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Why Russian Threat Actors are Targeting Internet Routers - Cyber Magazine**</span>  
+<span style="color:red;">**- French spectrum agency orders recall of Wi‑Fi router models over interference...**</span>  
+<span style="color:red;">**- I tried this thermal imaging camera and it instantly helped me troubleshoot a...**</span>  
+<span style="color:red;">**- Check your Wi-Fi router now to avoid broadband issues next month - Daily Express**</span>  
+<span style="color:red;">**- Sam Altman reportedly targeted in second attack**</span>  
+<span style="color:red;">**- Best budget wireless routers in our test - CHOICE**</span>  
+
+[2026-04-12 - Daily Briefing (1 articles)](briefings/2026-04-12.md)
+
+- Why Russian Threat Actors are Targeting Internet Routers - Cyber Magazine
 
 [2026-04-11 - Daily Briefing (30 articles)](briefings/2026-04-11.md)
 
