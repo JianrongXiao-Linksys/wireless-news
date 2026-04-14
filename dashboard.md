@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-13 10:03**
+Last updated: **2026-04-14 09:27**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-13.md" style="color:red;font-weight:bold;">
-    2026-04-13 - Daily Briefing (11 articles)
+  <a href="briefings/2026-04-14.md" style="color:red;font-weight:bold;">
+    2026-04-14 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- French spectrum agency orders recall of Wi‑Fi router models over interference...**</span>  
-<span style="color:red;">**- I tried this thermal imaging camera and it instantly helped me troubleshoot a...**</span>  
-<span style="color:red;">**- Check your Wi-Fi router now to avoid broadband issues next month - Daily Express**</span>  
-<span style="color:red;">**- Sam Altman reportedly targeted in second attack**</span>  
-<span style="color:red;">**- Best budget wireless routers in our test - CHOICE**</span>  
+<span style="color:red;">**- Netgear Nighthawk Router: WiFi 7 Upgrade Push Faces WiFi Alliance Split Risks...**</span>  
+<span style="color:red;">**- Nokia and RUCKUS Launch Integrated Optical LAN and Wi-Fi 7 Solution for Enter...**</span>  
+<span style="color:red;">**- Nokia, Ruckus Networks unveil optical LAN service pairing enterprise-grade PO...**</span>  
+<span style="color:red;">**- TP-Link’s Archer BE3600 Router Is a Fast, Affordable Entry Into Wi-Fi 7 - AOL...**</span>  
+<span style="color:red;">**- TP-Link BE3600 Wi-Fi 7 Travel Router - Pocket-Sized Portable Router With 2.5G...**</span>  
+
+[2026-04-13 - Daily Briefing (11 articles)](briefings/2026-04-13.md)
+
+- French spectrum agency orders recall of Wi‑Fi router models over interference...
+- I tried this thermal imaging camera and it instantly helped me troubleshoot a...
+- Check your Wi-Fi router now to avoid broadband issues next month - Daily Express
 
 [2026-04-12 - Daily Briefing (1 articles)](briefings/2026-04-12.md)
 
