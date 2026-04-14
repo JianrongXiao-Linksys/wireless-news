@@ -1,57 +1,116 @@
 #!/usr/bin/env python3
 """
 Wireless Router & WiFi News Monitor
+
 Fetches news from RSS feeds about major router brands and WiFi standards,
 generates daily briefings, and updates the dashboard.
+
+Features:
+- Parallel RSS fetching for faster execution
+- Automatic retry with exponential backoff
+- Type-safe article handling with dataclasses
 """
 
+from __future__ import annotations
+
 import hashlib
+import html
 import json
 import os
 import re
 import smtplib
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from dataclasses import dataclass, field
 from datetime import datetime, timedelta
 from email.mime.text import MIMEText
 from pathlib import Path
-from urllib.request import urlopen, Request
+from typing import Any
 from urllib.error import URLError
+from urllib.request import Request, urlopen
 from xml.etree import ElementTree
-import html
 
 SCRIPT_DIR = Path(__file__).parent
 CONFIG_PATH = SCRIPT_DIR / "config.json"
 
+# Retry configuration
+MAX_RETRIES = 3
+RETRY_BACKOFF = 2.0  # Exponential backoff multiplier
+MAX_WORKERS = 8  # Parallel fetch threads
 
-def load_config():
+
+@dataclass
+class Article:
+    """Represents a news article with metadata."""
+
+    title: str
+    link: str
+    description: str
+    date: datetime | None
+    date_str: str
+    source: str
+    tags: list[str] = field(default_factory=list)
+    article_id: str = ""
+
+    def __post_init__(self) -> None:
+        if not self.article_id:
+            key = (self.title + self.link).lower()
+            self.article_id = hashlib.md5(key.encode()).hexdigest()[:12]
+
+
+def load_config() -> dict[str, Any]:
+    """Load configuration from config.json."""
     with open(CONFIG_PATH) as f:
         return json.load(f)
 
 
-def load_state(state_file):
+def load_state(state_file: str) -> dict[str, Any]:
+    """Load state from state file."""
     if os.path.exists(state_file):
         with open(state_file) as f:
             return json.load(f)
     return {"seen_ids": [], "last_run": None}
 
 
-def save_state(state_file, state):
+def save_state(state_file: str, state: dict[str, Any]) -> None:
+    """Save state to state file."""
     with open(state_file, "w") as f:
         json.dump(state, f, indent=2)
 
 
-def fetch_rss(url, timeout=15):
-    """Fetch and parse an RSS/Atom feed, return list of entries."""
-    headers = {
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) WirelessNewsBot/1.0"
-    }
+def fetch_rss_with_retry(
+    url: str, timeout: int = 15, max_retries: int = MAX_RETRIES
+) -> list[dict[str, Any]]:
+    """Fetch and parse an RSS/Atom feed with retry logic.
+
+    Args:
+        url: The RSS feed URL to fetch
+        timeout: Request timeout in seconds
+        max_retries: Maximum number of retry attempts
+
+    Returns:
+        List of parsed feed entries
+    """
+    headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) WirelessNewsBot/1.0"}
     req = Request(url, headers=headers)
-    try:
-        with urlopen(req, timeout=timeout) as resp:
-            data = resp.read()
-    except (URLError, OSError, TimeoutError) as e:
-        print(f"  [WARN] Failed to fetch {url}: {e}")
+
+    last_error: Exception | None = None
+    for attempt in range(max_retries):
+        try:
+            with urlopen(req, timeout=timeout) as resp:
+                data = resp.read()
+            break
+        except (URLError, OSError, TimeoutError) as e:
+            last_error = e
+            if attempt < max_retries - 1:
+                wait_time = RETRY_BACKOFF ** attempt
+                print(f"  [RETRY] Attempt {attempt + 1}/{max_retries} failed for {url}, "
+                      f"retrying in {wait_time:.1f}s...")
+                time.sleep(wait_time)
+            continue
+    else:
+        print(f"  [WARN] Failed to fetch {url} after {max_retries} attempts: {last_error}")
         return []
 
     try:
@@ -60,7 +119,7 @@ def fetch_rss(url, timeout=15):
         print(f"  [WARN] Failed to parse feed {url}: {e}")
         return []
 
-    entries = []
+    entries: list[dict[str, Any]] = []
     ns = {
         "atom": "http://www.w3.org/2005/Atom",
         "dc": "http://purl.org/dc/elements/1.1/",
@@ -83,8 +142,22 @@ def fetch_rss(url, timeout=15):
     return entries
 
 
-def parse_rss_item(item, ns):
-    """Parse an RSS 2.0 <item> element."""
+# Keep old function name for compatibility
+def fetch_rss(url: str, timeout: int = 15) -> list[dict[str, Any]]:
+    """Fetch and parse an RSS/Atom feed, return list of entries."""
+    return fetch_rss_with_retry(url, timeout)
+
+
+def parse_rss_item(item: ElementTree.Element, ns: dict[str, str]) -> dict[str, Any] | None:
+    """Parse an RSS 2.0 <item> element.
+
+    Args:
+        item: XML element representing an RSS item
+        ns: Namespace dictionary for XML parsing
+
+    Returns:
+        Dictionary with article data or None if invalid
+    """
     title = item.findtext("title", "").strip()
     link = item.findtext("link", "").strip()
     desc = item.findtext("description", "").strip()
@@ -112,8 +185,16 @@ def parse_rss_item(item, ns):
     }
 
 
-def parse_atom_entry(item, ns):
-    """Parse an Atom <entry> element."""
+def parse_atom_entry(item: ElementTree.Element, ns: dict[str, str]) -> dict[str, Any] | None:
+    """Parse an Atom <entry> element.
+
+    Args:
+        item: XML element representing an Atom entry
+        ns: Namespace dictionary for XML parsing
+
+    Returns:
+        Dictionary with article data or None if invalid
+    """
     title = item.findtext("atom:title", "", ns).strip()
     link_el = item.find("atom:link[@rel='alternate']", ns)
     if link_el is None:
@@ -143,27 +224,41 @@ def parse_atom_entry(item, ns):
     }
 
 
-def strip_html(text):
-    """Remove HTML tags from text."""
+def strip_html(text: str) -> str:
+    """Remove HTML tags from text.
+
+    Args:
+        text: HTML string to clean
+
+    Returns:
+        Plain text with HTML tags removed
+    """
     clean = re.sub(r"<[^>]+>", " ", text)
     clean = re.sub(r"\s+", " ", clean).strip()
     return clean
 
 
-def parse_date(date_str):
-    """Parse various date formats from RSS feeds."""
+def parse_date(date_str: str) -> datetime | None:
+    """Parse various date formats from RSS feeds.
+
+    Args:
+        date_str: Date string in various formats
+
+    Returns:
+        Parsed datetime object or None if parsing fails
+    """
     if not date_str:
         return None
 
     # Common RSS date formats
     formats = [
-        "%a, %d %b %Y %H:%M:%S %z",      # RFC 822
-        "%a, %d %b %Y %H:%M:%S %Z",      # RFC 822 with timezone name
-        "%Y-%m-%dT%H:%M:%S%z",            # ISO 8601
-        "%Y-%m-%dT%H:%M:%SZ",             # ISO 8601 UTC
-        "%Y-%m-%dT%H:%M:%S.%f%z",         # ISO 8601 with microseconds
-        "%Y-%m-%d %H:%M:%S",              # Simple datetime
-        "%Y-%m-%d",                        # Simple date
+        "%a, %d %b %Y %H:%M:%S %z",  # RFC 822
+        "%a, %d %b %Y %H:%M:%S %Z",  # RFC 822 with timezone name
+        "%Y-%m-%dT%H:%M:%S%z",  # ISO 8601
+        "%Y-%m-%dT%H:%M:%SZ",  # ISO 8601 UTC
+        "%Y-%m-%dT%H:%M:%S.%f%z",  # ISO 8601 with microseconds
+        "%Y-%m-%d %H:%M:%S",  # Simple datetime
+        "%Y-%m-%d",  # Simple date
     ]
 
     # Strip timezone offset like +0000 that some parsers can't handle
@@ -180,10 +275,18 @@ def parse_date(date_str):
     return None
 
 
-def extract_domain(url):
-    """Extract domain name from URL for source attribution."""
+def extract_domain(url: str) -> str:
+    """Extract domain name from URL for source attribution.
+
+    Args:
+        url: Full URL string
+
+    Returns:
+        Friendly domain name or raw domain
+    """
     try:
         from urllib.parse import urlparse
+
         parsed = urlparse(url)
         domain = parsed.netloc.replace("www.", "")
         # Friendly names
@@ -205,17 +308,30 @@ def extract_domain(url):
         return ""
 
 
-def article_id(article):
-    """Generate a unique ID for deduplication."""
+def article_id(article: dict[str, Any]) -> str:
+    """Generate a unique ID for deduplication.
+
+    Args:
+        article: Article dictionary
+
+    Returns:
+        12-character hash ID
+    """
     key = (article.get("title", "") + article.get("link", "")).lower()
     return hashlib.md5(key.encode()).hexdigest()[:12]
 
 
-def matches_keywords(article, config):
-    """Check if article matches any of our keywords."""
-    text = (
-        article.get("title", "") + " " + article.get("description", "")
-    ).lower()
+def matches_keywords(article: dict[str, Any], config: dict[str, Any]) -> list[str]:
+    """Check if article matches any of our keywords.
+
+    Args:
+        article: Article dictionary
+        config: Configuration dictionary
+
+    Returns:
+        List of matched keywords
+    """
+    text = (article.get("title", "") + " " + article.get("description", "")).lower()
 
     all_keywords = config["keywords"]["brands"] + config["keywords"]["technologies"]
     matched = []
@@ -226,8 +342,16 @@ def matches_keywords(article, config):
     return matched
 
 
-def categorize_article(matched_keywords, config):
-    """Categorize an article based on matched keywords."""
+def categorize_article(matched_keywords: list[str], config: dict[str, Any]) -> list[str]:
+    """Categorize an article based on matched keywords.
+
+    Args:
+        matched_keywords: List of matched keyword strings
+        config: Configuration dictionary
+
+    Returns:
+        Sorted list of category tags
+    """
     brands_lower = [b.lower() for b in config["keywords"]["brands"]]
     techs_lower = [t.lower() for t in config["keywords"]["technologies"]]
 
@@ -242,14 +366,108 @@ def categorize_article(matched_keywords, config):
     return sorted(categories)
 
 
-def is_google_news_feed(feed_url):
-    """Check if this is a Google News RSS feed (pre-filtered by query)."""
+def is_google_news_feed(feed_url: str) -> bool:
+    """Check if this is a Google News RSS feed (pre-filtered by query).
+
+    Args:
+        feed_url: RSS feed URL
+
+    Returns:
+        True if this is a Google News feed
+    """
     return "news.google.com" in feed_url
 
 
-def fetch_all_news(config):
-    """Fetch news from all configured RSS feeds."""
-    all_articles = []
+def _fetch_single_feed(
+    feed: dict[str, str], config: dict[str, Any], cutoff: datetime
+) -> list[dict[str, Any]]:
+    """Fetch and filter a single RSS feed.
+
+    Args:
+        feed: Feed configuration with 'name' and 'url'
+        config: Global configuration
+        cutoff: Date cutoff for filtering old articles
+
+    Returns:
+        List of filtered articles from this feed
+    """
+    feed_articles: list[dict[str, Any]] = []
+    entries = fetch_rss_with_retry(feed["url"])
+    google_feed = is_google_news_feed(feed["url"])
+
+    for entry in entries:
+        # Filter by date
+        if entry["date"] and entry["date"] < cutoff:
+            continue
+
+        # For Google News feeds, articles are already filtered by search query
+        if google_feed:
+            entry["_tags"] = categorize_article(
+                matches_keywords(entry, config), config
+            ) or ["Wireless/WiFi"]
+            feed_articles.append(entry)
+        else:
+            # For general tech feeds, must match our keywords
+            matched = matches_keywords(entry, config)
+            if matched:
+                entry["_tags"] = categorize_article(matched, config)
+                feed_articles.append(entry)
+
+    return feed_articles
+
+
+def fetch_all_news(config: dict[str, Any]) -> list[dict[str, Any]]:
+    """Fetch news from all configured RSS feeds in parallel.
+
+    Uses ThreadPoolExecutor for concurrent fetching, with automatic
+    retry on failure.
+
+    Args:
+        config: Configuration dictionary with RSS feeds
+
+    Returns:
+        List of all filtered articles from all feeds
+    """
+    all_articles: list[dict[str, Any]] = []
+    cutoff = datetime.now() - timedelta(days=config.get("lookback_days", 3))
+    feeds = config["rss_feeds"]
+
+    print(f"  Fetching {len(feeds)} feeds in parallel (max {MAX_WORKERS} workers)...")
+    start_time = time.time()
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        # Submit all feed fetches
+        future_to_feed = {
+            executor.submit(_fetch_single_feed, feed, config, cutoff): feed
+            for feed in feeds
+        }
+
+        # Collect results as they complete
+        for future in as_completed(future_to_feed):
+            feed = future_to_feed[future]
+            try:
+                articles = future.result()
+                print(f"    {feed['name']}: {len(articles)} articles")
+                all_articles.extend(articles)
+            except Exception as e:
+                print(f"    [ERROR] {feed['name']}: {e}")
+
+    elapsed = time.time() - start_time
+    print(f"  Completed in {elapsed:.1f}s")
+
+    return all_articles
+
+
+def fetch_all_news_sequential(config: dict[str, Any]) -> list[dict[str, Any]]:
+    """Fetch news from all configured RSS feeds sequentially (fallback).
+
+    Args:
+        config: Configuration dictionary with RSS feeds
+
+    Returns:
+        List of all filtered articles from all feeds
+    """
+    all_articles: list[dict[str, Any]] = []
     cutoff = datetime.now() - timedelta(days=config.get("lookback_days", 3))
 
     for feed in config["rss_feeds"]:
@@ -280,9 +498,19 @@ def fetch_all_news(config):
     return all_articles
 
 
-def deduplicate(articles, seen_ids):
-    """Remove duplicate articles."""
-    unique = []
+def deduplicate(
+    articles: list[dict[str, Any]], seen_ids: list[str]
+) -> tuple[list[dict[str, Any]], list[str]]:
+    """Remove duplicate articles.
+
+    Args:
+        articles: List of article dictionaries
+        seen_ids: List of previously seen article IDs
+
+    Returns:
+        Tuple of (unique articles, updated seen IDs list)
+    """
+    unique: list[dict[str, Any]] = []
     new_ids = set(seen_ids)
 
     for a in articles:
@@ -295,8 +523,16 @@ def deduplicate(articles, seen_ids):
     return unique, list(new_ids)
 
 
-def generate_briefing(articles, date_str):
-    """Generate a daily briefing markdown file."""
+def generate_briefing(articles: list[dict[str, Any]], date_str: str) -> str:
+    """Generate a daily briefing markdown file.
+
+    Args:
+        articles: List of article dictionaries
+        date_str: Date string for the briefing title
+
+    Returns:
+        Markdown content as string
+    """
     lines = []
     lines.append(f"# Wireless & WiFi News Briefing - {date_str}")
     lines.append("")
@@ -354,13 +590,17 @@ def generate_briefing(articles, date_str):
     return "\n".join(lines)
 
 
-def update_dashboard(config, briefings_dir):
+def update_dashboard(config: dict[str, Any], briefings_dir: str) -> None:
     """Update the dashboard.md homepage.
 
     Layout:
     - Briefings sorted by date, newest first.
     - The LATEST briefing: bold + red text, top 5 headlines shown.
     - Older briefings: normal weight, top 3 headlines shown.
+
+    Args:
+        config: Configuration dictionary
+        briefings_dir: Path to briefings directory
     """
     briefings_path = Path(briefings_dir)
     briefing_files = sorted(briefings_path.glob("*.md"), reverse=True)
@@ -435,11 +675,15 @@ def update_dashboard(config, briefings_dir):
         f.write("\n".join(lines))
 
 
-def update_readme(articles, config):
+def update_readme(articles: list[dict[str, Any]], config: dict[str, Any]) -> None:
     """Update the README.md (GitHub homepage) with briefing summaries.
 
     - Latest briefing: bold + red, top 10 headlines
     - Older briefings: normal style in collapsible section
+
+    Args:
+        articles: List of article dictionaries (used for count)
+        config: Configuration dictionary
     """
     briefings_path = Path(config["briefings_dir"])
     briefing_files = sorted(briefings_path.glob("*.md"), reverse=True)
@@ -575,8 +819,22 @@ def update_readme(articles, config):
         f.write("\n".join(lines))
 
 
-def send_email(articles, date_str, smtp_conf_path, recipient=None, subject_tag="WiFiNewsCreated"):
-    """Send briefing email."""
+def send_email(
+    articles: list[dict[str, Any]],
+    date_str: str,
+    smtp_conf_path: str,
+    recipient: str | None = None,
+    subject_tag: str = "WiFiNewsCreated",
+) -> None:
+    """Send briefing email.
+
+    Args:
+        articles: List of article dictionaries
+        date_str: Date string for subject line
+        smtp_conf_path: Path to SMTP configuration file
+        recipient: Override recipient email address
+        subject_tag: Tag for email subject line
+    """
     if not os.path.exists(smtp_conf_path):
         print(f"  [EMAIL] {smtp_conf_path} not found, skipping email")
         return
@@ -626,8 +884,14 @@ def send_email(articles, date_str, smtp_conf_path, recipient=None, subject_tag="
         print(f"  [EMAIL] Failed: {e}")
 
 
-def send_push(articles, date_str, ntfy_topic):
-    """Send push notification via ntfy.sh with clickable article links."""
+def send_push(articles: list[dict[str, Any]], date_str: str, ntfy_topic: str) -> None:
+    """Send push notification via ntfy.sh with clickable article links.
+
+    Args:
+        articles: List of article dictionaries
+        date_str: Date string for notification title
+        ntfy_topic: ntfy.sh topic name
+    """
     import json as _json
 
     # Plain text format — URLs on their own line are auto-linked by the app
@@ -666,15 +930,27 @@ def send_push(articles, date_str, ntfy_topic):
         print(f"  [PUSH] Failed: {e}")
 
 
-def resolve_paths(config):
-    """Resolve relative paths in config against SCRIPT_DIR."""
+def resolve_paths(config: dict[str, Any]) -> dict[str, Any]:
+    """Resolve relative paths in config against SCRIPT_DIR.
+
+    Args:
+        config: Configuration dictionary with relative paths
+
+    Returns:
+        Configuration dictionary with absolute paths
+    """
     for key in ("dashboard_path", "briefings_dir", "state_file"):
         if key in config and not os.path.isabs(config[key]):
             config[key] = str(SCRIPT_DIR / config[key])
     return config
 
 
-def main():
+def main() -> int:
+    """Main entry point for the news fetcher.
+
+    Returns:
+        Exit code (0 for success)
+    """
     config = resolve_paths(load_config())
     os.makedirs(config["briefings_dir"], exist_ok=True)
     state = load_state(config["state_file"])

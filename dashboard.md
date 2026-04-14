@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-14 09:27**
+Last updated: **2026-04-14 16:57**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -10,15 +10,15 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
   <a href="briefings/2026-04-14.md" style="color:red;font-weight:bold;">
-    2026-04-14 - Daily Briefing (30 articles)
+    2026-04-14 - Daily Briefing (28 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Netgear Nighthawk Router: WiFi 7 Upgrade Push Faces WiFi Alliance Split Risks...**</span>  
-<span style="color:red;">**- Nokia and RUCKUS Launch Integrated Optical LAN and Wi-Fi 7 Solution for Enter...**</span>  
-<span style="color:red;">**- Nokia, Ruckus Networks unveil optical LAN service pairing enterprise-grade PO...**</span>  
-<span style="color:red;">**- TP-Link’s Archer BE3600 Router Is a Fast, Affordable Entry Into Wi-Fi 7 - AOL...**</span>  
-<span style="color:red;">**- TP-Link BE3600 Wi-Fi 7 Travel Router - Pocket-Sized Portable Router With 2.5G...**</span>  
+<span style="color:red;">**- Why Is the FCC Banning Foreign-Made Wi-Fi Routers? Here's What You Need to Kn...**</span>  
+<span style="color:red;">**- Netgear Scores the First Exemption From the FCC's Foreign-Made Router Ban - P...**</span>  
+<span style="color:red;">**- Best Wi-Fi 7 Routers for 2026: Future-Proof Your Home Network With These Top ...**</span>  
+<span style="color:red;">**- I Used to Tell People to Skip Wi-Fi 7 Routers. CNET's Lab Testing Changed My ...**</span>  
+<span style="color:red;">**- I Used to Tell People to Skip Wi-Fi 7 Routers. CNET's Lab Testing Changed My ...**</span>  
 
 [2026-04-13 - Daily Briefing (11 articles)](briefings/2026-04-13.md)
 
