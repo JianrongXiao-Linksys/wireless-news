@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-14 16:57**
+Last updated: **2026-04-15 09:43**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-14.md" style="color:red;font-weight:bold;">
-    2026-04-14 - Daily Briefing (28 articles)
+  <a href="briefings/2026-04-15.md" style="color:red;font-weight:bold;">
+    2026-04-15 - Daily Briefing (13 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Why Is the FCC Banning Foreign-Made Wi-Fi Routers? Here's What You Need to Kn...**</span>  
-<span style="color:red;">**- Netgear Scores the First Exemption From the FCC's Foreign-Made Router Ban - P...**</span>  
-<span style="color:red;">**- Best Wi-Fi 7 Routers for 2026: Future-Proof Your Home Network With These Top ...**</span>  
-<span style="color:red;">**- I Used to Tell People to Skip Wi-Fi 7 Routers. CNET's Lab Testing Changed My ...**</span>  
-<span style="color:red;">**- I Used to Tell People to Skip Wi-Fi 7 Routers. CNET's Lab Testing Changed My ...**</span>  
+<span style="color:red;">**- FCC clears Netgear while the foreign-made router ban stays in place - Digital...**</span>  
+<span style="color:red;">**- Zen offers Eero mesh router with business fibre plans - Telecompaper**</span>  
+<span style="color:red;">**- The US just made an exception to its sweeping Wi-Fi router ban, and it's a bi...**</span>  
+<span style="color:red;">**- Netgear Wins FCC Exemption, Router Ban Loophole Extends Foreign Manufacturing...**</span>  
+<span style="color:red;">**- ASUS Targets Creators With ProArt Wi-Fi 7 Router And Multi-Gig Switch - - Sma...**</span>  
+
+[2026-04-14 - Daily Briefing (28 articles)](briefings/2026-04-14.md)
+
+- Why Is the FCC Banning Foreign-Made Wi-Fi Routers? Here's What You Need to Kn...
+- Netgear Scores the First Exemption From the FCC's Foreign-Made Router Ban - P...
+- Best Wi-Fi 7 Routers for 2026: Future-Proof Your Home Network With These Top ...
 
 [2026-04-13 - Daily Briefing (11 articles)](briefings/2026-04-13.md)
 
