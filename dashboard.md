@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-15 09:43**
+Last updated: **2026-04-16 09:27**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-15.md" style="color:red;font-weight:bold;">
-    2026-04-15 - Daily Briefing (13 articles)
+  <a href="briefings/2026-04-16.md" style="color:red;font-weight:bold;">
+    2026-04-16 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- FCC clears Netgear while the foreign-made router ban stays in place - Digital...**</span>  
-<span style="color:red;">**- Zen offers Eero mesh router with business fibre plans - Telecompaper**</span>  
-<span style="color:red;">**- The US just made an exception to its sweeping Wi-Fi router ban, and it's a bi...**</span>  
-<span style="color:red;">**- Netgear Wins FCC Exemption, Router Ban Loophole Extends Foreign Manufacturing...**</span>  
-<span style="color:red;">**- ASUS Targets Creators With ProArt Wi-Fi 7 Router And Multi-Gig Switch - - Sma...**</span>  
+<span style="color:red;">**- WiFi Router Hidden Storage Box - Bamboo Floor Standing Cable Management Cabin...**</span>  
+<span style="color:red;">**- Huawei Wi-Fi X smartphone router pre-sale to begin next week - Huawei Central**</span>  
+<span style="color:red;">**- Hollywood Bowl Levels Up for 2026 With Venue-Wide Wi-Fi 7 Upgrade - TicketNews**</span>  
+<span style="color:red;">**- Samsung Galaxy Tab S9 11-inch WiFi 7 tablet drops to $649 - Technobezz**</span>  
+<span style="color:red;">**- How Do You Stay Connected? Rate Your Wi-Fi Router, Broadband Modem, and Netwo...**</span>  
+
+[2026-04-15 - Daily Briefing (13 articles)](briefings/2026-04-15.md)
+
+- FCC clears Netgear while the foreign-made router ban stays in place - Digital...
+- Zen offers Eero mesh router with business fibre plans - Telecompaper
+- The US just made an exception to its sweeping Wi-Fi router ban, and it's a bi...
 
 [2026-04-14 - Daily Briefing (28 articles)](briefings/2026-04-14.md)
 
