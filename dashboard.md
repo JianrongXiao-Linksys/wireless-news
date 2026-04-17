@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-16 09:27**
+Last updated: **2026-04-17 09:26**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-16.md" style="color:red;font-weight:bold;">
-    2026-04-16 - Daily Briefing (30 articles)
+  <a href="briefings/2026-04-17.md" style="color:red;font-weight:bold;">
+    2026-04-17 - Daily Briefing (24 articles)
   </a>
 </p>
 
-<span style="color:red;">**- WiFi Router Hidden Storage Box - Bamboo Floor Standing Cable Management Cabin...**</span>  
-<span style="color:red;">**- Huawei Wi-Fi X smartphone router pre-sale to begin next week - Huawei Central**</span>  
-<span style="color:red;">**- Hollywood Bowl Levels Up for 2026 With Venue-Wide Wi-Fi 7 Upgrade - TicketNews**</span>  
-<span style="color:red;">**- Samsung Galaxy Tab S9 11-inch WiFi 7 tablet drops to $649 - Technobezz**</span>  
-<span style="color:red;">**- How Do You Stay Connected? Rate Your Wi-Fi Router, Broadband Modem, and Netwo...**</span>  
+<span style="color:red;">**- Netgear Wins FCC Conditional Approval on Its Consumer Routers, Exempting Them...**</span>  
+<span style="color:red;">**- I tested TP-Link’s $180 Wi-Fi 7 mesh kit — and it’s a game changer for whole-...**</span>  
+<span style="color:red;">**- A Deep Dive Into Attempted Exploitation of CVE-2023-33538 - Unit 42**</span>  
+<span style="color:red;">**- Feds warn that Russians may hack your home internet router. Why? - Straight A...**</span>  
+<span style="color:red;">**- Top 10 Gaming Routers with Low Latency - Analytics Insight**</span>  
+
+[2026-04-16 - Daily Briefing (30 articles)](briefings/2026-04-16.md)
+
+- WiFi Router Hidden Storage Box - Bamboo Floor Standing Cable Management Cabin...
+- Huawei Wi-Fi X smartphone router pre-sale to begin next week - Huawei Central
+- Hollywood Bowl Levels Up for 2026 With Venue-Wide Wi-Fi 7 Upgrade - TicketNews
 
 [2026-04-15 - Daily Briefing (13 articles)](briefings/2026-04-15.md)
 
