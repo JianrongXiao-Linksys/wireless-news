@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-17 09:26**
+Last updated: **2026-04-18 09:00**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-17.md" style="color:red;font-weight:bold;">
-    2026-04-17 - Daily Briefing (24 articles)
+  <a href="briefings/2026-04-18.md" style="color:red;font-weight:bold;">
+    2026-04-18 - Daily Briefing (20 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Netgear Wins FCC Conditional Approval on Its Consumer Routers, Exempting Them...**</span>  
-<span style="color:red;">**- I tested TP-Link’s $180 Wi-Fi 7 mesh kit — and it’s a game changer for whole-...**</span>  
-<span style="color:red;">**- A Deep Dive Into Attempted Exploitation of CVE-2023-33538 - Unit 42**</span>  
-<span style="color:red;">**- Feds warn that Russians may hack your home internet router. Why? - Straight A...**</span>  
-<span style="color:red;">**- Top 10 Gaming Routers with Low Latency - Analytics Insight**</span>  
+<span style="color:red;">**- The 5 Best Gaming Routers of 2026 - RTINGS.com**</span>  
+<span style="color:red;">**- The Best Gaming Routers for 2026 - PCMag UK**</span>  
+<span style="color:red;">**- The Best Gaming Routers for 2026 - PCMag Australia**</span>  
+<span style="color:red;">**- Is the FCC's Foreign-Made Router Ban Only the Beginning? - PCMag Australia**</span>  
+<span style="color:red;">**- Wifi Mesh Wall Mount Bracket For Linksys Velop WiFi System - 2-Pack White ABS...**</span>  
+
+[2026-04-17 - Daily Briefing (24 articles)](briefings/2026-04-17.md)
+
+- Netgear Wins FCC Conditional Approval on Its Consumer Routers, Exempting Them...
+- I tested TP-Link’s $180 Wi-Fi 7 mesh kit — and it’s a game changer for whole-...
+- A Deep Dive Into Attempted Exploitation of CVE-2023-33538 - Unit 42
 
 [2026-04-16 - Daily Briefing (30 articles)](briefings/2026-04-16.md)
 
