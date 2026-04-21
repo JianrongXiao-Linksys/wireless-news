@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-20 10:05**
+Last updated: **2026-04-21 09:46**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-20.md" style="color:red;font-weight:bold;">
-    2026-04-20 - Daily Briefing (20 articles)
+  <a href="briefings/2026-04-21.md" style="color:red;font-weight:bold;">
+    2026-04-21 - Daily Briefing (15 articles)
   </a>
 </p>
 
-<span style="color:red;">**- 4G LTE Wireless USB Dongle Mobile Broadband 150Mbps Modem Stick WiFi Adapter ...**</span>  
-<span style="color:red;">**- LG Innotek wins USD 68 mln order for Wi-Fi 7 chips for carmaker - Telecompaper**</span>  
-<span style="color:red;">**- Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers - SecurityWeek**</span>  
-<span style="color:red;">**- LG Innotek wins 100 billion won order for in-vehicle WiFi 7 module - 디지털투데이**</span>  
-<span style="color:red;">**- LG Innotek to Supply Cutting-Edge Automotive Wi-Fi 7 Communication Module to ...**</span>  
+<span style="color:red;">**- Roundup: NETGEAR & Adtran exempted from FCC's ban, Spectrum & Xfinity Mobile ...**</span>  
+<span style="color:red;">**- This is the coolest-looking router I've ever tested, and it's got specs to ma...**</span>  
+<span style="color:red;">**- How to upgrade your home internet for faster speeds - SecurityBrief Australia**</span>  
+<span style="color:red;">**- TP-Link Meets With FCC About Router Ban Exemption, Says It's a 'US Company' -...**</span>  
+<span style="color:red;">**- TP-Link Meets With FCC About Router Ban Exemption, Says It's a 'US Company' -...**</span>  
+
+[2026-04-20 - Daily Briefing (20 articles)](briefings/2026-04-20.md)
+
+- 4G LTE Wireless USB Dongle Mobile Broadband 150Mbps Modem Stick WiFi Adapter ...
+- LG Innotek wins USD 68 mln order for Wi-Fi 7 chips for carmaker - Telecompaper
+- Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers - SecurityWeek
 
 [2026-04-19 - Daily Briefing (13 articles)](briefings/2026-04-19.md)
 
