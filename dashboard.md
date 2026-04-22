@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-21 09:46**
+Last updated: **2026-04-22 09:43**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-21.md" style="color:red;font-weight:bold;">
-    2026-04-21 - Daily Briefing (15 articles)
+  <a href="briefings/2026-04-22.md" style="color:red;font-weight:bold;">
+    2026-04-22 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Roundup: NETGEAR & Adtran exempted from FCC's ban, Spectrum & Xfinity Mobile ...**</span>  
-<span style="color:red;">**- This is the coolest-looking router I've ever tested, and it's got specs to ma...**</span>  
-<span style="color:red;">**- How to upgrade your home internet for faster speeds - SecurityBrief Australia**</span>  
-<span style="color:red;">**- TP-Link Meets With FCC About Router Ban Exemption, Says It's a 'US Company' -...**</span>  
-<span style="color:red;">**- TP-Link Meets With FCC About Router Ban Exemption, Says It's a 'US Company' -...**</span>  
+<span style="color:red;">**- Best Wi-Fi Routers of 2026: Top Rated Picks for Gaming, Work, and 4K Streamin...**</span>  
+<span style="color:red;">**- FCC issues ban on foreign-made Wi-Fi routers - EverythingLubbock.com**</span>  
+<span style="color:red;">**- The 4 Best Mesh Wi-Fi Systems of 2026 - RTINGS.com**</span>  
+<span style="color:red;">**- These are 2 best mesh Wi-Fi routers for stable, easy-to-use home internet - CNN**</span>  
+<span style="color:red;">**- LG Innotek secures automotive Wi-Fi 7 supply agreement - Just Auto**</span>  
+
+[2026-04-21 - Daily Briefing (15 articles)](briefings/2026-04-21.md)
+
+- Roundup: NETGEAR & Adtran exempted from FCC's ban, Spectrum & Xfinity Mobile ...
+- This is the coolest-looking router I've ever tested, and it's got specs to ma...
+- How to upgrade your home internet for faster speeds - SecurityBrief Australia
 
 [2026-04-20 - Daily Briefing (20 articles)](briefings/2026-04-20.md)
 
