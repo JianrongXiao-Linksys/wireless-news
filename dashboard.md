@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-22 09:43**
+Last updated: **2026-04-23 09:51**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-22.md" style="color:red;font-weight:bold;">
-    2026-04-22 - Daily Briefing (12 articles)
+  <a href="briefings/2026-04-23.md" style="color:red;font-weight:bold;">
+    2026-04-23 - Daily Briefing (20 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Best Wi-Fi Routers of 2026: Top Rated Picks for Gaming, Work, and 4K Streamin...**</span>  
-<span style="color:red;">**- FCC issues ban on foreign-made Wi-Fi routers - EverythingLubbock.com**</span>  
-<span style="color:red;">**- The 4 Best Mesh Wi-Fi Systems of 2026 - RTINGS.com**</span>  
-<span style="color:red;">**- These are 2 best mesh Wi-Fi routers for stable, easy-to-use home internet - CNN**</span>  
-<span style="color:red;">**- LG Innotek secures automotive Wi-Fi 7 supply agreement - Just Auto**</span>  
+<span style="color:red;">**- How WiFi 7 Eliminates Network Congestion for Faster, Smoother Streaming - Gee...**</span>  
+<span style="color:red;">**- 3 reasons you need to skip that Wi-Fi 7 router and wait for Wi-Fi 8 - MSN**</span>  
+<span style="color:red;">**- ARRIS SURFboard mAX W121 Tri-Band Mesh Wi-Fi drops to $62.99 - Technobezz**</span>  
+<span style="color:red;">**- It took me a long time to understand why the internet router should not be pl...**</span>  
+<span style="color:red;">**- Amazon's Eero Exempted From FCC's Foreign-Made Wi-Fi Router Ban - PCMag**</span>  
+
+[2026-04-22 - Daily Briefing (12 articles)](briefings/2026-04-22.md)
+
+- Best Wi-Fi Routers of 2026: Top Rated Picks for Gaming, Work, and 4K Streamin...
+- FCC issues ban on foreign-made Wi-Fi routers - EverythingLubbock.com
+- The 4 Best Mesh Wi-Fi Systems of 2026 - RTINGS.com
 
 [2026-04-21 - Daily Briefing (15 articles)](briefings/2026-04-21.md)
 
