@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-24 09:50**
+Last updated: **2026-04-25 09:03**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-24.md" style="color:red;font-weight:bold;">
-    2026-04-24 - Daily Briefing (20 articles)
+  <a href="briefings/2026-04-25.md" style="color:red;font-weight:bold;">
+    2026-04-25 - Daily Briefing (19 articles)
   </a>
 </p>
 
-<span style="color:red;">**- New BT Wi-Fi router spotted that will do more than just boost your broadband ...**</span>  
-<span style="color:red;">**- How Machine Learning is Fixing Wi-Fi Before You Even Notice - WiFi Planet**</span>  
-<span style="color:red;">**- AMD EXPO 1.2 Support Lands On ASUS’s X870 Motherboards – CUDIMM & Low-Latency...**</span>  
-<span style="color:red;">**- Huawei Wi-Fi X smartphone router pre-order begins - Huawei Central**</span>  
-<span style="color:red;">**- ASUS ROG Strix Morph 96 Wireless Keyboard Review: A Modular 96% Keyboard with...**</span>  
+<span style="color:red;">**- FCC expands WiFi router ban. What it means for you. - Mashable**</span>  
+<span style="color:red;">**- Some Brands Are Safe From The US' Foreign Router Ban, But No One Seems To Kno...**</span>  
+<span style="color:red;">**- Take 50% off this beast of a router, plus get a free $80 Xbox gift card - XDA**</span>  
+<span style="color:red;">**- Amazon eero and Leo routers escape the FCC’s foreign router ban - Android Police**</span>  
+<span style="color:red;">**- Will Starlink Escape the FCC's Router Ban? Not With Production in Vietnam - P...**</span>  
+
+[2026-04-24 - Daily Briefing (20 articles)](briefings/2026-04-24.md)
+
+- New BT Wi-Fi router spotted that will do more than just boost your broadband ...
+- How Machine Learning is Fixing Wi-Fi Before You Even Notice - WiFi Planet
+- AMD EXPO 1.2 Support Lands On ASUS’s X870 Motherboards – CUDIMM & Low-Latency...
 
 [2026-04-23 - Daily Briefing (20 articles)](briefings/2026-04-23.md)
 
