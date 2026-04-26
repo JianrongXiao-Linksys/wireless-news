@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-25 09:03**
+Last updated: **2026-04-26 09:09**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-25.md" style="color:red;font-weight:bold;">
-    2026-04-25 - Daily Briefing (19 articles)
+  <a href="briefings/2026-04-26.md" style="color:red;font-weight:bold;">
+    2026-04-26 - Daily Briefing (9 articles)
   </a>
 </p>
 
-<span style="color:red;">**- FCC expands WiFi router ban. What it means for you. - Mashable**</span>  
-<span style="color:red;">**- Some Brands Are Safe From The US' Foreign Router Ban, But No One Seems To Kno...**</span>  
-<span style="color:red;">**- Take 50% off this beast of a router, plus get a free $80 Xbox gift card - XDA**</span>  
-<span style="color:red;">**- Amazon eero and Leo routers escape the FCC’s foreign router ban - Android Police**</span>  
-<span style="color:red;">**- Will Starlink Escape the FCC's Router Ban? Not With Production in Vietnam - P...**</span>  
+<span style="color:red;">**- Asus TUF BE9400 Gaming Router - PCMag UK**</span>  
+<span style="color:red;">**- MediaTek @WWC: Challenging business environment requires new approach to succ...**</span>  
+<span style="color:red;">**- Fbar Devices Market Growth Outlook to 2035: 5G, Wi-Fi 7, and Iot Demand Accel...**</span>  
+<span style="color:red;">**- Decorative Storage Boxes Wooden WiFi Router Cover Box - Wall Mountable Modem ...**</span>  
+<span style="color:red;">**- Motorola's Razr Is Days Away From Its iPhone Moment**</span>  
+
+[2026-04-25 - Daily Briefing (19 articles)](briefings/2026-04-25.md)
+
+- FCC expands WiFi router ban. What it means for you. - Mashable
+- Some Brands Are Safe From The US' Foreign Router Ban, But No One Seems To Kno...
+- Take 50% off this beast of a router, plus get a free $80 Xbox gift card - XDA
 
 [2026-04-24 - Daily Briefing (20 articles)](briefings/2026-04-24.md)
 
