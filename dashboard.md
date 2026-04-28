@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-27 10:24**
+Last updated: **2026-04-28 10:22**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-27.md" style="color:red;font-weight:bold;">
-    2026-04-27 - Daily Briefing (10 articles)
+  <a href="briefings/2026-04-28.md" style="color:red;font-weight:bold;">
+    2026-04-28 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Amazon Gets a Pass: Eero & Leo Routers Get FCC Ban Relief For Now - Android H...**</span>  
-<span style="color:red;">**- BT users offered impressive Wi-Fi router upgrade, and here's how to claim you...**</span>  
-<span style="color:red;">**- Webinar: Understanding Wi-Fi 8: Unmatched reliability, efficiency and speed -...**</span>  
-<span style="color:red;">**- Huawei Wi-Fi X mobile router officially available for purchase - Huawei Central**</span>  
-<span style="color:red;">**- Taiwan networking firms set for 11% Q2 growth as Wi-Fi 7 gains traction - dig...**</span>  
+<span style="color:red;">**- Instantly speed up your Wi-Fi by moving your router away from 1 item in your ...**</span>  
+<span style="color:red;">**- COLORFUL Refreshes BATTLE-AX Motherboard Lineup with Wi-Fi 7 Support - eTeknix**</span>  
+<span style="color:red;">**- COLORFUL Introduces New BATTLE-AX B860M and B760M Motherboards with Wi-Fi 7 a...**</span>  
+<span style="color:red;">**- Amazon Eero Outdoor 7 review: Bring your Wi-Fi outside - GadgetGuy**</span>  
+<span style="color:red;">**- FCC expands WiFi router ban. What it means for you. - MSN**</span>  
+
+[2026-04-27 - Daily Briefing (10 articles)](briefings/2026-04-27.md)
+
+- Amazon Gets a Pass: Eero & Leo Routers Get FCC Ban Relief For Now - Android H...
+- BT users offered impressive Wi-Fi router upgrade, and here's how to claim you...
+- Webinar: Understanding Wi-Fi 8: Unmatched reliability, efficiency and speed -...
 
 [2026-04-26 - Daily Briefing (9 articles)](briefings/2026-04-26.md)
 
