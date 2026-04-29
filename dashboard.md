@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-28 10:22**
+Last updated: **2026-04-29 10:12**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-28.md" style="color:red;font-weight:bold;">
-    2026-04-28 - Daily Briefing (14 articles)
+  <a href="briefings/2026-04-29.md" style="color:red;font-weight:bold;">
+    2026-04-29 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Instantly speed up your Wi-Fi by moving your router away from 1 item in your ...**</span>  
-<span style="color:red;">**- COLORFUL Refreshes BATTLE-AX Motherboard Lineup with Wi-Fi 7 Support - eTeknix**</span>  
-<span style="color:red;">**- COLORFUL Introduces New BATTLE-AX B860M and B760M Motherboards with Wi-Fi 7 a...**</span>  
-<span style="color:red;">**- Amazon Eero Outdoor 7 review: Bring your Wi-Fi outside - GadgetGuy**</span>  
-<span style="color:red;">**- FCC expands WiFi router ban. What it means for you. - MSN**</span>  
+<span style="color:red;">**- Zhone caters to gigabit-era ISPs with new Helix PON home gateways - Telecompaper**</span>  
+<span style="color:red;">**- 3 reasons you need to skip that Wi-Fi 7 router and wait for Wi-Fi 8 - MSN**</span>  
+<span style="color:red;">**- Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag**</span>  
+<span style="color:red;">**- The FCC Has Banned Many WiFi Routers But Just Gave Amazon An Exemption - | Co...**</span>  
+<span style="color:red;">**- This £8.59 TP-Link gigabit Ethernet switch is the ultimate budget upgrade for...**</span>  
+
+[2026-04-28 - Daily Briefing (14 articles)](briefings/2026-04-28.md)
+
+- Instantly speed up your Wi-Fi by moving your router away from 1 item in your ...
+- COLORFUL Refreshes BATTLE-AX Motherboard Lineup with Wi-Fi 7 Support - eTeknix
+- COLORFUL Introduces New BATTLE-AX B860M and B760M Motherboards with Wi-Fi 7 a...
 
 [2026-04-27 - Daily Briefing (10 articles)](briefings/2026-04-27.md)
 
