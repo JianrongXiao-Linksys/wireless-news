@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-29 10:12**
+Last updated: **2026-04-30 10:14**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-29.md" style="color:red;font-weight:bold;">
-    2026-04-29 - Daily Briefing (11 articles)
+  <a href="briefings/2026-04-30.md" style="color:red;font-weight:bold;">
+    2026-04-30 - Daily Briefing (21 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Zhone caters to gigabit-era ISPs with new Helix PON home gateways - Telecompaper**</span>  
-<span style="color:red;">**- 3 reasons you need to skip that Wi-Fi 7 router and wait for Wi-Fi 8 - MSN**</span>  
-<span style="color:red;">**- Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag**</span>  
-<span style="color:red;">**- The FCC Has Banned Many WiFi Routers But Just Gave Amazon An Exemption - | Co...**</span>  
-<span style="color:red;">**- This £8.59 TP-Link gigabit Ethernet switch is the ultimate budget upgrade for...**</span>  
+<span style="color:red;">**- Roundup: Amazon eero exempt from ban, Charter doubles down on 'seamless conne...**</span>  
+<span style="color:red;">**- Webinar: Understanding Wi-Fi 8: Unmatched reliability, efficiency and speed -...**</span>  
+<span style="color:red;">**- Huawei adds new phones and tablets to ‘Wi-Fi 7+ support’ list - Huawei Central**</span>  
+<span style="color:red;">**- Untitled article - Gizchina.com**</span>  
+<span style="color:red;">**- Google Nest Wifi router and point get April 2026 update - 9to5Google**</span>  
+
+[2026-04-29 - Daily Briefing (11 articles)](briefings/2026-04-29.md)
+
+- Zhone caters to gigabit-era ISPs with new Helix PON home gateways - Telecompaper
+- 3 reasons you need to skip that Wi-Fi 7 router and wait for Wi-Fi 8 - MSN
+- Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag
 
 [2026-04-28 - Daily Briefing (14 articles)](briefings/2026-04-28.md)
 
