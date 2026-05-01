@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-04-30 10:14**
+Last updated: **2026-05-01 09:53**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-04-30.md" style="color:red;font-weight:bold;">
-    2026-04-30 - Daily Briefing (21 articles)
+  <a href="briefings/2026-05-01.md" style="color:red;font-weight:bold;">
+    2026-05-01 - Daily Briefing (26 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Roundup: Amazon eero exempt from ban, Charter doubles down on 'seamless conne...**</span>  
-<span style="color:red;">**- Webinar: Understanding Wi-Fi 8: Unmatched reliability, efficiency and speed -...**</span>  
-<span style="color:red;">**- Huawei adds new phones and tablets to ‘Wi-Fi 7+ support’ list - Huawei Central**</span>  
-<span style="color:red;">**- Untitled article - Gizchina.com**</span>  
-<span style="color:red;">**- Google Nest Wifi router and point get April 2026 update - 9to5Google**</span>  
+<span style="color:red;">**- Broadcom launches Wi-Fi 8 fiber gateway chips - Bisinfotech**</span>  
+<span style="color:red;">**- Wi-Fi 8: The next generation of unwavering connectivity - SDxCentral**</span>  
+<span style="color:red;">**- Broadcom unveils Wi-Fi 8, PON gateway integration targeted at value-conscious...**</span>  
+<span style="color:red;">**- Los Angeles Convention Center deploys Wi-Fi 7 network with Boldyn - Telecompaper**</span>  
+<span style="color:red;">**- Broadcom Expands Wi-Fi 8 Portfolio with New 10G PON Chip for Fiber Broadband ...**</span>  
+
+[2026-04-30 - Daily Briefing (21 articles)](briefings/2026-04-30.md)
+
+- Roundup: Amazon eero exempt from ban, Charter doubles down on 'seamless conne...
+- Webinar: Understanding Wi-Fi 8: Unmatched reliability, efficiency and speed -...
+- Huawei adds new phones and tablets to ‘Wi-Fi 7+ support’ list - Huawei Central
 
 [2026-04-29 - Daily Briefing (11 articles)](briefings/2026-04-29.md)
 
