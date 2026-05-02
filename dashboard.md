@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-01 09:53**
+Last updated: **2026-05-02 09:14**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-01.md" style="color:red;font-weight:bold;">
-    2026-05-01 - Daily Briefing (26 articles)
+  <a href="briefings/2026-05-02.md" style="color:red;font-weight:bold;">
+    2026-05-02 - Daily Briefing (19 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Broadcom launches Wi-Fi 8 fiber gateway chips - Bisinfotech**</span>  
-<span style="color:red;">**- Wi-Fi 8: The next generation of unwavering connectivity - SDxCentral**</span>  
-<span style="color:red;">**- Broadcom unveils Wi-Fi 8, PON gateway integration targeted at value-conscious...**</span>  
-<span style="color:red;">**- Los Angeles Convention Center deploys Wi-Fi 7 network with Boldyn - Telecompaper**</span>  
-<span style="color:red;">**- Broadcom Expands Wi-Fi 8 Portfolio with New 10G PON Chip for Fiber Broadband ...**</span>  
+<span style="color:red;">**- Uber wants to turn its millions of drivers into a sensor grid for self-drivin...**</span>  
+<span style="color:red;">**- Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather ...**</span>  
+<span style="color:red;">**- Motorola Razr Fold Hands-On: Watch Out Samsung, This Phone Has an Edge**</span>  
+<span style="color:red;">**- The Best Wi-Fi Range Extenders for 2026 - PCMag UK**</span>  
+<span style="color:red;">**- Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive moment...**</span>  
+
+[2026-05-01 - Daily Briefing (26 articles)](briefings/2026-05-01.md)
+
+- Broadcom launches Wi-Fi 8 fiber gateway chips - Bisinfotech
+- Wi-Fi 8: The next generation of unwavering connectivity - SDxCentral
+- Broadcom unveils Wi-Fi 8, PON gateway integration targeted at value-conscious...
 
 [2026-04-30 - Daily Briefing (21 articles)](briefings/2026-04-30.md)
 
