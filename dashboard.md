@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-02 09:14**
+Last updated: **2026-05-03 09:26**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-02.md" style="color:red;font-weight:bold;">
-    2026-05-02 - Daily Briefing (19 articles)
+  <a href="briefings/2026-05-03.md" style="color:red;font-weight:bold;">
+    2026-05-03 - Daily Briefing (15 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Uber wants to turn its millions of drivers into a sensor grid for self-drivin...**</span>  
-<span style="color:red;">**- Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather ...**</span>  
-<span style="color:red;">**- Motorola Razr Fold Hands-On: Watch Out Samsung, This Phone Has an Edge**</span>  
-<span style="color:red;">**- The Best Wi-Fi Range Extenders for 2026 - PCMag UK**</span>  
-<span style="color:red;">**- Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive moment...**</span>  
+<span style="color:red;">**- Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget - ...**</span>  
+<span style="color:red;">**- These 5 Wi-Fi tweaks cost nothing and work better than buying a new router - ...**</span>  
+<span style="color:red;">**- I moved my smart home off Wi-Fi and onto Thread, and my router finally stoppe...**</span>  
+<span style="color:red;">**- Why Has the US Banned Foreign-Made Routers? - WIRED**</span>  
+<span style="color:red;">**- The Best Wi-Fi Mesh Network Systems for 2026 - PCMag UK**</span>  
+
+[2026-05-02 - Daily Briefing (19 articles)](briefings/2026-05-02.md)
+
+- Uber wants to turn its millions of drivers into a sensor grid for self-drivin...
+- Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather ...
+- Motorola Razr Fold Hands-On: Watch Out Samsung, This Phone Has an Edge
 
 [2026-05-01 - Daily Briefing (26 articles)](briefings/2026-05-01.md)
 
