@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-03 09:26**
+Last updated: **2026-05-04 10:20**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-03.md" style="color:red;font-weight:bold;">
-    2026-05-03 - Daily Briefing (15 articles)
+  <a href="briefings/2026-05-04.md" style="color:red;font-weight:bold;">
+    2026-05-04 - Daily Briefing (10 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget - ...**</span>  
-<span style="color:red;">**- These 5 Wi-Fi tweaks cost nothing and work better than buying a new router - ...**</span>  
-<span style="color:red;">**- I moved my smart home off Wi-Fi and onto Thread, and my router finally stoppe...**</span>  
-<span style="color:red;">**- Why Has the US Banned Foreign-Made Routers? - WIRED**</span>  
-<span style="color:red;">**- The Best Wi-Fi Mesh Network Systems for 2026 - PCMag UK**</span>  
+<span style="color:red;">**- Realtek posts surge in revenue as Wi-Fi 7 adoption accelerates - digitimes**</span>  
+<span style="color:red;">**- Vodafone launches its own first home router for fibre broadband, in Germany -...**</span>  
+<span style="color:red;">**- Netgear Orbi 370 Series Review (RBE373): Reliable Wi-Fi 7 Mesh for Real Homes...**</span>  
+<span style="color:red;">**- Best Routers for Large Homes to Buy in 2026 - Technobezz**</span>  
+<span style="color:red;">**- ASUS ROG Crosshair X870E Hero AMD AM5 Motherboard Quick Look - ServeTheHome**</span>  
+
+[2026-05-03 - Daily Briefing (15 articles)](briefings/2026-05-03.md)
+
+- Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget - ...
+- These 5 Wi-Fi tweaks cost nothing and work better than buying a new router - ...
+- I moved my smart home off Wi-Fi and onto Thread, and my router finally stoppe...
 
 [2026-05-02 - Daily Briefing (19 articles)](briefings/2026-05-02.md)
 
