@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-04 10:20**
+Last updated: **2026-05-05 10:09**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-04.md" style="color:red;font-weight:bold;">
-    2026-05-04 - Daily Briefing (10 articles)
+  <a href="briefings/2026-05-05.md" style="color:red;font-weight:bold;">
+    2026-05-05 - Daily Briefing (7 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Realtek posts surge in revenue as Wi-Fi 7 adoption accelerates - digitimes**</span>  
-<span style="color:red;">**- Vodafone launches its own first home router for fibre broadband, in Germany -...**</span>  
-<span style="color:red;">**- Netgear Orbi 370 Series Review (RBE373): Reliable Wi-Fi 7 Mesh for Real Homes...**</span>  
-<span style="color:red;">**- Best Routers for Large Homes to Buy in 2026 - Technobezz**</span>  
-<span style="color:red;">**- ASUS ROG Crosshair X870E Hero AMD AM5 Motherboard Quick Look - ServeTheHome**</span>  
+<span style="color:red;">**- Intel swipes Qualcomm veteran of 25 years to lead client computing — Alex Kat...**</span>  
+<span style="color:red;">**- Your funny Wi-Fi name is secretly ruining your home network - How-To Geek**</span>  
+<span style="color:red;">**- A Family-Sized Deal: Save Over 30% on the Echo Show 5 Kids Speaker Today - PCMag**</span>  
+<span style="color:red;">**- TP-Link Battles FCC Over Router Import Ban Exemption - Orange County Business...**</span>  
+<span style="color:red;">**- I rebooted my router and ruined Reddit’s favorite tech myth - PCWorld**</span>  
+
+[2026-05-04 - Daily Briefing (10 articles)](briefings/2026-05-04.md)
+
+- Realtek posts surge in revenue as Wi-Fi 7 adoption accelerates - digitimes
+- Vodafone launches its own first home router for fibre broadband, in Germany -...
+- Netgear Orbi 370 Series Review (RBE373): Reliable Wi-Fi 7 Mesh for Real Homes...
 
 [2026-05-03 - Daily Briefing (15 articles)](briefings/2026-05-03.md)
 
