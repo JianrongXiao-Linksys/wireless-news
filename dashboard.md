@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-05 10:09**
+Last updated: **2026-05-06 10:24**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-05.md" style="color:red;font-weight:bold;">
-    2026-05-05 - Daily Briefing (7 articles)
+  <a href="briefings/2026-05-06.md" style="color:red;font-weight:bold;">
+    2026-05-06 - Daily Briefing (7 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Intel swipes Qualcomm veteran of 25 years to lead client computing — Alex Kat...**</span>  
-<span style="color:red;">**- Your funny Wi-Fi name is secretly ruining your home network - How-To Geek**</span>  
-<span style="color:red;">**- A Family-Sized Deal: Save Over 30% on the Echo Show 5 Kids Speaker Today - PCMag**</span>  
-<span style="color:red;">**- TP-Link Battles FCC Over Router Import Ban Exemption - Orange County Business...**</span>  
-<span style="color:red;">**- I rebooted my router and ruined Reddit’s favorite tech myth - PCWorld**</span>  
+<span style="color:red;">**- Key Differences Between Wi-Fi 7, 5G, and Upcoming 6G Wireless Technology - Ti...**</span>  
+<span style="color:red;">**- Extreme launches Wi-Fi 7 access points for indoors - TelcoNews Australia**</span>  
+<span style="color:red;">**- RichWave sees Wi-Fi 7 growth outrunning memory price pressure - digitimes**</span>  
+<span style="color:red;">**- TP-Link RE653BE Review: A Versatile and Solid Wi-Fi 7 Extender - Dong Knows Tech**</span>  
+<span style="color:red;">**- Extreme Networks takes aim with AI agent and Wi-Fi 7 updates - SDxCentral**</span>  
+
+[2026-05-05 - Daily Briefing (7 articles)](briefings/2026-05-05.md)
+
+- Intel swipes Qualcomm veteran of 25 years to lead client computing — Alex Kat...
+- Your funny Wi-Fi name is secretly ruining your home network - How-To Geek
+- A Family-Sized Deal: Save Over 30% on the Echo Show 5 Kids Speaker Today - PCMag
 
 [2026-05-04 - Daily Briefing (10 articles)](briefings/2026-05-04.md)
 
