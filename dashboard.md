@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-07 10:31**
+Last updated: **2026-05-08 09:46**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-07.md" style="color:red;font-weight:bold;">
-    2026-05-07 - Daily Briefing (21 articles)
+  <a href="briefings/2026-05-08.md" style="color:red;font-weight:bold;">
+    2026-05-08 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Save nearly $300 on AMD Ryzen 7 9850X3D and Asus Prime RTX 5070 bundle, plus ...**</span>  
-<span style="color:red;">**- Xiaomi’s New BE7200 Pro Router Brings Flagship WiFi 7 Features at a Shockingl...**</span>  
-<span style="color:red;">**- Wi-Fi Range Extender Market Is Going to Boom |• Netgear • TP-Link • Linksys -...**</span>  
-<span style="color:red;">**- Qualcomm Snapdragon 6 Gen 5 and 4 Gen 5 Announced With Wi-Fi 7, 90FPS Gaming ...**</span>  
-<span style="color:red;">**- Xiaomi BE7200 Pro: Wi-Fi 7 Router With a Vertical Design and a decent price t...**</span>  
+<span style="color:red;">**- Extreme Accelerates Leadership Position in Next-Generation Wi-Fi 7 - iTWire**</span>  
+<span style="color:red;">**- Extreme Networks (EXTR) Launches Wi-Fi 7 Network at University o - GuruFocus**</span>  
+<span style="color:red;">**- Best Prime Day deals on mesh routers and WiFi systems - Mashable**</span>  
+<span style="color:red;">**- ASUS Launches the CM14, its Latest ChromeOS Laptop - Phandroid**</span>  
+<span style="color:red;">**- Motherboard sales 'collapse' by more than 25% as chipmakers strangle enthusia...**</span>  
+
+[2026-05-07 - Daily Briefing (21 articles)](briefings/2026-05-07.md)
+
+- Save nearly $300 on AMD Ryzen 7 9850X3D and Asus Prime RTX 5070 bundle, plus ...
+- Xiaomi’s New BE7200 Pro Router Brings Flagship WiFi 7 Features at a Shockingl...
+- Wi-Fi Range Extender Market Is Going to Boom |• Netgear • TP-Link • Linksys -...
 
 [2026-05-06 - Daily Briefing (7 articles)](briefings/2026-05-06.md)
 
