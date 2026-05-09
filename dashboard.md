@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-08 09:46**
+Last updated: **2026-05-09 09:26**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-08.md" style="color:red;font-weight:bold;">
-    2026-05-08 - Daily Briefing (14 articles)
+  <a href="briefings/2026-05-09.md" style="color:red;font-weight:bold;">
+    2026-05-09 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Extreme Accelerates Leadership Position in Next-Generation Wi-Fi 7 - iTWire**</span>  
-<span style="color:red;">**- Extreme Networks (EXTR) Launches Wi-Fi 7 Network at University o - GuruFocus**</span>  
-<span style="color:red;">**- Best Prime Day deals on mesh routers and WiFi systems - Mashable**</span>  
-<span style="color:red;">**- ASUS Launches the CM14, its Latest ChromeOS Laptop - Phandroid**</span>  
-<span style="color:red;">**- Motherboard sales 'collapse' by more than 25% as chipmakers strangle enthusia...**</span>  
+<span style="color:red;">**- Extreme Networks Expands Wi-Fi 7 Portfolio With New Indoor And Outdoor Access...**</span>  
+<span style="color:red;">**- FCC Extends Update Deadline for Foreign-Made Routers, Drones Until 2029 - PCMag**</span>  
+<span style="color:red;">**- San Francisco’s housing market has lost its mind**</span>  
+<span style="color:red;">**- ASUS RP-BE58 Review: A Modest Wi-Fi 7 Range Extender - Dong Knows Tech**</span>  
+<span style="color:red;">**- Asus chases Elgato with its own secondary touchscreen display**</span>  
+
+[2026-05-08 - Daily Briefing (14 articles)](briefings/2026-05-08.md)
+
+- Extreme Accelerates Leadership Position in Next-Generation Wi-Fi 7 - iTWire
+- Extreme Networks (EXTR) Launches Wi-Fi 7 Network at University o - GuruFocus
+- Best Prime Day deals on mesh routers and WiFi systems - Mashable
 
 [2026-05-07 - Daily Briefing (21 articles)](briefings/2026-05-07.md)
 
