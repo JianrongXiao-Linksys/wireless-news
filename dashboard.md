@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-10 09:44**
+Last updated: **2026-05-11 11:31**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-10.md" style="color:red;font-weight:bold;">
-    2026-05-10 - Daily Briefing (8 articles)
+  <a href="briefings/2026-05-11.md" style="color:red;font-weight:bold;">
+    2026-05-11 - Daily Briefing (9 articles)
   </a>
 </p>
 
-<span style="color:red;">**- A Look At Extreme Networks (EXTR) Valuation After New Wi Fi 7 And AI Platform...**</span>  
-<span style="color:red;">**- Press one button on your Wi-Fi router to get an instant free broadband speed ...**</span>  
-<span style="color:red;">**- Working, gaming, and streaming together? These Wi-Fi 6 routers can handle it ...**</span>  
-<span style="color:red;">**- Amped Wireless WA12 12dBi High Gain Omni-Directional WiFi Antenna - Boosts Ra...**</span>  
-<span style="color:red;">**- Google built the world's best Wi-Fi router in 2016, and nothing's really matc...**</span>  
+<span style="color:red;">**- Amazon's eero 7 and Pro 6E mesh Wi-Fi routers hit lowest prices of the year t...**</span>  
+<span style="color:red;">**- Win a Netgear Nighthawk router & Orbi Mesh system! - stuff.tv**</span>  
+<span style="color:red;">**- The Ryzen 7 9800X3D CPU And ASUS TUF Motherboard Combo From Amazon Offers A S...**</span>  
+<span style="color:red;">**- FCC Extends Software Update Waiver For Foreign-Made Routers, Drones Until 202...**</span>  
+<span style="color:red;">**- Hands-on review: Asus RT-BE58 Go dual-band travel router/range extender - fut...**</span>  
+
+[2026-05-10 - Daily Briefing (8 articles)](briefings/2026-05-10.md)
+
+- A Look At Extreme Networks (EXTR) Valuation After New Wi Fi 7 And AI Platform...
+- Press one button on your Wi-Fi router to get an instant free broadband speed ...
+- Working, gaming, and streaming together? These Wi-Fi 6 routers can handle it ...
 
 [2026-05-09 - Daily Briefing (12 articles)](briefings/2026-05-09.md)
 
