@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-11 11:31**
+Last updated: **2026-05-12 10:38**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-11.md" style="color:red;font-weight:bold;">
-    2026-05-11 - Daily Briefing (9 articles)
+  <a href="briefings/2026-05-12.md" style="color:red;font-weight:bold;">
+    2026-05-12 - Daily Briefing (20 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Amazon's eero 7 and Pro 6E mesh Wi-Fi routers hit lowest prices of the year t...**</span>  
-<span style="color:red;">**- Win a Netgear Nighthawk router & Orbi Mesh system! - stuff.tv**</span>  
-<span style="color:red;">**- The Ryzen 7 9800X3D CPU And ASUS TUF Motherboard Combo From Amazon Offers A S...**</span>  
-<span style="color:red;">**- FCC Extends Software Update Waiver For Foreign-Made Routers, Drones Until 202...**</span>  
-<span style="color:red;">**- Hands-on review: Asus RT-BE58 Go dual-band travel router/range extender - fut...**</span>  
+<span style="color:red;">**- Five Best Wi-Fi Range Extender: The Most Flexible and Convinient Options for ...**</span>  
+<span style="color:red;">**- Xiaomi BE7200 Pro: one of the most affordable routers with Wi-Fi 7 - hi-Tech.ua**</span>  
+<span style="color:red;">**- ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software - TechPowerUp**</span>  
+<span style="color:red;">**- ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking - TechPowerUp**</span>  
+<span style="color:red;">**- ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - TechPowerUp**</span>  
+
+[2026-05-11 - Daily Briefing (9 articles)](briefings/2026-05-11.md)
+
+- Amazon's eero 7 and Pro 6E mesh Wi-Fi routers hit lowest prices of the year t...
+- Win a Netgear Nighthawk router & Orbi Mesh system! - stuff.tv
+- The Ryzen 7 9800X3D CPU And ASUS TUF Motherboard Combo From Amazon Offers A S...
 
 [2026-05-10 - Daily Briefing (8 articles)](briefings/2026-05-10.md)
 
