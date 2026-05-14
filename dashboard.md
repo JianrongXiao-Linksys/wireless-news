@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-13 10:37**
+Last updated: **2026-05-14 10:27**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-13.md" style="color:red;font-weight:bold;">
-    2026-05-13 - Daily Briefing (19 articles)
+  <a href="briefings/2026-05-14.md" style="color:red;font-weight:bold;">
+    2026-05-14 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ZTE advances intelligent network monetization strategy at AGC2026, empowering...**</span>  
-<span style="color:red;">**- Best Budget WiFi Routers Under Rs. 5000 in 2026 - Analytics Insight**</span>  
-<span style="color:red;">**- ZTE and MediaTek unveil Tri-band Wi-Fi 7, targeting a relatively unexplored p...**</span>  
-<span style="color:red;">**- Broadcom BCM67142, BCM67192, and BCM68565 chips target low-cost WiFi 8 10 Gbp...**</span>  
-<span style="color:red;">**- How To Make Your Home Wi-Fi Network Safe (And Keep Others From Connecting To ...**</span>  
+<span style="color:red;">**- Borussia Mönchengladbach deploys Extreme Networks Wifi 7 across Borussia-Park...**</span>  
+<span style="color:red;">**- Wi-Fi Router Manufacturing Plant DPR & Unit Setup 2026: Business Plan and Cap...**</span>  
+<span style="color:red;">**- Adtran Intros Expanded SDG 8700 Portfolio with 2.5G and 10G Wi-Fi 7 Gateways ...**</span>  
+<span style="color:red;">**- Netgear and Eero Get Exemption From FCC's Ban of New Foreign-Made Wi-Fi Route...**</span>  
+<span style="color:red;">**- Netgear and Eero Get Exemption From FCC's Ban of New Foreign-Made Wi-Fi Routers**</span>  
+
+[2026-05-13 - Daily Briefing (19 articles)](briefings/2026-05-13.md)
+
+- ZTE advances intelligent network monetization strategy at AGC2026, empowering...
+- Best Budget WiFi Routers Under Rs. 5000 in 2026 - Analytics Insight
+- ZTE and MediaTek unveil Tri-band Wi-Fi 7, targeting a relatively unexplored p...
 
 [2026-05-12 - Daily Briefing (20 articles)](briefings/2026-05-12.md)
 
