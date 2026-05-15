@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-14 10:27**
+Last updated: **2026-05-15 10:33**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-14.md" style="color:red;font-weight:bold;">
-    2026-05-14 - Daily Briefing (30 articles)
+  <a href="briefings/2026-05-15.md" style="color:red;font-weight:bold;">
+    2026-05-15 - Daily Briefing (22 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Borussia Mönchengladbach deploys Extreme Networks Wifi 7 across Borussia-Park...**</span>  
-<span style="color:red;">**- Wi-Fi Router Manufacturing Plant DPR & Unit Setup 2026: Business Plan and Cap...**</span>  
-<span style="color:red;">**- Adtran Intros Expanded SDG 8700 Portfolio with 2.5G and 10G Wi-Fi 7 Gateways ...**</span>  
-<span style="color:red;">**- Netgear and Eero Get Exemption From FCC's Ban of New Foreign-Made Wi-Fi Route...**</span>  
-<span style="color:red;">**- Netgear and Eero Get Exemption From FCC's Ban of New Foreign-Made Wi-Fi Routers**</span>  
+<span style="color:red;">**- Asus and Xreal's $849 Gaming Display Glasses Are Available for Preorder**</span>  
+<span style="color:red;">**- Superloop EOFY Offer Includes Free eero 7 Wi-Fi 7 Modem for New Customers - D...**</span>  
+<span style="color:red;">**- Superloop adds Wi-Fi 7 mesh bundle to broadband plans - TelcoNews Australia**</span>  
+<span style="color:red;">**- Adtran Networks SE stock (DE000A14U784): Expands SDG 8700 Series for Wi-Fi 7 ...**</span>  
+<span style="color:red;">**- Calix One Platform Powers the Next Era of Wi Fi 7 Experiences To Increase ARP...**</span>  
+
+[2026-05-14 - Daily Briefing (30 articles)](briefings/2026-05-14.md)
+
+- Borussia Mönchengladbach deploys Extreme Networks Wifi 7 across Borussia-Park...
+- Wi-Fi Router Manufacturing Plant DPR & Unit Setup 2026: Business Plan and Cap...
+- Adtran Intros Expanded SDG 8700 Portfolio with 2.5G and 10G Wi-Fi 7 Gateways ...
 
 [2026-05-13 - Daily Briefing (19 articles)](briefings/2026-05-13.md)
 
