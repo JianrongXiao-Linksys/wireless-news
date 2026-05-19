@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-18 11:50**
+Last updated: **2026-05-19 11:28**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-18.md" style="color:red;font-weight:bold;">
-    2026-05-18 - Daily Briefing (7 articles)
+  <a href="briefings/2026-05-19.md" style="color:red;font-weight:bold;">
+    2026-05-19 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Grab this $8.97 TP-Link Ethernet Switch to ditch Wi-Fi lag and unlock 4K stre...**</span>  
-<span style="color:red;">**- Why goldfish might be undermining your internet speed - Canberra CityNews**</span>  
-<span style="color:red;">**- Adtran Networks SE stock (DE000A14U784): Wi?Fi 7 push puts focus back on grow...**</span>  
-<span style="color:red;">**- Best Wi-Fi Extenders for 2026 - Technobezz**</span>  
-<span style="color:red;">**- Your old phone is a $300 Wi-Fi diagnostic tool in disguise - How-To Geek**</span>  
+<span style="color:red;">**- First Look at Amazon Leo’s WiFi Router for its Satellite Broadband Service - ...**</span>  
+<span style="color:red;">**- Oman Airports Building the World's First Wi-Fi 7 Airport and Setting a Global...**</span>  
+<span style="color:red;">**- Fix iPad Air M3 Call Problems (10 Ways) - Technobezz**</span>  
+<span style="color:red;">**- Here's What the Wi-Fi Router for Amazon's Starlink Rival Looks Like - PCMag**</span>  
+<span style="color:red;">**- Here's What the Wi-Fi Router for Amazon's Starlink Rival Looks Like - PCMag UK**</span>  
+
+[2026-05-18 - Daily Briefing (7 articles)](briefings/2026-05-18.md)
+
+- Grab this $8.97 TP-Link Ethernet Switch to ditch Wi-Fi lag and unlock 4K stre...
+- Why goldfish might be undermining your internet speed - Canberra CityNews
+- Adtran Networks SE stock (DE000A14U784): Wi?Fi 7 push puts focus back on grow...
 
 [2026-05-17 - Daily Briefing (11 articles)](briefings/2026-05-17.md)
 
