@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-19 11:28**
+Last updated: **2026-05-20 11:13**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-19.md" style="color:red;font-weight:bold;">
-    2026-05-19 - Daily Briefing (14 articles)
+  <a href="briefings/2026-05-20.md" style="color:red;font-weight:bold;">
+    2026-05-20 - Daily Briefing (13 articles)
   </a>
 </p>
 
-<span style="color:red;">**- First Look at Amazon Leo’s WiFi Router for its Satellite Broadband Service - ...**</span>  
-<span style="color:red;">**- Oman Airports Building the World's First Wi-Fi 7 Airport and Setting a Global...**</span>  
-<span style="color:red;">**- Fix iPad Air M3 Call Problems (10 Ways) - Technobezz**</span>  
-<span style="color:red;">**- Here's What the Wi-Fi Router for Amazon's Starlink Rival Looks Like - PCMag**</span>  
-<span style="color:red;">**- Here's What the Wi-Fi Router for Amazon's Starlink Rival Looks Like - PCMag UK**</span>  
+<span style="color:red;">**- Dual Band Wireless Router Market Analysis By Application, Type, - openPR.com**</span>  
+<span style="color:red;">**- Nokia Secures US Broadband Future with Local Wi-Fi 8 Production as AI Overhau...**</span>  
+<span style="color:red;">**- TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room ...**</span>  
+<span style="color:red;">**- Taiwan Wi-Fi router industry, 1Q 2026: Steady recovery, rising value, and tel...**</span>  
+<span style="color:red;">**- 5 Router Settings That Might Finally Fix Your Wi-Fi Dead Zones - bgr.com**</span>  
+
+[2026-05-19 - Daily Briefing (14 articles)](briefings/2026-05-19.md)
+
+- First Look at Amazon Leo’s WiFi Router for its Satellite Broadband Service - ...
+- Oman Airports Building the World's First Wi-Fi 7 Airport and Setting a Global...
+- Fix iPad Air M3 Call Problems (10 Ways) - Technobezz
 
 [2026-05-18 - Daily Briefing (7 articles)](briefings/2026-05-18.md)
 
