@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-21 11:32**
+Last updated: **2026-05-22 10:57**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-21.md" style="color:red;font-weight:bold;">
-    2026-05-21 - Daily Briefing (17 articles)
+  <a href="briefings/2026-05-22.md" style="color:red;font-weight:bold;">
+    2026-05-22 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link WiFi 7 Mesh System Bundle Drops Back to Black Friday Low, Each Router...**</span>  
-<span style="color:red;">**- Router for Small and Medium-sized Enterprise Global Market - openPR.com**</span>  
-<span style="color:red;">**- Router Market Expected to Expand at a 9.1% CAGR Until 2030: Industry Analysis...**</span>  
-<span style="color:red;">**- Woot offers the TP-Link Deco XE200 Mesh WiFi AXE11000 Tri-Band for $299.99 - ...**</span>  
-<span style="color:red;">**- TP-Link AXE16000 quad-band WiFi 6E router available from Woot for $299.99 - T...**</span>  
+<span style="color:red;">**- Expert says household item is slowing your wifi - Cambridge News**</span>  
+<span style="color:red;">**- Russian Hackers Are Inside American Home Routers. The FBI Has a 5-Step Fix - ...**</span>  
+<span style="color:red;">**- LG Innotek wins $68M order to supply automotive Wi-Fi 7 module - Evertiq**</span>  
+<span style="color:red;">**- Should DOCSIS 4.0 and Wi-Fi 7 Tailwinds Reshape How Vistance Networks (VISN) ...**</span>  
+<span style="color:red;">**- TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming feat...**</span>  
+
+[2026-05-21 - Daily Briefing (17 articles)](briefings/2026-05-21.md)
+
+- TP-Link WiFi 7 Mesh System Bundle Drops Back to Black Friday Low, Each Router...
+- Router for Small and Medium-sized Enterprise Global Market - openPR.com
+- Router Market Expected to Expand at a 9.1% CAGR Until 2030: Industry Analysis...
 
 [2026-05-20 - Daily Briefing (13 articles)](briefings/2026-05-20.md)
 
