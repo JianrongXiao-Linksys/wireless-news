@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-22 10:57**
+Last updated: **2026-05-23 10:00**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-22.md" style="color:red;font-weight:bold;">
-    2026-05-22 - Daily Briefing (11 articles)
+  <a href="briefings/2026-05-23.md" style="color:red;font-weight:bold;">
+    2026-05-23 - Daily Briefing (6 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Expert says household item is slowing your wifi - Cambridge News**</span>  
-<span style="color:red;">**- Russian Hackers Are Inside American Home Routers. The FBI Has a 5-Step Fix - ...**</span>  
-<span style="color:red;">**- LG Innotek wins $68M order to supply automotive Wi-Fi 7 module - Evertiq**</span>  
-<span style="color:red;">**- Should DOCSIS 4.0 and Wi-Fi 7 Tailwinds Reshape How Vistance Networks (VISN) ...**</span>  
-<span style="color:red;">**- TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming feat...**</span>  
+<span style="color:red;">**- 5 Easy Ways To Make Your Router More Secure - bgr.com**</span>  
+<span style="color:red;">**- New Wi-Fi changes the internet as we know it: Wi-Fi 7 tri-band technology ope...**</span>  
+<span style="color:red;">**- That old router in your drawer can still fix your worst Wi-Fi problems - XDA**</span>  
+<span style="color:red;">**- UniFi U7 Pro XGS (Wireless Backhaul) Review - RTINGS.com**</span>  
+<span style="color:red;">**- Home Wi-Fi Needs Have Changed: Wi-Fi 7 Mesh Could Be The Answer - Dataconomy**</span>  
+
+[2026-05-22 - Daily Briefing (11 articles)](briefings/2026-05-22.md)
+
+- Expert says household item is slowing your wifi - Cambridge News
+- Russian Hackers Are Inside American Home Routers. The FBI Has a 5-Step Fix - ...
+- LG Innotek wins $68M order to supply automotive Wi-Fi 7 module - Evertiq
 
 [2026-05-21 - Daily Briefing (17 articles)](briefings/2026-05-21.md)
 
