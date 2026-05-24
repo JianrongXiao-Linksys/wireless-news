@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-23 10:00**
+Last updated: **2026-05-24 10:01**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-23.md" style="color:red;font-weight:bold;">
-    2026-05-23 - Daily Briefing (6 articles)
+  <a href="briefings/2026-05-24.md" style="color:red;font-weight:bold;">
+    2026-05-24 - Daily Briefing (5 articles)
   </a>
 </p>
 
-<span style="color:red;">**- 5 Easy Ways To Make Your Router More Secure - bgr.com**</span>  
-<span style="color:red;">**- New Wi-Fi changes the internet as we know it: Wi-Fi 7 tri-band technology ope...**</span>  
-<span style="color:red;">**- That old router in your drawer can still fix your worst Wi-Fi problems - XDA**</span>  
-<span style="color:red;">**- UniFi U7 Pro XGS (Wireless Backhaul) Review - RTINGS.com**</span>  
-<span style="color:red;">**- Home Wi-Fi Needs Have Changed: Wi-Fi 7 Mesh Could Be The Answer - Dataconomy**</span>  
+<span style="color:red;">**- How to change your Wi-Fi password on an MTN 5G router - Tribune Online**</span>  
+<span style="color:red;">**- What Is The 30-30-30 Hard Reset Rule For Routers? - bgr.com**</span>  
+<span style="color:red;">**- Your router isn’t just for Wi-Fi—here’s everything else it can do - How-To Geek**</span>  
+<span style="color:red;">**- The 5 Best Wi-Fi Routers For Large Homes of 2026 - RTINGS.com**</span>  
+<span style="color:red;">**- Ordinary WiFi can now identify people with near perfect accuracy - ScienceDaily**</span>  
+
+[2026-05-23 - Daily Briefing (6 articles)](briefings/2026-05-23.md)
+
+- 5 Easy Ways To Make Your Router More Secure - bgr.com
+- New Wi-Fi changes the internet as we know it: Wi-Fi 7 tri-band technology ope...
+- That old router in your drawer can still fix your worst Wi-Fi problems - XDA
 
 [2026-05-22 - Daily Briefing (11 articles)](briefings/2026-05-22.md)
 
