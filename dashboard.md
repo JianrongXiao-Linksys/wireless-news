@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-28 11:44**
+Last updated: **2026-05-29 11:35**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-28.md" style="color:red;font-weight:bold;">
-    2026-05-28 - Daily Briefing (30 articles)
+  <a href="briefings/2026-05-29.md" style="color:red;font-weight:bold;">
+    2026-05-29 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Experts Warn This ‘Invisible’ Surveillance System is Already Built Into WiFi ...**</span>  
-<span style="color:red;">**- I thought my Wi-Fi was fast and stable, but looking at TP-Link's new Wi-Fi 8 ...**</span>  
-<span style="color:red;">**- Broadcom joins Samsung to launch Wi-Fi 8 FWA silicon archetype - Telecompaper**</span>  
-<span style="color:red;">**- Get 32GB of Corsair Vengeance DDR5 RAM for $240 when paired with this Asus mo...**</span>  
-<span style="color:red;">**- TP-Link has revealed its first Wi-Fi 8 router, and it’s coming this year - Tr...**</span>  
+<span style="color:red;">**- TP-Link pencils in October release for Archer Wi-Fi 8 router, wider line-up t...**</span>  
+<span style="color:red;">**- High-Performance WiFi 8 Routers - Trend Hunter**</span>  
+<span style="color:red;">**- Future-proof or premature? TP-Link announces its first WiFi 8 router - htxt.c...**</span>  
+<span style="color:red;">**- The best WiFi routers of 2026, according to Consumer Reports and other expert...**</span>  
+<span style="color:red;">**- ASUS Brings New Wi-Fi 8 Router, First in the World - TelecomTalk**</span>  
+
+[2026-05-28 - Daily Briefing (30 articles)](briefings/2026-05-28.md)
+
+- Experts Warn This ‘Invisible’ Surveillance System is Already Built Into WiFi ...
+- I thought my Wi-Fi was fast and stable, but looking at TP-Link's new Wi-Fi 8 ...
+- Broadcom joins Samsung to launch Wi-Fi 8 FWA silicon archetype - Telecompaper
 
 [2026-05-25 - Daily Briefing (12 articles)](briefings/2026-05-25.md)
 
