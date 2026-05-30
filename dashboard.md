@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-29 11:35**
+Last updated: **2026-05-30 10:07**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-29.md" style="color:red;font-weight:bold;">
-    2026-05-29 - Daily Briefing (30 articles)
+  <a href="briefings/2026-05-30.md" style="color:red;font-weight:bold;">
+    2026-05-30 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link pencils in October release for Archer Wi-Fi 8 router, wider line-up t...**</span>  
-<span style="color:red;">**- High-Performance WiFi 8 Routers - Trend Hunter**</span>  
-<span style="color:red;">**- Future-proof or premature? TP-Link announces its first WiFi 8 router - htxt.c...**</span>  
-<span style="color:red;">**- The best WiFi routers of 2026, according to Consumer Reports and other expert...**</span>  
-<span style="color:red;">**- ASUS Brings New Wi-Fi 8 Router, First in the World - TelecomTalk**</span>  
+<span style="color:red;">**- TP-Link Unveils First Wi-Fi 8 Router Even Though Wi-Fi 8 Is Still Years Away ...**</span>  
+<span style="color:red;">**- InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certif...**</span>  
+<span style="color:red;">**- InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certif...**</span>  
+<span style="color:red;">**- Asus launches world’s first WiFi 8 router, ROG Rapture GT-BN98 Pro - MSN**</span>  
+<span style="color:red;">**- TP-Link Preps Wi-Fi 8 Router, Will The FCC's Ban Block It? - PCMag**</span>  
+
+[2026-05-29 - Daily Briefing (30 articles)](briefings/2026-05-29.md)
+
+- TP-Link pencils in October release for Archer Wi-Fi 8 router, wider line-up t...
+- High-Performance WiFi 8 Routers - Trend Hunter
+- Future-proof or premature? TP-Link announces its first WiFi 8 router - htxt.c...
 
 [2026-05-28 - Daily Briefing (30 articles)](briefings/2026-05-28.md)
 
