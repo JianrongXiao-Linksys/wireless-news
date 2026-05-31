@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-30 10:07**
+Last updated: **2026-05-31 10:21**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-30.md" style="color:red;font-weight:bold;">
-    2026-05-30 - Daily Briefing (30 articles)
+  <a href="briefings/2026-05-31.md" style="color:red;font-weight:bold;">
+    2026-05-31 - Daily Briefing (18 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link Unveils First Wi-Fi 8 Router Even Though Wi-Fi 8 Is Still Years Away ...**</span>  
-<span style="color:red;">**- InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certif...**</span>  
-<span style="color:red;">**- InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certif...**</span>  
-<span style="color:red;">**- Asus launches world’s first WiFi 8 router, ROG Rapture GT-BN98 Pro - MSN**</span>  
-<span style="color:red;">**- TP-Link Preps Wi-Fi 8 Router, Will The FCC's Ban Block It? - PCMag**</span>  
+<span style="color:red;">**- GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes**</span>  
+<span style="color:red;">**- GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Yaho...**</span>  
+<span style="color:red;">**- LG Uplus Overhauls Internal Network, Ushers In Wi-Fi 7 Era - Seoul Economic D...**</span>  
+<span style="color:red;">**- LG Uplus Transitions Internal Wireless Network to Next-Gen Wi-Fi 7 - 조선일보**</span>  
+<span style="color:red;">**- TP-Link announces its first Wi-Fi 8 router platform - MSN**</span>  
+
+[2026-05-30 - Daily Briefing (30 articles)](briefings/2026-05-30.md)
+
+- TP-Link Unveils First Wi-Fi 8 Router Even Though Wi-Fi 8 Is Still Years Away ...
+- InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certif...
+- InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certif...
 
 [2026-05-29 - Daily Briefing (30 articles)](briefings/2026-05-29.md)
 
