@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-05-31 10:21**
+Last updated: **2026-06-01 13:44**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-05-31.md" style="color:red;font-weight:bold;">
-    2026-05-31 - Daily Briefing (18 articles)
+  <a href="briefings/2026-06-01.md" style="color:red;font-weight:bold;">
+    2026-06-01 - Daily Briefing (21 articles)
   </a>
 </p>
 
-<span style="color:red;">**- GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes**</span>  
-<span style="color:red;">**- GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Yaho...**</span>  
-<span style="color:red;">**- LG Uplus Overhauls Internal Network, Ushers In Wi-Fi 7 Era - Seoul Economic D...**</span>  
-<span style="color:red;">**- LG Uplus Transitions Internal Wireless Network to Next-Gen Wi-Fi 7 - 조선일보**</span>  
-<span style="color:red;">**- TP-Link announces its first Wi-Fi 8 router platform - MSN**</span>  
+<span style="color:red;">**- What Wi-Fi 8 will mean for wireless networks - TechCentral**</span>  
+<span style="color:red;">**- Asus' monstrous ROG Astral GeForce RTX 5090 Edition 20 includes expansive cur...**</span>  
+<span style="color:red;">**- Huawei Q7 Power Wired Router launched with Wi-Fi 7+ technology - Huawei Central**</span>  
+<span style="color:red;">**- Lightning Fibre rolls out Genexis Wi-Fi 7 devices - Telecompaper**</span>  
+<span style="color:red;">**- We went hands-on with Qualcomm's new '$300 and up' ARM laptop platform with m...**</span>  
+
+[2026-05-31 - Daily Briefing (18 articles)](briefings/2026-05-31.md)
+
+- GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes
+- GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Yaho...
+- LG Uplus Overhauls Internal Network, Ushers In Wi-Fi 7 Era - Seoul Economic D...
 
 [2026-05-30 - Daily Briefing (30 articles)](briefings/2026-05-30.md)
 
