@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-01 13:44**
+Last updated: **2026-06-02 12:12**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-01.md" style="color:red;font-weight:bold;">
-    2026-06-01 - Daily Briefing (21 articles)
+  <a href="briefings/2026-06-02.md" style="color:red;font-weight:bold;">
+    2026-06-02 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- What Wi-Fi 8 will mean for wireless networks - TechCentral**</span>  
-<span style="color:red;">**- Asus' monstrous ROG Astral GeForce RTX 5090 Edition 20 includes expansive cur...**</span>  
-<span style="color:red;">**- Huawei Q7 Power Wired Router launched with Wi-Fi 7+ technology - Huawei Central**</span>  
-<span style="color:red;">**- Lightning Fibre rolls out Genexis Wi-Fi 7 devices - Telecompaper**</span>  
-<span style="color:red;">**- We went hands-on with Qualcomm's new '$300 and up' ARM laptop platform with m...**</span>  
+<span style="color:red;">**- Early Prime Day deals drop Amazon’s eero 6 and Pro 6E mesh Wi-Fi routers to l...**</span>  
+<span style="color:red;">**- ASUS ROG unveils gold-plated keyboard and mouse at Computex, now available to...**</span>  
+<span style="color:red;">**- How to watch Microsoft’s Build 2026 conference**</span>  
+<span style="color:red;">**- ASUS ROG 20th Anniversary at Computex 2026: Edition 20 Collection & ROG Lab -...**</span>  
+<span style="color:red;">**- RUCKUS Networks Powers Major Wi-Fi 7 Overhaul at Oakland Arena - The Fast Mode**</span>  
+
+[2026-06-01 - Daily Briefing (21 articles)](briefings/2026-06-01.md)
+
+- What Wi-Fi 8 will mean for wireless networks - TechCentral
+- Asus' monstrous ROG Astral GeForce RTX 5090 Edition 20 includes expansive cur...
+- Huawei Q7 Power Wired Router launched with Wi-Fi 7+ technology - Huawei Central
 
 [2026-05-31 - Daily Briefing (18 articles)](briefings/2026-05-31.md)
 
