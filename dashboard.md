@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-02 12:12**
+Last updated: **2026-06-03 12:47**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-02.md" style="color:red;font-weight:bold;">
-    2026-06-02 - Daily Briefing (30 articles)
+  <a href="briefings/2026-06-03.md" style="color:red;font-weight:bold;">
+    2026-06-03 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Early Prime Day deals drop Amazon’s eero 6 and Pro 6E mesh Wi-Fi routers to l...**</span>  
-<span style="color:red;">**- ASUS ROG unveils gold-plated keyboard and mouse at Computex, now available to...**</span>  
-<span style="color:red;">**- How to watch Microsoft’s Build 2026 conference**</span>  
-<span style="color:red;">**- ASUS ROG 20th Anniversary at Computex 2026: Edition 20 Collection & ROG Lab -...**</span>  
-<span style="color:red;">**- RUCKUS Networks Powers Major Wi-Fi 7 Overhaul at Oakland Arena - The Fast Mode**</span>  
+<span style="color:red;">**- Microsoft unveils Project Solara AI, a chip-to-cloud platform built to power ...**</span>  
+<span style="color:red;">**- Land an RTX 5060-powered OLED gaming laptop for just $1,099 — HP's Omen Trans...**</span>  
+<span style="color:red;">**- ROG Edition 20 Unveiled at Computex 2026 – 20th Anniversary Gaming Gear & Ful...**</span>  
+<span style="color:red;">**- NAS with Wildcat Lake, Wi-Fi 7 and USB 4: Minisforum unveils N4 - Notebookcheck**</span>  
+<span style="color:red;">**- Broadcom (AVGO) Launches New Wi-Fi 8 and Broadband Chips to Strengthen Networ...**</span>  
+
+[2026-06-02 - Daily Briefing (30 articles)](briefings/2026-06-02.md)
+
+- Early Prime Day deals drop Amazon’s eero 6 and Pro 6E mesh Wi-Fi routers to l...
+- ASUS ROG unveils gold-plated keyboard and mouse at Computex, now available to...
+- How to watch Microsoft’s Build 2026 conference
 
 [2026-06-01 - Daily Briefing (21 articles)](briefings/2026-06-01.md)
 
