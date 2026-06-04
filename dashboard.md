@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-03 12:47**
+Last updated: **2026-06-04 11:21**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-03.md" style="color:red;font-weight:bold;">
-    2026-06-03 - Daily Briefing (30 articles)
+  <a href="briefings/2026-06-04.md" style="color:red;font-weight:bold;">
+    2026-06-04 - Daily Briefing (18 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Microsoft unveils Project Solara AI, a chip-to-cloud platform built to power ...**</span>  
-<span style="color:red;">**- Land an RTX 5060-powered OLED gaming laptop for just $1,099 — HP's Omen Trans...**</span>  
-<span style="color:red;">**- ROG Edition 20 Unveiled at Computex 2026 – 20th Anniversary Gaming Gear & Ful...**</span>  
-<span style="color:red;">**- NAS with Wildcat Lake, Wi-Fi 7 and USB 4: Minisforum unveils N4 - Notebookcheck**</span>  
-<span style="color:red;">**- Broadcom (AVGO) Launches New Wi-Fi 8 and Broadband Chips to Strengthen Networ...**</span>  
+<span style="color:red;">**- Alcatel-Lucent launches a new high-range Wi-Fi 7 access point - EIN News**</span>  
+<span style="color:red;">**- Altnet ISP Community Fibre Cuts Price of 1Gbps UK Broadband to just £20 - ISP...**</span>  
+<span style="color:red;">**- Broadcom introduced a SoC with support for Wi-Fi 8 and a hybrid 5G platform o...**</span>  
+<span style="color:red;">**- H3C introduces Wi-Fi 8 access point powered by Broadcom silicon - TechRadar**</span>  
+<span style="color:red;">**- Microsoft Build Day 2: Catch Up on the Biggest Copilot AI, Agent and Chip News**</span>  
+
+[2026-06-03 - Daily Briefing (30 articles)](briefings/2026-06-03.md)
+
+- Microsoft unveils Project Solara AI, a chip-to-cloud platform built to power ...
+- Land an RTX 5060-powered OLED gaming laptop for just $1,099 — HP's Omen Trans...
+- ROG Edition 20 Unveiled at Computex 2026 – 20th Anniversary Gaming Gear & Ful...
 
 [2026-06-02 - Daily Briefing (30 articles)](briefings/2026-06-02.md)
 
