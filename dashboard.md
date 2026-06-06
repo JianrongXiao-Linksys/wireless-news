@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-05 11:34**
+Last updated: **2026-06-06 10:12**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-05.md" style="color:red;font-weight:bold;">
-    2026-06-05 - Daily Briefing (20 articles)
+  <a href="briefings/2026-06-06.md" style="color:red;font-weight:bold;">
+    2026-06-06 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Orange France launches Wi-Fi 7 extender - Telecompaper**</span>  
-<span style="color:red;">**- 7 Router Settings You Should Change for Better Speed and Security - Tech Times**</span>  
-<span style="color:red;">**- Qualcomm says Wi-Fi 8 prioritizes reliability over speed - digitimes**</span>  
-<span style="color:red;">**- 4 Features To Look For In Your Next Router - Yahoo Tech**</span>  
-<span style="color:red;">**- Cable lobby warns of chaos if FCC doesn’t relax ban on foreign routers - Ars ...**</span>  
+<span style="color:red;">**- Motorola effectively bricked its entire line of WiFi routers without explanat...**</span>  
+<span style="color:red;">**- Mesh Wifi Router Market Forecast Points Higher Toward 2035 as Smart Home Adop...**</span>  
+<span style="color:red;">**- 4 Underrated Router Brands That Can Compete With Netgear - bgr.com**</span>  
+<span style="color:red;">**- Give Your Network an Early Prime Day Refresh: This Amazon Router Just Dropped...**</span>  
+<span style="color:red;">**- Startup Battlefield 200 applications officially close in 3 days**</span>  
+
+[2026-06-05 - Daily Briefing (20 articles)](briefings/2026-06-05.md)
+
+- Orange France launches Wi-Fi 7 extender - Telecompaper
+- 7 Router Settings You Should Change for Better Speed and Security - Tech Times
+- Qualcomm says Wi-Fi 8 prioritizes reliability over speed - digitimes
 
 [2026-06-04 - Daily Briefing (18 articles)](briefings/2026-06-04.md)
 
