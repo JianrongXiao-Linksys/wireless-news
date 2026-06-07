@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-06 10:12**
+Last updated: **2026-06-07 10:33**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-06.md" style="color:red;font-weight:bold;">
-    2026-06-06 - Daily Briefing (14 articles)
+  <a href="briefings/2026-06-07.md" style="color:red;font-weight:bold;">
+    2026-06-07 - Daily Briefing (15 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Motorola effectively bricked its entire line of WiFi routers without explanat...**</span>  
-<span style="color:red;">**- Mesh Wifi Router Market Forecast Points Higher Toward 2035 as Smart Home Adop...**</span>  
-<span style="color:red;">**- 4 Underrated Router Brands That Can Compete With Netgear - bgr.com**</span>  
-<span style="color:red;">**- Give Your Network an Early Prime Day Refresh: This Amazon Router Just Dropped...**</span>  
-<span style="color:red;">**- Startup Battlefield 200 applications officially close in 3 days**</span>  
+<span style="color:red;">**- Asus launches world’s first WiFi 8 router, ROG Rapture GT-BN98 Pro - MSN**</span>  
+<span style="color:red;">**- GMKtec Crams OCuLink, Wi-Fi 7 and Dual PCIe 4.0 Into the EVO-X3, With a 192GB...**</span>  
+<span style="color:red;">**- TP-Link SG2210XMP-M2 Review: The Best Omada 2.5Gbps Switch - Dong Knows Tech**</span>  
+<span style="color:red;">**- Asus launches world’s first WiFi 8 router, ROG Rapture GT-BN98 Pro - MSN**</span>  
+<span style="color:red;">**- Secure a Flawless Victory With This Acer Gaming Laptop Deal and Save $400 - P...**</span>  
+
+[2026-06-06 - Daily Briefing (14 articles)](briefings/2026-06-06.md)
+
+- Motorola effectively bricked its entire line of WiFi routers without explanat...
+- Mesh Wifi Router Market Forecast Points Higher Toward 2035 as Smart Home Adop...
+- 4 Underrated Router Brands That Can Compete With Netgear - bgr.com
 
 [2026-06-05 - Daily Briefing (20 articles)](briefings/2026-06-05.md)
 
