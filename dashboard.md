@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-07 10:33**
+Last updated: **2026-06-08 12:39**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-07.md" style="color:red;font-weight:bold;">
-    2026-06-07 - Daily Briefing (15 articles)
+  <a href="briefings/2026-06-08.md" style="color:red;font-weight:bold;">
+    2026-06-08 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Asus launches world’s first WiFi 8 router, ROG Rapture GT-BN98 Pro - MSN**</span>  
-<span style="color:red;">**- GMKtec Crams OCuLink, Wi-Fi 7 and Dual PCIe 4.0 Into the EVO-X3, With a 192GB...**</span>  
-<span style="color:red;">**- TP-Link SG2210XMP-M2 Review: The Best Omada 2.5Gbps Switch - Dong Knows Tech**</span>  
-<span style="color:red;">**- Asus launches world’s first WiFi 8 router, ROG Rapture GT-BN98 Pro - MSN**</span>  
-<span style="color:red;">**- Secure a Flawless Victory With This Acer Gaming Laptop Deal and Save $400 - P...**</span>  
+<span style="color:red;">**- Mudi 7 (GL-E5800) 5G NR Wi-Fi 7 travel router supports up to 4.67 Gbps link r...**</span>  
+<span style="color:red;">**- Wi-Fi Sensing Privacy: Can your router “see” you moving through your house? -...**</span>  
+<span style="color:red;">**- WiFi 7 is here, but Africa isn’t buying in yet - htxt.co.za**</span>  
+<span style="color:red;">**- Report: Wi-Fi 7 remains nascent in most markets - Advanced Television**</span>  
+<span style="color:red;">**- Wi-Fi 7 adoption remains limited as Singapore leads uptake - Telecoms Tech News**</span>  
+
+[2026-06-07 - Daily Briefing (15 articles)](briefings/2026-06-07.md)
+
+- Asus launches world’s first WiFi 8 router, ROG Rapture GT-BN98 Pro - MSN
+- GMKtec Crams OCuLink, Wi-Fi 7 and Dual PCIe 4.0 Into the EVO-X3, With a 192GB...
+- TP-Link SG2210XMP-M2 Review: The Best Omada 2.5Gbps Switch - Dong Knows Tech
 
 [2026-06-06 - Daily Briefing (14 articles)](briefings/2026-06-06.md)
 
