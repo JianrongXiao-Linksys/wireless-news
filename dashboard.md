@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-08 12:39**
+Last updated: **2026-06-09 11:24**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-08.md" style="color:red;font-weight:bold;">
-    2026-06-08 - Daily Briefing (14 articles)
+  <a href="briefings/2026-06-09.md" style="color:red;font-weight:bold;">
+    2026-06-09 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Mudi 7 (GL-E5800) 5G NR Wi-Fi 7 travel router supports up to 4.67 Gbps link r...**</span>  
-<span style="color:red;">**- Wi-Fi Sensing Privacy: Can your router “see” you moving through your house? -...**</span>  
-<span style="color:red;">**- WiFi 7 is here, but Africa isn’t buying in yet - htxt.co.za**</span>  
-<span style="color:red;">**- Report: Wi-Fi 7 remains nascent in most markets - Advanced Television**</span>  
-<span style="color:red;">**- Wi-Fi 7 adoption remains limited as Singapore leads uptake - Telecoms Tech News**</span>  
+<span style="color:red;">**- Africa stuck on WiFi 4 while world adopts WiFi 6, WiFi 7 - ITWeb**</span>  
+<span style="color:red;">**- Gigaclear relaunches fibre broadband plans with eero Wi-Fi 7 - Telecompaper**</span>  
+<span style="color:red;">**- ISP Gigaclear Relaunch UK Full Fibre Broadband Plans with Wi-Fi 7 eero Router...**</span>  
+<span style="color:red;">**- Synaptics strengthens the case for AI at the edge with new single-chip Wi-Fi ...**</span>  
+<span style="color:red;">**- Netgear Nighthawk router for fast, reliable home WiFi - AD HOC NEWS**</span>  
+
+[2026-06-08 - Daily Briefing (14 articles)](briefings/2026-06-08.md)
+
+- Mudi 7 (GL-E5800) 5G NR Wi-Fi 7 travel router supports up to 4.67 Gbps link r...
+- Wi-Fi Sensing Privacy: Can your router “see” you moving through your house? -...
+- WiFi 7 is here, but Africa isn’t buying in yet - htxt.co.za
 
 [2026-06-07 - Daily Briefing (15 articles)](briefings/2026-06-07.md)
 
