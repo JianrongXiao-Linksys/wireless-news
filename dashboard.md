@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-09 11:24**
+Last updated: **2026-06-10 11:44**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-09.md" style="color:red;font-weight:bold;">
-    2026-06-09 - Daily Briefing (11 articles)
+  <a href="briefings/2026-06-10.md" style="color:red;font-weight:bold;">
+    2026-06-10 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Africa stuck on WiFi 4 while world adopts WiFi 6, WiFi 7 - ITWeb**</span>  
-<span style="color:red;">**- Gigaclear relaunches fibre broadband plans with eero Wi-Fi 7 - Telecompaper**</span>  
-<span style="color:red;">**- ISP Gigaclear Relaunch UK Full Fibre Broadband Plans with Wi-Fi 7 eero Router...**</span>  
-<span style="color:red;">**- Synaptics strengthens the case for AI at the edge with new single-chip Wi-Fi ...**</span>  
-<span style="color:red;">**- Netgear Nighthawk router for fast, reliable home WiFi - AD HOC NEWS**</span>  
+<span style="color:red;">**- Early Prime Day deals now live on Amazon's eero Wi-Fi 7 mesh routers: Pro, Ma...**</span>  
+<span style="color:red;">**- Intruder ‘delusional’ about wifi when he disabled neighbour’s router, court h...**</span>  
+<span style="color:red;">**- Wifi 6 Router Market Forecast Points Higher Toward 2035, Driven by Smart Home...**</span>  
+<span style="color:red;">**- Infrastructure gaps pull Nigeria, others behind in global Wi Fi 7 race - The ...**</span>  
+<span style="color:red;">**- MediaTek Extends Reliability Gains from Wi-Fi 8 to Include Wi-Fi 7 and Wi-Fi ...**</span>  
+
+[2026-06-09 - Daily Briefing (11 articles)](briefings/2026-06-09.md)
+
+- Africa stuck on WiFi 4 while world adopts WiFi 6, WiFi 7 - ITWeb
+- Gigaclear relaunches fibre broadband plans with eero Wi-Fi 7 - Telecompaper
+- ISP Gigaclear Relaunch UK Full Fibre Broadband Plans with Wi-Fi 7 eero Router...
 
 [2026-06-08 - Daily Briefing (14 articles)](briefings/2026-06-08.md)
 
