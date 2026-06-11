@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-10 11:44**
+Last updated: **2026-06-11 12:15**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-10.md" style="color:red;font-weight:bold;">
-    2026-06-10 - Daily Briefing (14 articles)
+  <a href="briefings/2026-06-11.md" style="color:red;font-weight:bold;">
+    2026-06-11 - Daily Briefing (8 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Early Prime Day deals now live on Amazon's eero Wi-Fi 7 mesh routers: Pro, Ma...**</span>  
-<span style="color:red;">**- Intruder ‘delusional’ about wifi when he disabled neighbour’s router, court h...**</span>  
-<span style="color:red;">**- Wifi 6 Router Market Forecast Points Higher Toward 2035, Driven by Smart Home...**</span>  
-<span style="color:red;">**- Infrastructure gaps pull Nigeria, others behind in global Wi Fi 7 race - The ...**</span>  
-<span style="color:red;">**- MediaTek Extends Reliability Gains from Wi-Fi 8 to Include Wi-Fi 7 and Wi-Fi ...**</span>  
+<span style="color:red;">**- Wi-Fi 7 gains ground but advanced Wi-Fi standards lag in Europe - Computer We...**</span>  
+<span style="color:red;">**- FCC approves cable industry group’s request for router ban relief - TheDesk.net**</span>  
+<span style="color:red;">**- Stay Connected and Save Money With These Early Amazon Prime Deals on Wireless...**</span>  
+<span style="color:red;">**- Wi-Fi Access Points Market Forecast Points Higher Toward 2035, Driven by Ente...**</span>  
+<span style="color:red;">**- My laptop was clinging to the slower Wi-Fi signal until I changed this settin...**</span>  
+
+[2026-06-10 - Daily Briefing (14 articles)](briefings/2026-06-10.md)
+
+- Early Prime Day deals now live on Amazon's eero Wi-Fi 7 mesh routers: Pro, Ma...
+- Intruder ‘delusional’ about wifi when he disabled neighbour’s router, court h...
+- Wifi 6 Router Market Forecast Points Higher Toward 2035, Driven by Smart Home...
 
 [2026-06-09 - Daily Briefing (11 articles)](briefings/2026-06-09.md)
 
