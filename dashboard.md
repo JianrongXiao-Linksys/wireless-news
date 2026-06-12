@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-11 12:15**
+Last updated: **2026-06-12 11:49**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-11.md" style="color:red;font-weight:bold;">
-    2026-06-11 - Daily Briefing (8 articles)
+  <a href="briefings/2026-06-12.md" style="color:red;font-weight:bold;">
+    2026-06-12 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Wi-Fi 7 gains ground but advanced Wi-Fi standards lag in Europe - Computer We...**</span>  
-<span style="color:red;">**- FCC approves cable industry group’s request for router ban relief - TheDesk.net**</span>  
+<span style="color:red;">**- TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Game...**</span>  
 <span style="color:red;">**- Stay Connected and Save Money With These Early Amazon Prime Deals on Wireless...**</span>  
-<span style="color:red;">**- Wi-Fi Access Points Market Forecast Points Higher Toward 2035, Driven by Ente...**</span>  
-<span style="color:red;">**- My laptop was clinging to the slower Wi-Fi signal until I changed this settin...**</span>  
+<span style="color:red;">**- Netgear Nighthawk EXS27: WiFi 7 range extender for crowded homes - AD HOC NEWS**</span>  
+<span style="color:red;">**- This business laptop is enterprise through and through on paper – and a compr...**</span>  
+<span style="color:red;">**- I stopped fighting hotel Wi-Fi and built my own instead - How-To Geek**</span>  
+
+[2026-06-11 - Daily Briefing (8 articles)](briefings/2026-06-11.md)
+
+- Wi-Fi 7 gains ground but advanced Wi-Fi standards lag in Europe - Computer We...
+- FCC approves cable industry group’s request for router ban relief - TheDesk.net
+- Stay Connected and Save Money With These Early Amazon Prime Deals on Wireless...
 
 [2026-06-10 - Daily Briefing (14 articles)](briefings/2026-06-10.md)
 
