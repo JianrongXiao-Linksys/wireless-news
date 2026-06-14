@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-13 10:34**
+Last updated: **2026-06-14 10:52**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-13.md" style="color:red;font-weight:bold;">
-    2026-06-13 - Daily Briefing (11 articles)
+  <a href="briefings/2026-06-14.md" style="color:red;font-weight:bold;">
+    2026-06-14 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Why Singapore Became the World’s Wi-Fi 7 Leader — and Why Few Others Can Foll...**</span>  
-<span style="color:red;">**- There's a Router Crackdown, But I Still Recommend This TP-Link BE3600 Archer ...**</span>  
-<span style="color:red;">**- Netgear Nighthawk RAXE500: WiFi 6E router for high-end home networks - AD HOC...**</span>  
-<span style="color:red;">**- Prime members can grab the newest model of the Amazon eero WiFi 7 mesh system...**</span>  
-<span style="color:red;">**- Netgear: Don't Be Fooled, TP-Link Is a Chinese Company - PCMag UK**</span>  
+<span style="color:red;">**- Wi-Fi 8 Is More Than Just Another Internet Speed Boost - SlashGear**</span>  
+<span style="color:red;">**- Netgear Nighthawk RAXE500: WiFi 6E router pushes home speeds into 6 GHz - AD ...**</span>  
+<span style="color:red;">**- Link aggregation sounded like free internet speed until I learned what it act...**</span>  
+<span style="color:red;">**- I turned my old router into a backyard Wi-Fi extender—no mesh system needed -...**</span>  
+<span style="color:red;">**- A disconnected router is more useful than you'd think—here are 5 ways I use m...**</span>  
+
+[2026-06-13 - Daily Briefing (11 articles)](briefings/2026-06-13.md)
+
+- Why Singapore Became the World’s Wi-Fi 7 Leader — and Why Few Others Can Foll...
+- There's a Router Crackdown, But I Still Recommend This TP-Link BE3600 Archer ...
+- Netgear Nighthawk RAXE500: WiFi 6E router for high-end home networks - AD HOC...
 
 [2026-06-12 - Daily Briefing (14 articles)](briefings/2026-06-12.md)
 
