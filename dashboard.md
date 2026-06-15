@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-14 10:52**
+Last updated: **2026-06-15 14:30**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-14.md" style="color:red;font-weight:bold;">
-    2026-06-14 - Daily Briefing (12 articles)
+  <a href="briefings/2026-06-15.md" style="color:red;font-weight:bold;">
+    2026-06-15 - Daily Briefing (13 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Wi-Fi 8 Is More Than Just Another Internet Speed Boost - SlashGear**</span>  
-<span style="color:red;">**- Netgear Nighthawk RAXE500: WiFi 6E router pushes home speeds into 6 GHz - AD ...**</span>  
-<span style="color:red;">**- Link aggregation sounded like free internet speed until I learned what it act...**</span>  
-<span style="color:red;">**- I turned my old router into a backyard Wi-Fi extender—no mesh system needed -...**</span>  
-<span style="color:red;">**- A disconnected router is more useful than you'd think—here are 5 ways I use m...**</span>  
+<span style="color:red;">**- European vendors step up advocacy to address internet router security risks -...**</span>  
+<span style="color:red;">**- Ruckus updates Hospitality Edition with AI & Wi-Fi 7 - IT Brief UK**</span>  
+<span style="color:red;">**- Asus ProArt PA27USD 27-inch OLED review: Precision color with high-speed gami...**</span>  
+<span style="color:red;">**- Manufacturers Warn of Security Risks in Internet Routers - Yahoo News UK**</span>  
+<span style="color:red;">**- Early Prime Day deal on Tri Band WiFi 7 router from TPLink takes 20% off the ...**</span>  
+
+[2026-06-14 - Daily Briefing (12 articles)](briefings/2026-06-14.md)
+
+- Wi-Fi 8 Is More Than Just Another Internet Speed Boost - SlashGear
+- Netgear Nighthawk RAXE500: WiFi 6E router pushes home speeds into 6 GHz - AD ...
+- Link aggregation sounded like free internet speed until I learned what it act...
 
 [2026-06-13 - Daily Briefing (11 articles)](briefings/2026-06-13.md)
 
