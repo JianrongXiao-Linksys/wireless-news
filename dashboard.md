@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-15 14:30**
+Last updated: **2026-06-16 13:00**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-15.md" style="color:red;font-weight:bold;">
-    2026-06-15 - Daily Briefing (13 articles)
+  <a href="briefings/2026-06-16.md" style="color:red;font-weight:bold;">
+    2026-06-16 - Daily Briefing (10 articles)
   </a>
 </p>
 
-<span style="color:red;">**- European vendors step up advocacy to address internet router security risks -...**</span>  
-<span style="color:red;">**- Ruckus updates Hospitality Edition with AI & Wi-Fi 7 - IT Brief UK**</span>  
-<span style="color:red;">**- Asus ProArt PA27USD 27-inch OLED review: Precision color with high-speed gami...**</span>  
-<span style="color:red;">**- Manufacturers Warn of Security Risks in Internet Routers - Yahoo News UK**</span>  
-<span style="color:red;">**- Early Prime Day deal on Tri Band WiFi 7 router from TPLink takes 20% off the ...**</span>  
+<span style="color:red;">**- Microsoft debuts Surface Pro and Surface Laptop with new jade green color and...**</span>  
+<span style="color:red;">**- Qualcomm mulls taking over Jim Keller's Tenstorrent, report claims — deal for...**</span>  
+<span style="color:red;">**- Explained: TP-Link, Netgear lawsuit over national security fears - MediaNama**</span>  
+<span style="color:red;">**- Amazon UK has slashed 43% off this excellent 4K 32-inch OLED gaming monitor —...**</span>  
+<span style="color:red;">**- Comcast Xfinity adds same-day delivery to get you online immediately**</span>  
+
+[2026-06-15 - Daily Briefing (13 articles)](briefings/2026-06-15.md)
+
+- European vendors step up advocacy to address internet router security risks -...
+- Ruckus updates Hospitality Edition with AI & Wi-Fi 7 - IT Brief UK
+- Asus ProArt PA27USD 27-inch OLED review: Precision color with high-speed gami...
 
 [2026-06-14 - Daily Briefing (12 articles)](briefings/2026-06-14.md)
 
