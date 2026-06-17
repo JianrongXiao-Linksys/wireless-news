@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-16 13:00**
+Last updated: **2026-06-17 12:22**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-16.md" style="color:red;font-weight:bold;">
-    2026-06-16 - Daily Briefing (10 articles)
+  <a href="briefings/2026-06-17.md" style="color:red;font-weight:bold;">
+    2026-06-17 - Daily Briefing (20 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Microsoft debuts Surface Pro and Surface Laptop with new jade green color and...**</span>  
-<span style="color:red;">**- Qualcomm mulls taking over Jim Keller's Tenstorrent, report claims — deal for...**</span>  
-<span style="color:red;">**- Explained: TP-Link, Netgear lawsuit over national security fears - MediaNama**</span>  
-<span style="color:red;">**- Amazon UK has slashed 43% off this excellent 4K 32-inch OLED gaming monitor —...**</span>  
-<span style="color:red;">**- Comcast Xfinity adds same-day delivery to get you online immediately**</span>  
+<span style="color:red;">**- DeepL acquires Mixhalo for live-event audio streaming and translation**</span>  
+<span style="color:red;">**- Jump on WiFi 7 for cheaper with this early Prime Day deal on a TP-Link mesh r...**</span>  
+<span style="color:red;">**- Quietly clever in the background, AIS Fibre WiFi Mesh makes Thai homes smooth...**</span>  
+<span style="color:red;">**- Broadcom pushes 50G PON and Wi-Fi 8 for AI-driven home networks ... - eeNews ...**</span>  
+<span style="color:red;">**- Comcast next generation Xfinity Gateway brings faster Wi-Fi 7 to busy connect...**</span>  
+
+[2026-06-16 - Daily Briefing (10 articles)](briefings/2026-06-16.md)
+
+- Microsoft debuts Surface Pro and Surface Laptop with new jade green color and...
+- Qualcomm mulls taking over Jim Keller's Tenstorrent, report claims — deal for...
+- Explained: TP-Link, Netgear lawsuit over national security fears - MediaNama
 
 [2026-06-15 - Daily Briefing (13 articles)](briefings/2026-06-15.md)
 
