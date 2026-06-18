@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-17 12:22**
+Last updated: **2026-06-18 11:55**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-17.md" style="color:red;font-weight:bold;">
-    2026-06-17 - Daily Briefing (20 articles)
+  <a href="briefings/2026-06-18.md" style="color:red;font-weight:bold;">
+    2026-06-18 - Daily Briefing (18 articles)
   </a>
 </p>
 
-<span style="color:red;">**- DeepL acquires Mixhalo for live-event audio streaming and translation**</span>  
-<span style="color:red;">**- Jump on WiFi 7 for cheaper with this early Prime Day deal on a TP-Link mesh r...**</span>  
-<span style="color:red;">**- Quietly clever in the background, AIS Fibre WiFi Mesh makes Thai homes smooth...**</span>  
-<span style="color:red;">**- Broadcom pushes 50G PON and Wi-Fi 8 for AI-driven home networks ... - eeNews ...**</span>  
-<span style="color:red;">**- Comcast next generation Xfinity Gateway brings faster Wi-Fi 7 to busy connect...**</span>  
+<span style="color:red;">**- Wi-Fi 7 and mesh routers are up to 60% off ahead of Prime Day: Deals on D-Lin...**</span>  
+<span style="color:red;">**- Huawei Announces Wi-Fi 7 patent licensing rates, reaffirms commitment to tran...**</span>  
+<span style="color:red;">**- Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA...**</span>  
+<span style="color:red;">**- Fritz! introduces Wi-Fi 7 Stick 6700 for EUR 65 - Telecompaper**</span>  
+<span style="color:red;">**- Huawei sets Wi-Fi 7 licensing rate at 50 cents per unit - Telecompaper**</span>  
+
+[2026-06-17 - Daily Briefing (20 articles)](briefings/2026-06-17.md)
+
+- DeepL acquires Mixhalo for live-event audio streaming and translation
+- Jump on WiFi 7 for cheaper with this early Prime Day deal on a TP-Link mesh r...
+- Quietly clever in the background, AIS Fibre WiFi Mesh makes Thai homes smooth...
 
 [2026-06-16 - Daily Briefing (10 articles)](briefings/2026-06-16.md)
 
