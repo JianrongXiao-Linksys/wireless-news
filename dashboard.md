@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-18 11:55**
+Last updated: **2026-06-19 12:14**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-18.md" style="color:red;font-weight:bold;">
-    2026-06-18 - Daily Briefing (18 articles)
+  <a href="briefings/2026-06-19.md" style="color:red;font-weight:bold;">
+    2026-06-19 - Daily Briefing (13 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Wi-Fi 7 and mesh routers are up to 60% off ahead of Prime Day: Deals on D-Lin...**</span>  
-<span style="color:red;">**- Huawei Announces Wi-Fi 7 patent licensing rates, reaffirms commitment to tran...**</span>  
-<span style="color:red;">**- Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA...**</span>  
-<span style="color:red;">**- Fritz! introduces Wi-Fi 7 Stick 6700 for EUR 65 - Telecompaper**</span>  
-<span style="color:red;">**- Huawei sets Wi-Fi 7 licensing rate at 50 cents per unit - Telecompaper**</span>  
+<span style="color:red;">**- Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure ...**</span>  
+<span style="color:red;">**- ASUS ROG Strix GS-BE7200: WiFi 7 Gaming Router Launches for 200.95 euros - Ba...**</span>  
+<span style="color:red;">**- Wi-Fi 6 speed in a compact shell, Netgear Nighthawk RAX40 targets busy homes ...**</span>  
+<span style="color:red;">**- The TP-Link Guide to Modern Mesh Home Wi-Fi - PCWorld**</span>  
+<span style="color:red;">**- This router setting was the best thing I ever did for my family’s internet - ...**</span>  
+
+[2026-06-18 - Daily Briefing (18 articles)](briefings/2026-06-18.md)
+
+- Wi-Fi 7 and mesh routers are up to 60% off ahead of Prime Day: Deals on D-Lin...
+- Huawei Announces Wi-Fi 7 patent licensing rates, reaffirms commitment to tran...
+- Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA...
 
 [2026-06-17 - Daily Briefing (20 articles)](briefings/2026-06-17.md)
 
