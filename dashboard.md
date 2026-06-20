@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-19 12:14**
+Last updated: **2026-06-20 10:37**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-19.md" style="color:red;font-weight:bold;">
-    2026-06-19 - Daily Briefing (13 articles)
+  <a href="briefings/2026-06-20.md" style="color:red;font-weight:bold;">
+    2026-06-20 - Daily Briefing (8 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure ...**</span>  
-<span style="color:red;">**- ASUS ROG Strix GS-BE7200: WiFi 7 Gaming Router Launches for 200.95 euros - Ba...**</span>  
-<span style="color:red;">**- Wi-Fi 6 speed in a compact shell, Netgear Nighthawk RAX40 targets busy homes ...**</span>  
-<span style="color:red;">**- The TP-Link Guide to Modern Mesh Home Wi-Fi - PCWorld**</span>  
-<span style="color:red;">**- This router setting was the best thing I ever did for my family’s internet - ...**</span>  
+<span style="color:red;">**- Best Wi-Fi UniFi Cloud Gateways (Wi-Fi-Enabled Routers): Ubiquiti’s Top Five ...**</span>  
+<span style="color:red;">**- This Early Prime Day TP-Link Gaming Router Deal Under $100 Is a Flawless Vict...**</span>  
+<span style="color:red;">**- I stopped recommending Amazon eero routers—here's what I suggest instead - Ho...**</span>  
+<span style="color:red;">**- My new router never goes online until I've changed these 6 settings - MakeUseOf**</span>  
+<span style="color:red;">**- Amazon’s 3-node eero 6+ mesh Wi-Fi system hits lowest price ahead of Prime Da...**</span>  
+
+[2026-06-19 - Daily Briefing (13 articles)](briefings/2026-06-19.md)
+
+- Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure ...
+- ASUS ROG Strix GS-BE7200: WiFi 7 Gaming Router Launches for 200.95 euros - Ba...
+- Wi-Fi 6 speed in a compact shell, Netgear Nighthawk RAX40 targets busy homes ...
 
 [2026-06-18 - Daily Briefing (18 articles)](briefings/2026-06-18.md)
 
