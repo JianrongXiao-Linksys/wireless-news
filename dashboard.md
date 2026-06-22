@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-21 11:21**
+Last updated: **2026-06-22 13:40**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-21.md" style="color:red;font-weight:bold;">
-    2026-06-21 - Daily Briefing (15 articles)
+  <a href="briefings/2026-06-22.md" style="color:red;font-weight:bold;">
+    2026-06-22 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Not TP-Link, Not Netgear: This Wi-Fi Router Gets Consumer Reports Top Rating ...**</span>  
-<span style="color:red;">**- Not TP-Link, Not Netgear: This Wi-Fi Router Gets Consumer Reports Top Rating ...**</span>  
-<span style="color:red;">**- Asus router: Asus has unveiled the world's first Wi-Fi 8 router, equipped wit...**</span>  
-<span style="color:red;">**- Stay Connected and Save Money With These Early Amazon Prime Deals on Wireless...**</span>  
-<span style="color:red;">**- Get AMD's flagship Ryzen 7 9800X3D with 32GB of DDR5 memory and an MSI B850 W...**</span>  
+<span style="color:red;">**- I stopped manually switching Wi-Fi bands after enabling this one router setti...**</span>  
+<span style="color:red;">**- Amazon Goes Big on WiFi 7 Mesh Systems for Prime Day, Dropping TP-Link Deco 7...**</span>  
+<span style="color:red;">**- Popular WiFi 7 router deal offers best price of the year before Prime Day - P...**</span>  
+<span style="color:red;">**- TP-Link and Techno Blue ink deal to expand distribution in Qatar - Telecompaper**</span>  
+<span style="color:red;">**- Deal | Asus gaming notebook with 32GB DDR5, Core Ultra 9 and RTX 5070 gets 28...**</span>  
+
+[2026-06-21 - Daily Briefing (15 articles)](briefings/2026-06-21.md)
+
+- Not TP-Link, Not Netgear: This Wi-Fi Router Gets Consumer Reports Top Rating ...
+- Not TP-Link, Not Netgear: This Wi-Fi Router Gets Consumer Reports Top Rating ...
+- Asus router: Asus has unveiled the world's first Wi-Fi 8 router, equipped wit...
 
 [2026-06-20 - Daily Briefing (8 articles)](briefings/2026-06-20.md)
 
