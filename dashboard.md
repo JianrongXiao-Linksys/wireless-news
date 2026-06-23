@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-22 13:40**
+Last updated: **2026-06-23 11:24**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-22.md" style="color:red;font-weight:bold;">
-    2026-06-22 - Daily Briefing (11 articles)
+  <a href="briefings/2026-06-23.md" style="color:red;font-weight:bold;">
+    2026-06-23 - Daily Briefing (16 articles)
   </a>
 </p>
 
-<span style="color:red;">**- I stopped manually switching Wi-Fi bands after enabling this one router setti...**</span>  
-<span style="color:red;">**- Amazon Goes Big on WiFi 7 Mesh Systems for Prime Day, Dropping TP-Link Deco 7...**</span>  
-<span style="color:red;">**- Popular WiFi 7 router deal offers best price of the year before Prime Day - P...**</span>  
-<span style="color:red;">**- TP-Link and Techno Blue ink deal to expand distribution in Qatar - Telecompaper**</span>  
-<span style="color:red;">**- Deal | Asus gaming notebook with 32GB DDR5, Core Ultra 9 and RTX 5070 gets 28...**</span>  
+<span style="color:red;">**- Upgrade What Matters with ASUS this Prime Day - OC3D**</span>  
+<span style="color:red;">**- Upgrade to Wi-Fi 7 with these Prime Day savings — TP-Link Wi-Fi 7 routers get...**</span>  
+<span style="color:red;">**- Upgrade to Wi-Fi 7 with these Prime Day savings — TP-Link Wi-Fi 7 routers get...**</span>  
+<span style="color:red;">**- These Prime Day deals on routers and networking gear will finally fix your ba...**</span>  
+<span style="color:red;">**- Huawei Announces Wi-Fi 7 Patent Licensing Rates at US$0.5 Per Unit - Pandaily**</span>  
+
+[2026-06-22 - Daily Briefing (11 articles)](briefings/2026-06-22.md)
+
+- I stopped manually switching Wi-Fi bands after enabling this one router setti...
+- Amazon Goes Big on WiFi 7 Mesh Systems for Prime Day, Dropping TP-Link Deco 7...
+- Popular WiFi 7 router deal offers best price of the year before Prime Day - P...
 
 [2026-06-21 - Daily Briefing (15 articles)](briefings/2026-06-21.md)
 
