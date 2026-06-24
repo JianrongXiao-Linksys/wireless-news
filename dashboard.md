@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-23 11:24**
+Last updated: **2026-06-24 11:10**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-23.md" style="color:red;font-weight:bold;">
-    2026-06-23 - Daily Briefing (16 articles)
+  <a href="briefings/2026-06-24.md" style="color:red;font-weight:bold;">
+    2026-06-24 - Daily Briefing (19 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Upgrade What Matters with ASUS this Prime Day - OC3D**</span>  
-<span style="color:red;">**- Upgrade to Wi-Fi 7 with these Prime Day savings — TP-Link Wi-Fi 7 routers get...**</span>  
-<span style="color:red;">**- Upgrade to Wi-Fi 7 with these Prime Day savings — TP-Link Wi-Fi 7 routers get...**</span>  
-<span style="color:red;">**- These Prime Day deals on routers and networking gear will finally fix your ba...**</span>  
-<span style="color:red;">**- Huawei Announces Wi-Fi 7 Patent Licensing Rates at US$0.5 Per Unit - Pandaily**</span>  
+<span style="color:red;">**- Fix Your Wi-Fi With One of These Tempting Router Deals - WIRED**</span>  
+<span style="color:red;">**- Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for...**</span>  
+<span style="color:red;">**- Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for...**</span>  
+<span style="color:red;">**- This Powerful Eero Mesh Wifi System Is $120 Off Right Now, Its Lowest Price Y...**</span>  
+<span style="color:red;">**- I tested the TP-Link Archer BE770 and this full-featured Wi-Fi 7 router is an...**</span>  
+
+[2026-06-23 - Daily Briefing (16 articles)](briefings/2026-06-23.md)
+
+- Upgrade What Matters with ASUS this Prime Day - OC3D
+- Upgrade to Wi-Fi 7 with these Prime Day savings — TP-Link Wi-Fi 7 routers get...
+- Upgrade to Wi-Fi 7 with these Prime Day savings — TP-Link Wi-Fi 7 routers get...
 
 [2026-06-22 - Daily Briefing (11 articles)](briefings/2026-06-22.md)
 
