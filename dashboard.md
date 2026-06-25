@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-24 11:10**
+Last updated: **2026-06-25 10:48**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-24.md" style="color:red;font-weight:bold;">
-    2026-06-24 - Daily Briefing (19 articles)
+  <a href="briefings/2026-06-25.md" style="color:red;font-weight:bold;">
+    2026-06-25 - Daily Briefing (22 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Fix Your Wi-Fi With One of These Tempting Router Deals - WIRED**</span>  
-<span style="color:red;">**- Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for...**</span>  
-<span style="color:red;">**- Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for...**</span>  
-<span style="color:red;">**- This Powerful Eero Mesh Wifi System Is $120 Off Right Now, Its Lowest Price Y...**</span>  
-<span style="color:red;">**- I tested the TP-Link Archer BE770 and this full-featured Wi-Fi 7 router is an...**</span>  
+<span style="color:red;">**- Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles...**</span>  
+<span style="color:red;">**- Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerator...**</span>  
+<span style="color:red;">**- ASUS ROG Astral RTX 5090: User report mentions discoloration on the ProArt-X8...**</span>  
+<span style="color:red;">**- Google Nest WiFi Pro WiFi 6E at Its All-Time Low, 2x Faster Than the WiFi You...**</span>  
+<span style="color:red;">**- OpenAI and Broadcom announce chip designed for LLM inference at scale**</span>  
+
+[2026-06-24 - Daily Briefing (19 articles)](briefings/2026-06-24.md)
+
+- Fix Your Wi-Fi With One of These Tempting Router Deals - WIRED
+- Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for...
+- Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for...
 
 [2026-06-23 - Daily Briefing (16 articles)](briefings/2026-06-23.md)
 
