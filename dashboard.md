@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-25 10:48**
+Last updated: **2026-06-26 10:56**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-25.md" style="color:red;font-weight:bold;">
-    2026-06-25 - Daily Briefing (22 articles)
+  <a href="briefings/2026-06-26.md" style="color:red;font-weight:bold;">
+    2026-06-26 - Daily Briefing (25 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles...**</span>  
-<span style="color:red;">**- Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerator...**</span>  
-<span style="color:red;">**- ASUS ROG Astral RTX 5090: User report mentions discoloration on the ProArt-X8...**</span>  
-<span style="color:red;">**- Google Nest WiFi Pro WiFi 6E at Its All-Time Low, 2x Faster Than the WiFi You...**</span>  
-<span style="color:red;">**- OpenAI and Broadcom announce chip designed for LLM inference at scale**</span>  
+<span style="color:red;">**- Extreme Networks debuts hyper-directional Wifi 7 antenna technology at new 60...**</span>  
+<span style="color:red;">**- MyRepublic and TP-Link partner on connectivity solutions for SMEs - Telecompaper**</span>  
+<span style="color:red;">**- Asus offers up to 36% off its ZenWiFi mesh routers — tri-band Wi-Fi 7 mesh ro...**</span>  
+<span style="color:red;">**- Asus offers up to 36% off its ZenWiFi mesh routers — tri-band Wi-Fi 7 mesh ro...**</span>  
+<span style="color:red;">**- Best Battery Life Laptops of 2026**</span>  
+
+[2026-06-25 - Daily Briefing (22 articles)](briefings/2026-06-25.md)
+
+- Best expert-vetted Amazon device Prime Day deals 2026: Shop Fire TVs, Kindles...
+- Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerator...
+- ASUS ROG Astral RTX 5090: User report mentions discoloration on the ProArt-X8...
 
 [2026-06-24 - Daily Briefing (19 articles)](briefings/2026-06-24.md)
 
