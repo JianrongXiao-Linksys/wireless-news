@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-27 10:17**
+Last updated: **2026-06-28 10:32**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,16 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-27.md" style="color:red;font-weight:bold;">
-    2026-06-27 - Daily Briefing (28 articles)
+  <a href="briefings/2026-06-28.md" style="color:red;font-weight:bold;">
+    2026-06-28 - Daily Briefing (0 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Time Is Ticking on One of Prime Day’s Best Networking Deals: Save $300 on Thi...**</span>  
-<span style="color:red;">**- This mesh system will make your at-home Wi-Fi lightning fast - and it's still...**</span>  
-<span style="color:red;">**- Say Goodbye to Dead Zones With This Last-Chance Prime Day Deal on a TP-Link M...**</span>  
-<span style="color:red;">**- The Best Last-Minute Prime Day Deals on Laptops, Monitors, and PC Accessories...**</span>  
-<span style="color:red;">**- Best Amazon Prime Day Wi-Fi router deals you can still get 2026 — Wi-Fi 7, Wi...**</span>  
+[2026-06-27 - Daily Briefing (28 articles)](briefings/2026-06-27.md)
+
+- Time Is Ticking on One of Prime Day’s Best Networking Deals: Save $300 on Thi...
+- This mesh system will make your at-home Wi-Fi lightning fast - and it's still...
+- Say Goodbye to Dead Zones With This Last-Chance Prime Day Deal on a TP-Link M...
 
 [2026-06-26 - Daily Briefing (25 articles)](briefings/2026-06-26.md)
 
