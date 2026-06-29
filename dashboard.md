@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-28 10:32**
+Last updated: **2026-06-29 12:43**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,10 +9,18 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-28.md" style="color:red;font-weight:bold;">
-    2026-06-28 - Daily Briefing (0 articles)
+  <a href="briefings/2026-06-29.md" style="color:red;font-weight:bold;">
+    2026-06-29 - Daily Briefing (7 articles)
   </a>
 </p>
+
+<span style="color:red;">**- ASUS ROG STRIX Z890-A GAMING WIFI Hands-On Review - Tech Critter**</span>  
+<span style="color:red;">**- Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link...**</span>  
+<span style="color:red;">**- The Nighthawk M6 Pro Mobile Hotspot from Netgear Inc. - 5G speeds, Wi-Fi 6E a...**</span>  
+<span style="color:red;">**- Netgear Orbi 770 mesh system crashes to its lowest-ever price on Amazon - PC ...**</span>  
+<span style="color:red;">**- Your router has a hidden status page that explains why your Wi-Fi is down - H...**</span>  
+
+[2026-06-28 - Daily Briefing (0 articles)](briefings/2026-06-28.md)
 
 [2026-06-27 - Daily Briefing (28 articles)](briefings/2026-06-27.md)
 
