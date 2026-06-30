@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-29 12:43**
+Last updated: **2026-06-30 11:15**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-29.md" style="color:red;font-weight:bold;">
-    2026-06-29 - Daily Briefing (7 articles)
+  <a href="briefings/2026-06-30.md" style="color:red;font-weight:bold;">
+    2026-06-30 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ASUS ROG STRIX Z890-A GAMING WIFI Hands-On Review - Tech Critter**</span>  
-<span style="color:red;">**- Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link...**</span>  
-<span style="color:red;">**- The Nighthawk M6 Pro Mobile Hotspot from Netgear Inc. - 5G speeds, Wi-Fi 6E a...**</span>  
-<span style="color:red;">**- Netgear Orbi 770 mesh system crashes to its lowest-ever price on Amazon - PC ...**</span>  
-<span style="color:red;">**- Your router has a hidden status page that explains why your Wi-Fi is down - H...**</span>  
+<span style="color:red;">**- ASUS TUF Gaming B850 Motherboard Deal: $207 for AM5 Builds - The Inventory**</span>  
+<span style="color:red;">**- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...**</span>  
+<span style="color:red;">**- NETGEAR R6330 AC1600 WiFi Router - Dual Band, Speeds Up To 1600Mbps - Santo A...**</span>  
+<span style="color:red;">**- Frontier FiOS Quantum Gateway G1100 Wi-Fi Router – Dual Band Wireless Router ...**</span>  
+<span style="color:red;">**- Repetidor Wifi Tp Link Replicador De SeÃ±al Wifi Repeater Amplificador De SeÃ...**</span>  
+
+[2026-06-29 - Daily Briefing (7 articles)](briefings/2026-06-29.md)
+
+- ASUS ROG STRIX Z890-A GAMING WIFI Hands-On Review - Tech Critter
+- Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link...
+- The Nighthawk M6 Pro Mobile Hotspot from Netgear Inc. - 5G speeds, Wi-Fi 6E a...
 
 [2026-06-28 - Daily Briefing (0 articles)](briefings/2026-06-28.md)
 
