@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-06-30 11:15**
+Last updated: **2026-07-01 11:29**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-06-30.md" style="color:red;font-weight:bold;">
-    2026-06-30 - Daily Briefing (11 articles)
+  <a href="briefings/2026-07-01.md" style="color:red;font-weight:bold;">
+    2026-07-01 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ASUS TUF Gaming B850 Motherboard Deal: $207 for AM5 Builds - The Inventory**</span>  
-<span style="color:red;">**- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...**</span>  
-<span style="color:red;">**- NETGEAR R6330 AC1600 WiFi Router - Dual Band, Speeds Up To 1600Mbps - Santo A...**</span>  
-<span style="color:red;">**- Frontier FiOS Quantum Gateway G1100 Wi-Fi Router – Dual Band Wireless Router ...**</span>  
-<span style="color:red;">**- Repetidor Wifi Tp Link Replicador De SeÃ±al Wifi Repeater Amplificador De SeÃ...**</span>  
+<span style="color:red;">**- ASUS ExpertCenter Pro ET900N G3 is a desk side NVIDIA DGX GB300 system ready ...**</span>  
+<span style="color:red;">**- Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've eve...**</span>  
+<span style="color:red;">**- Netgear Orbi Pro WiFi 6 Mini from Netgear Inc. - compact mesh built for small...**</span>  
+<span style="color:red;">**- WiFi Boost Pro Review 2026: What Buyers Should Know Before Ordering a WiFi Ra...**</span>  
+<span style="color:red;">**- Extreme Networks (EXTR) Could Be 11% Overvalued Following Its New Stadium Wi ...**</span>  
+
+[2026-06-30 - Daily Briefing (11 articles)](briefings/2026-06-30.md)
+
+- ASUS TUF Gaming B850 Motherboard Deal: $207 for AM5 Builds - The Inventory
+- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...
+- NETGEAR R6330 AC1600 WiFi Router - Dual Band, Speeds Up To 1600Mbps - Santo A...
 
 [2026-06-29 - Daily Briefing (7 articles)](briefings/2026-06-29.md)
 
