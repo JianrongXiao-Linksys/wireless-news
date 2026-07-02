@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-01 11:29**
+Last updated: **2026-07-02 10:48**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-01.md" style="color:red;font-weight:bold;">
-    2026-07-01 - Daily Briefing (14 articles)
+  <a href="briefings/2026-07-02.md" style="color:red;font-weight:bold;">
+    2026-07-02 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ASUS ExpertCenter Pro ET900N G3 is a desk side NVIDIA DGX GB300 system ready ...**</span>  
-<span style="color:red;">**- Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've eve...**</span>  
-<span style="color:red;">**- Netgear Orbi Pro WiFi 6 Mini from Netgear Inc. - compact mesh built for small...**</span>  
-<span style="color:red;">**- WiFi Boost Pro Review 2026: What Buyers Should Know Before Ordering a WiFi Ra...**</span>  
-<span style="color:red;">**- Extreme Networks (EXTR) Could Be 11% Overvalued Following Its New Stadium Wi ...**</span>  
+<span style="color:red;">**- What Are the Best Mesh Wi-Fi Systems for Thick Walls? - Gagadget.com**</span>  
+<span style="color:red;">**- System76 Debuts 2026 Lemur Pro with 18-Hour Battery Life and Wi-Fi 7 - Linuxiac**</span>  
+<span style="color:red;">**- T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit**</span>  
+<span style="color:red;">**- Not Netgear, Not TP-Link: This Mesh Wi-Fi Router Gets Consumer Reports' Top S...**</span>  
+<span style="color:red;">**- Amazon’s Early 4th of July Sale Is Here With Up to 50% Off Tech From Samsung,...**</span>  
+
+[2026-07-01 - Daily Briefing (14 articles)](briefings/2026-07-01.md)
+
+- ASUS ExpertCenter Pro ET900N G3 is a desk side NVIDIA DGX GB300 system ready ...
+- Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've eve...
+- Netgear Orbi Pro WiFi 6 Mini from Netgear Inc. - compact mesh built for small...
 
 [2026-06-30 - Daily Briefing (11 articles)](briefings/2026-06-30.md)
 
