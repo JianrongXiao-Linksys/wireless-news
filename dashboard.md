@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-02 10:48**
+Last updated: **2026-07-03 10:45**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-02.md" style="color:red;font-weight:bold;">
-    2026-07-02 - Daily Briefing (12 articles)
+  <a href="briefings/2026-07-03.md" style="color:red;font-weight:bold;">
+    2026-07-03 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- What Are the Best Mesh Wi-Fi Systems for Thick Walls? - Gagadget.com**</span>  
-<span style="color:red;">**- System76 Debuts 2026 Lemur Pro with 18-Hour Battery Life and Wi-Fi 7 - Linuxiac**</span>  
-<span style="color:red;">**- T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit**</span>  
-<span style="color:red;">**- Not Netgear, Not TP-Link: This Mesh Wi-Fi Router Gets Consumer Reports' Top S...**</span>  
-<span style="color:red;">**- Amazon’s Early 4th of July Sale Is Here With Up to 50% Off Tech From Samsung,...**</span>  
+<span style="color:red;">**- Movistar will offer its WiFi 7 router for free on new Solo Fibra sign-ups fro...**</span>  
+<span style="color:red;">**- This Wi-Fi Router Covers 4000sq Ft Area in Coverage - TelecomTalk**</span>  
+<span style="color:red;">**- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...**</span>  
+<span style="color:red;">**- How Wi-Fi 7 licensing clarity could accelerate intelligent connectivity - Rai...**</span>  
+<span style="color:red;">**- Politician who investigated spyware abuses had his phone hacked with Pegasus ...**</span>  
+
+[2026-07-02 - Daily Briefing (12 articles)](briefings/2026-07-02.md)
+
+- What Are the Best Mesh Wi-Fi Systems for Thick Walls? - Gagadget.com
+- System76 Debuts 2026 Lemur Pro with 18-Hour Battery Life and Wi-Fi 7 - Linuxiac
+- T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit
 
 [2026-07-01 - Daily Briefing (14 articles)](briefings/2026-07-01.md)
 
