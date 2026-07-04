@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-03 10:45**
+Last updated: **2026-07-04 10:19**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,21 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-03.md" style="color:red;font-weight:bold;">
-    2026-07-03 - Daily Briefing (14 articles)
+  <a href="briefings/2026-07-04.md" style="color:red;font-weight:bold;">
+    2026-07-04 - Daily Briefing (4 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Movistar will offer its WiFi 7 router for free on new Solo Fibra sign-ups fro...**</span>  
-<span style="color:red;">**- This Wi-Fi Router Covers 4000sq Ft Area in Coverage - TelecomTalk**</span>  
+<span style="color:red;">**- 5 Unexpected Uses For A Travel Router - bgr.com**</span>  
+<span style="color:red;">**- HP OmniBook Ultra 14 review: Potent Snapdragon performance, great endurance, ...**</span>  
 <span style="color:red;">**- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...**</span>  
-<span style="color:red;">**- How Wi-Fi 7 licensing clarity could accelerate intelligent connectivity - Rai...**</span>  
-<span style="color:red;">**- Politician who investigated spyware abuses had his phone hacked with Pegasus ...**</span>  
+<span style="color:red;">**- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...**</span>  
+
+[2026-07-03 - Daily Briefing (14 articles)](briefings/2026-07-03.md)
+
+- Movistar will offer its WiFi 7 router for free on new Solo Fibra sign-ups fro...
+- This Wi-Fi Router Covers 4000sq Ft Area in Coverage - TelecomTalk
+- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...
 
 [2026-07-02 - Daily Briefing (12 articles)](briefings/2026-07-02.md)
 
