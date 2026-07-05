@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-04 10:19**
+Last updated: **2026-07-05 10:23**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,15 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-04.md" style="color:red;font-weight:bold;">
-    2026-07-04 - Daily Briefing (4 articles)
+  <a href="briefings/2026-07-05.md" style="color:red;font-weight:bold;">
+    2026-07-05 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- 5 Unexpected Uses For A Travel Router - bgr.com**</span>  
-<span style="color:red;">**- HP OmniBook Ultra 14 review: Potent Snapdragon performance, great endurance, ...**</span>  
-<span style="color:red;">**- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...**</span>  
-<span style="color:red;">**- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...**</span>  
+<span style="color:red;">**- Homelab Gets Linksys Themed Aesthetic - Hackaday**</span>  
+<span style="color:red;">**- D-Link G572 review: This SIM-ready 5G router is a valuable fallback for my we...**</span>  
+<span style="color:red;">**- TP-Link Archer GE400 Wi-Fi 7 Gaming Router - PCMag Middle East**</span>  
+<span style="color:red;">**- TP-Link Archer GE400 Wi-Fi 7 Review: A Good Gaming Router Overshadowed by Its...**</span>  
+<span style="color:red;">**- I removed a mesh node and my Wi-Fi got faster, not slower - MakeUseOf**</span>  
+
+[2026-07-04 - Daily Briefing (4 articles)](briefings/2026-07-04.md)
+
+- 5 Unexpected Uses For A Travel Router - bgr.com
+- HP OmniBook Ultra 14 review: Potent Snapdragon performance, great endurance, ...
+- Huawei Announces Wi-Fi 7 Patent Licensing Rates, Reaffirms Commitment to Tran...
 
 [2026-07-03 - Daily Briefing (14 articles)](briefings/2026-07-03.md)
 
