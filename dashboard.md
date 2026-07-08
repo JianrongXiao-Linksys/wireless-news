@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-07 11:15**
+Last updated: **2026-07-08 10:26**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-07.md" style="color:red;font-weight:bold;">
-    2026-07-07 - Daily Briefing (11 articles)
+  <a href="briefings/2026-07-08.md" style="color:red;font-weight:bold;">
+    2026-07-08 - Daily Briefing (17 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Community Fibre Offer 3 Months Free Broadband and Remove Mid-Contract Hikes -...**</span>  
-<span style="color:red;">**- The Filogic 860. MediaTek leans into Wi-Fi 7 for US home routers - AD HOC NEWS**</span>  
-<span style="color:red;">**- AMD Ryzen Halo AI Developer Workstation WiFi 7 - ServeTheHome**</span>  
-<span style="color:red;">**- Stop wasting money on mesh routers—this enterprise Wi-Fi gear is actually che...**</span>  
-<span style="color:red;">**- Amazon’s 4th of July Sale Is Still Kicking With Up to 50% Off Tech From HP, L...**</span>  
+<span style="color:red;">**- SoftAtHome details contribution to Orange's Wi-Fi 7 repeater built on full pr...**</span>  
+<span style="color:red;">**- Silex Wi-Fi 7 Module Now Available at Mouser - Bisinfotech**</span>  
+<span style="color:red;">**- EnGenius ECW515 review: EnGenius brings Wi-Fi 7 services to a wall near you –...**</span>  
+<span style="color:red;">**- Arista 750 Series Campus Switch from Arista Networks - Wi-Fi 7 ready edge for...**</span>  
+<span style="color:red;">**- Netgear Inc focus on networking hardware and consumer Wi-Fi solutions - AD HO...**</span>  
+
+[2026-07-07 - Daily Briefing (11 articles)](briefings/2026-07-07.md)
+
+- Community Fibre Offer 3 Months Free Broadband and Remove Mid-Contract Hikes -...
+- The Filogic 860. MediaTek leans into Wi-Fi 7 for US home routers - AD HOC NEWS
+- AMD Ryzen Halo AI Developer Workstation WiFi 7 - ServeTheHome
 
 [2026-07-06 - Daily Briefing (4 articles)](briefings/2026-07-06.md)
 
