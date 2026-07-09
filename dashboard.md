@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-08 10:26**
+Last updated: **2026-07-09 11:13**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-08.md" style="color:red;font-weight:bold;">
-    2026-07-08 - Daily Briefing (17 articles)
+  <a href="briefings/2026-07-09.md" style="color:red;font-weight:bold;">
+    2026-07-09 - Daily Briefing (23 articles)
   </a>
 </p>
 
-<span style="color:red;">**- SoftAtHome details contribution to Orange's Wi-Fi 7 repeater built on full pr...**</span>  
-<span style="color:red;">**- Silex Wi-Fi 7 Module Now Available at Mouser - Bisinfotech**</span>  
-<span style="color:red;">**- EnGenius ECW515 review: EnGenius brings Wi-Fi 7 services to a wall near you –...**</span>  
-<span style="color:red;">**- Arista 750 Series Campus Switch from Arista Networks - Wi-Fi 7 ready edge for...**</span>  
-<span style="color:red;">**- Netgear Inc focus on networking hardware and consumer Wi-Fi solutions - AD HO...**</span>  
+<span style="color:red;">**- The weirdest things that mess up WiFi - and how to improve your signal - BBC**</span>  
+<span style="color:red;">**- Backdoor Found in the Firmware for These Wi-Fi Routers. And There's No Patch ...**</span>  
+<span style="color:red;">**- SoftAtHome Deploys prpl-Based Wi-Fi 7 Repeater Software Across Orange Network...**</span>  
+<span style="color:red;">**- Review: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $...**</span>  
+<span style="color:red;">**- Save up to $300 on Amazon eero routers for Prime Day - WhistleOut**</span>  
+
+[2026-07-08 - Daily Briefing (17 articles)](briefings/2026-07-08.md)
+
+- SoftAtHome details contribution to Orange's Wi-Fi 7 repeater built on full pr...
+- Silex Wi-Fi 7 Module Now Available at Mouser - Bisinfotech
+- EnGenius ECW515 review: EnGenius brings Wi-Fi 7 services to a wall near you –...
 
 [2026-07-07 - Daily Briefing (11 articles)](briefings/2026-07-07.md)
 
