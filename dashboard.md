@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-10 11:12**
+Last updated: **2026-07-11 09:44**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-10.md" style="color:red;font-weight:bold;">
-    2026-07-10 - Daily Briefing (14 articles)
+  <a href="briefings/2026-07-11.md" style="color:red;font-weight:bold;">
+    2026-07-11 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- REVIEW: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $...**</span>  
-<span style="color:red;">**- Connect With a 36% Off Deal on This Editors’ Choice-Winning Mesh Router Syste...**</span>  
-<span style="color:red;">**- Allstate accuses Broadcom of auditing it because it quit VMware, CA**</span>  
-<span style="color:red;">**- New Apple TV 4K Wi-Fi 7: Why It Matters More Than the A17 Pro - WiFi Planet**</span>  
-<span style="color:red;">**- Spectrum Mobile adds outdoor Wi-Fi 7 access points in 6 GHz band - Telecompaper**</span>  
+<span style="color:red;">**- Xiaomi: WiFi 7 router with 10 Gbit/s ports and NAS features reaches additiona...**</span>  
+<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - TechPowerUp**</span>  
+<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - SSD Performance & Temperatures - ...**</span>  
+<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - Board Software - TechPowerUp**</span>  
+<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - BIOS Overview - TechPowerUp**</span>  
+
+[2026-07-10 - Daily Briefing (14 articles)](briefings/2026-07-10.md)
+
+- REVIEW: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $...
+- Connect With a 36% Off Deal on This Editors’ Choice-Winning Mesh Router Syste...
+- Allstate accuses Broadcom of auditing it because it quit VMware, CA
 
 [2026-07-09 - Daily Briefing (23 articles)](briefings/2026-07-09.md)
 
