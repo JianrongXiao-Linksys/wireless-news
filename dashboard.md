@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-11 09:44**
+Last updated: **2026-07-12 09:57**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-11.md" style="color:red;font-weight:bold;">
-    2026-07-11 - Daily Briefing (14 articles)
+  <a href="briefings/2026-07-12.md" style="color:red;font-weight:bold;">
+    2026-07-12 - Daily Briefing (5 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Xiaomi: WiFi 7 router with 10 Gbit/s ports and NAS features reaches additiona...**</span>  
-<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - TechPowerUp**</span>  
-<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - SSD Performance & Temperatures - ...**</span>  
-<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - Board Software - TechPowerUp**</span>  
-<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - BIOS Overview - TechPowerUp**</span>  
+<span style="color:red;">**- Xiaomi BE19000 Pro: Powerful WiFi 7 router with 10 Gbps ports and NAS support...**</span>  
+<span style="color:red;">**- Link Archer C7 Ac1750 Pix Link Router TP-LINK WiFi Router AC1750 Archer C7 Wi...**</span>  
+<span style="color:red;">**- How to boost Wi-Fi signal without changing the router, according to technicia...**</span>  
+<span style="color:red;">**- TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Mesh System Deal: 36% Off - games.gg**</span>  
+<span style="color:red;">**- Access Point Wireless Router Configurar Router Tp Link 940n Como Repetidor Wi...**</span>  
+
+[2026-07-11 - Daily Briefing (14 articles)](briefings/2026-07-11.md)
+
+- Xiaomi: WiFi 7 router with 10 Gbit/s ports and NAS features reaches additiona...
+- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - TechPowerUp
+- ASUS ROG Strix Z890-E Gaming Wi-Fi Review - SSD Performance & Temperatures - ...
 
 [2026-07-10 - Daily Briefing (14 articles)](briefings/2026-07-10.md)
 
