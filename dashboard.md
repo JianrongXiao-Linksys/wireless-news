@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-13 11:21**
+Last updated: **2026-07-14 10:05**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-13.md" style="color:red;font-weight:bold;">
-    2026-07-13 - Daily Briefing (8 articles)
+  <a href="briefings/2026-07-14.md" style="color:red;font-weight:bold;">
+    2026-07-14 - Daily Briefing (10 articles)
   </a>
 </p>
 
-<span style="color:red;">**- An aluminum foil reflector can keep Wi-Fi signals inside your home, reducing ...**</span>  
-<span style="color:red;">**- Popular TP-Link Deco XE75 mesh system is down to its lowest price ever on Ama...**</span>  
-<span style="color:red;">**- 5 Things You May Not Know Your Wi-Fi Router Could Do - SlashGear**</span>  
-<span style="color:red;">**- I tested every Wi-Fi dead zone fix before finding the $20 solution that actua...**</span>  
-<span style="color:red;">**- I made my Wi-Fi channel narrower, and my whole house got faster - MakeUseOf**</span>  
+<span style="color:red;">**- Accelerating Wi-Fi 8 Adoption Across Enterprise - Broadcom**</span>  
+<span style="color:red;">**- TP-Link's Tapo C530WS Pan/Tilt Security Camera Delivers Sharp 3K Footage With...**</span>  
+<span style="color:red;">**- FSB Center 16 Exploited Default Router Passwords to Map Critical Infrastructu...**</span>  
+<span style="color:red;">**- Boost Your At-Home Signal With 40% on This TP-Link Router Deal - PCMag**</span>  
+<span style="color:red;">**- Amazon Prime members can get this Asus RTX 5060 for just $2 above MSRP — upgr...**</span>  
+
+[2026-07-13 - Daily Briefing (8 articles)](briefings/2026-07-13.md)
+
+- An aluminum foil reflector can keep Wi-Fi signals inside your home, reducing ...
+- Popular TP-Link Deco XE75 mesh system is down to its lowest price ever on Ama...
+- 5 Things You May Not Know Your Wi-Fi Router Could Do - SlashGear
 
 [2026-07-12 - Daily Briefing (5 articles)](briefings/2026-07-12.md)
 
