@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-15 10:09**
+Last updated: **2026-07-16 10:18**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-15.md" style="color:red;font-weight:bold;">
-    2026-07-15 - Daily Briefing (13 articles)
+  <a href="briefings/2026-07-16.md" style="color:red;font-weight:bold;">
+    2026-07-16 - Daily Briefing (21 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Netgear Nighthawk XR1000 by Netgear Inc. - Wi-Fi 6 router targets latency-sen...**</span>  
-<span style="color:red;">**- Does Aluminum Foil Help Improve WiFi Signal? - News18**</span>  
-<span style="color:red;">**- Benchmarking Repairability Scores With An Asus Tablet - Hackaday**</span>  
-<span style="color:red;">**- 5 reasons why the TP-Link RE700X WiFi amplifier is the best investment for yo...**</span>  
-<span style="color:red;">**- ADI Expands Araknis Wi-Fi 7 Lineup With Premium 830 Access Point - Commercial...**</span>  
+<span style="color:red;">**- TECH WATCH: High-density Wi-Fi 7 with directional APs - with Maurice Dini of ...**</span>  
+<span style="color:red;">**- MTN Nigeria Reduces Cost Of Broadband Internet Router, Unveils New Data Bundl...**</span>  
+<span style="color:red;">**- Router overheating? The simple mistakes killing your Wi-Fi this summer — acco...**</span>  
+<span style="color:red;">**- ADI expands Araknis Wi-Fi 7 portfolio - Installation-international**</span>  
+<span style="color:red;">**- 3 Electronics At Costco With Deep Discounts In July 2026 - SlashGear**</span>  
+
+[2026-07-15 - Daily Briefing (13 articles)](briefings/2026-07-15.md)
+
+- Netgear Nighthawk XR1000 by Netgear Inc. - Wi-Fi 6 router targets latency-sen...
+- Does Aluminum Foil Help Improve WiFi Signal? - News18
+- Benchmarking Repairability Scores With An Asus Tablet - Hackaday
 
 [2026-07-14 - Daily Briefing (10 articles)](briefings/2026-07-14.md)
 
