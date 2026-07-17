@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-16 10:18**
+Last updated: **2026-07-17 10:05**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-16.md" style="color:red;font-weight:bold;">
-    2026-07-16 - Daily Briefing (21 articles)
+  <a href="briefings/2026-07-17.md" style="color:red;font-weight:bold;">
+    2026-07-17 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TECH WATCH: High-density Wi-Fi 7 with directional APs - with Maurice Dini of ...**</span>  
-<span style="color:red;">**- MTN Nigeria Reduces Cost Of Broadband Internet Router, Unveils New Data Bundl...**</span>  
-<span style="color:red;">**- Router overheating? The simple mistakes killing your Wi-Fi this summer — acco...**</span>  
-<span style="color:red;">**- ADI expands Araknis Wi-Fi 7 portfolio - Installation-international**</span>  
-<span style="color:red;">**- 3 Electronics At Costco With Deep Discounts In July 2026 - SlashGear**</span>  
+<span style="color:red;">**- Upgrade your home WiFi with this versatile $167 ASUS router - Mashable**</span>  
+<span style="color:red;">**- San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco**</span>  
+<span style="color:red;">**- Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off - P...**</span>  
+<span style="color:red;">**- I changed my router's Wi-Fi channel, and suddenly Netflix stopped buffering -...**</span>  
+<span style="color:red;">**- For those in the back that didn’t hear this before – this is why your Wi-Fi i...**</span>  
+
+[2026-07-16 - Daily Briefing (21 articles)](briefings/2026-07-16.md)
+
+- TECH WATCH: High-density Wi-Fi 7 with directional APs - with Maurice Dini of ...
+- MTN Nigeria Reduces Cost Of Broadband Internet Router, Unveils New Data Bundl...
+- Router overheating? The simple mistakes killing your Wi-Fi this summer — acco...
 
 [2026-07-15 - Daily Briefing (13 articles)](briefings/2026-07-15.md)
 
