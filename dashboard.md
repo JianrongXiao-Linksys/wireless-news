@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-17 10:05**
+Last updated: **2026-07-18 09:40**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-17.md" style="color:red;font-weight:bold;">
-    2026-07-17 - Daily Briefing (14 articles)
+  <a href="briefings/2026-07-18.md" style="color:red;font-weight:bold;">
+    2026-07-18 - Daily Briefing (17 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Upgrade your home WiFi with this versatile $167 ASUS router - Mashable**</span>  
-<span style="color:red;">**- San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco**</span>  
-<span style="color:red;">**- Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off - P...**</span>  
-<span style="color:red;">**- I changed my router's Wi-Fi channel, and suddenly Netflix stopped buffering -...**</span>  
-<span style="color:red;">**- For those in the back that didn’t hear this before – this is why your Wi-Fi i...**</span>  
+<span style="color:red;">**- I found a hidden router trick that could fix your Wi-Fi - Pocket-lint**</span>  
+<span style="color:red;">**- Applications close in 48 hours — here’s everything Australian founders need t...**</span>  
+<span style="color:red;">**- Best ASUS Wi-Fi Routers and Mesh Systems: The Real-World Tested Top Fives - D...**</span>  
+<span style="color:red;">**- Apple and Google ordered to purge ‘nudify’ apps from App Stores**</span>  
+<span style="color:red;">**- The 5 Best Routers For Fiber Internet of 2026 - RTINGS.com**</span>  
+
+[2026-07-17 - Daily Briefing (14 articles)](briefings/2026-07-17.md)
+
+- Upgrade your home WiFi with this versatile $167 ASUS router - Mashable
+- San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco
+- Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off - P...
 
 [2026-07-16 - Daily Briefing (21 articles)](briefings/2026-07-16.md)
 
