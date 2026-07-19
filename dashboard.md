@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-18 09:40**
+Last updated: **2026-07-19 09:57**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-18.md" style="color:red;font-weight:bold;">
-    2026-07-18 - Daily Briefing (17 articles)
+  <a href="briefings/2026-07-19.md" style="color:red;font-weight:bold;">
+    2026-07-19 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- I found a hidden router trick that could fix your Wi-Fi - Pocket-lint**</span>  
-<span style="color:red;">**- Applications close in 48 hours — here’s everything Australian founders need t...**</span>  
-<span style="color:red;">**- Best ASUS Wi-Fi Routers and Mesh Systems: The Real-World Tested Top Fives - D...**</span>  
-<span style="color:red;">**- Apple and Google ordered to purge ‘nudify’ apps from App Stores**</span>  
-<span style="color:red;">**- The 5 Best Routers For Fiber Internet of 2026 - RTINGS.com**</span>  
+<span style="color:red;">**- Wi-Fi 8: Broadcom's Hardware Advantage: Leading The Wi-Fi 8 Revolution Jim Mi...**</span>  
+<span style="color:red;">**- Broadcom Launches Unified Wi-Fi 8 Platform For Seamless AI Experiences In Hom...**</span>  
+<span style="color:red;">**- 5 Devices You Should Always Connect To 5 GHz Wi-Fi - SlashGear**</span>  
+<span style="color:red;">**- Popular TP-Link Archer AX21 router is down to its lowest price ever on Amazon...**</span>  
+<span style="color:red;">**- Amazon deal has knocked 21% off the TP-Link Deco X55 mesh system - PC Guide**</span>  
+
+[2026-07-18 - Daily Briefing (17 articles)](briefings/2026-07-18.md)
+
+- I found a hidden router trick that could fix your Wi-Fi - Pocket-lint
+- Applications close in 48 hours — here’s everything Australian founders need t...
+- Best ASUS Wi-Fi Routers and Mesh Systems: The Real-World Tested Top Fives - D...
 
 [2026-07-17 - Daily Briefing (14 articles)](briefings/2026-07-17.md)
 
