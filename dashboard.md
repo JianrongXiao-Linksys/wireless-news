@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-19 09:57**
+Last updated: **2026-07-20 11:08**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-19.md" style="color:red;font-weight:bold;">
-    2026-07-19 - Daily Briefing (12 articles)
+  <a href="briefings/2026-07-20.md" style="color:red;font-weight:bold;">
+    2026-07-20 - Daily Briefing (5 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Wi-Fi 8: Broadcom's Hardware Advantage: Leading The Wi-Fi 8 Revolution Jim Mi...**</span>  
-<span style="color:red;">**- Broadcom Launches Unified Wi-Fi 8 Platform For Seamless AI Experiences In Hom...**</span>  
-<span style="color:red;">**- 5 Devices You Should Always Connect To 5 GHz Wi-Fi - SlashGear**</span>  
-<span style="color:red;">**- Popular TP-Link Archer AX21 router is down to its lowest price ever on Amazon...**</span>  
-<span style="color:red;">**- Amazon deal has knocked 21% off the TP-Link Deco X55 mesh system - PC Guide**</span>  
+<span style="color:red;">**- Germany's 1&1 introduces new HomeServer Wi-Fi 7 router for EUR 5 per month - ...**</span>  
+<span style="color:red;">**- Millions Of Tenda Wi-Fi Routers Exposed By Hidden Backdoor Security Flaw - Ho...**</span>  
+<span style="color:red;">**- I couldn't afford mesh Wi-Fi, so I built one from spare parts - How-To Geek**</span>  
+<span style="color:red;">**- More ASUS Motherboards To Enjoy Working Sensor Monitoring With Linux 7.3 - Ph...**</span>  
+<span style="color:red;">**- You Could Probably Use a New Router. Our Readers Have Recommendations - Yahoo...**</span>  
+
+[2026-07-19 - Daily Briefing (12 articles)](briefings/2026-07-19.md)
+
+- Wi-Fi 8: Broadcom's Hardware Advantage: Leading The Wi-Fi 8 Revolution Jim Mi...
+- Broadcom Launches Unified Wi-Fi 8 Platform For Seamless AI Experiences In Hom...
+- 5 Devices You Should Always Connect To 5 GHz Wi-Fi - SlashGear
 
 [2026-07-18 - Daily Briefing (17 articles)](briefings/2026-07-18.md)
 
