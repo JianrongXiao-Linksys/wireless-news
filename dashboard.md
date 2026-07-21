@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-20 11:08**
+Last updated: **2026-07-21 10:30**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-20.md" style="color:red;font-weight:bold;">
-    2026-07-20 - Daily Briefing (5 articles)
+  <a href="briefings/2026-07-21.md" style="color:red;font-weight:bold;">
+    2026-07-21 - Daily Briefing (8 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Germany's 1&1 introduces new HomeServer Wi-Fi 7 router for EUR 5 per month - ...**</span>  
-<span style="color:red;">**- Millions Of Tenda Wi-Fi Routers Exposed By Hidden Backdoor Security Flaw - Ho...**</span>  
-<span style="color:red;">**- I couldn't afford mesh Wi-Fi, so I built one from spare parts - How-To Geek**</span>  
-<span style="color:red;">**- More ASUS Motherboards To Enjoy Working Sensor Monitoring With Linux 7.3 - Ph...**</span>  
-<span style="color:red;">**- You Could Probably Use a New Router. Our Readers Have Recommendations - Yahoo...**</span>  
+<span style="color:red;">**- Using a MikroTik as a home router - Adafruit**</span>  
+<span style="color:red;">**- Serious flaws found in a popular WiFi camera - Adafruit**</span>  
+<span style="color:red;">**- Who Owns TP-Link? - bgr.com**</span>  
+<span style="color:red;">**- Amazon's Best Back-to-School Deals on Headphones, Laptops, Tablets, and More ...**</span>  
+<span style="color:red;">**- How to See Who’s Connected to Your Home Wi-Fi in Just a Few Minutes - El Cron...**</span>  
+
+[2026-07-20 - Daily Briefing (5 articles)](briefings/2026-07-20.md)
+
+- Germany's 1&1 introduces new HomeServer Wi-Fi 7 router for EUR 5 per month - ...
+- Millions Of Tenda Wi-Fi Routers Exposed By Hidden Backdoor Security Flaw - Ho...
+- I couldn't afford mesh Wi-Fi, so I built one from spare parts - How-To Geek
 
 [2026-07-19 - Daily Briefing (12 articles)](briefings/2026-07-19.md)
 
