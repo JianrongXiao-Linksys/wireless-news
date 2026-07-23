@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-22 10:31**
+Last updated: **2026-07-23 10:30**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-22.md" style="color:red;font-weight:bold;">
-    2026-07-22 - Daily Briefing (12 articles)
+  <a href="briefings/2026-07-23.md" style="color:red;font-weight:bold;">
+    2026-07-23 - Daily Briefing (7 articles)
   </a>
 </p>
 
-<span style="color:red;">**- This pocket-sized TP-Link travel router keeps you safe on public Wi-Fi, and i...**</span>  
-<span style="color:red;">**- Standard Non-Wi-Fi Routers: 100% Best for Wi-Fi Networks - Dong Knows Tech**</span>  
-<span style="color:red;">**- Is Your Internet Actually Down? 13 Fast Ways to Fix Your Connection and Get B...**</span>  
-<span style="color:red;">**- TP-Link’s Deco 7 BE25 Is Amazon’s Best Seller In Wi-Fi 7 Mesh Systems; With I...**</span>  
-<span style="color:red;">**- TP-Link’s $35 Wi-Fi extender fixes weak signal without a new router - PCWorld**</span>  
+<span style="color:red;">**- Automotive connectivity and efficiency: seizing the Wi-Fi 7 opportunity—downl...**</span>  
+<span style="color:red;">**- GUEST BLOG by LitePoint: Wi-Fi 8 is an AI enabler where reliability is king -...**</span>  
+<span style="color:red;">**- Cambium Networks Introduces High Density Wi-Fi 7 Solution for the Enterprise ...**</span>  
+<span style="color:red;">**- I still miss these 3 Apple AirPort features every time I set up a new Wi-Fi r...**</span>  
+<span style="color:red;">**- I Tested the Galaxy Watch Ultra 2 for a Week and It’s a Rugged Scene-Stealer**</span>  
+
+[2026-07-22 - Daily Briefing (12 articles)](briefings/2026-07-22.md)
+
+- This pocket-sized TP-Link travel router keeps you safe on public Wi-Fi, and i...
+- Standard Non-Wi-Fi Routers: 100% Best for Wi-Fi Networks - Dong Knows Tech
+- Is Your Internet Actually Down? 13 Fast Ways to Fix Your Connection and Get B...
 
 [2026-07-21 - Daily Briefing (8 articles)](briefings/2026-07-21.md)
 
