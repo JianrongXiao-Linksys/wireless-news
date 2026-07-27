@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-26 10:07**
+Last updated: **2026-07-27 11:32**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,18 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-26.md" style="color:red;font-weight:bold;">
-    2026-07-26 - Daily Briefing (7 articles)
+  <a href="briefings/2026-07-27.md" style="color:red;font-weight:bold;">
+    2026-07-27 - Daily Briefing (1 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Not Netgear, Not Eero: This Router Is The Top Seller On Amazon - bgr.com**</span>  
-<span style="color:red;">**- I stopped guessing how many mesh points I needed and ran this simple test - M...**</span>  
-<span style="color:red;">**- The FPS Review Weekender: ASUS ProArt RTX 5080 OC Proves You Don't Need a Rad...**</span>  
-<span style="color:red;">**- Wi-Fi 8: Broadcom's Hardware Advantage: Leading The Wi-Fi 8 Revolution Jim Mi...**</span>  
-<span style="color:red;">**- What Makes Netgear 'Nighthawk' Routers So Expensive? - bgr.com**</span>  
+<span style="color:red;">**- Limited time Prime Deal on ASUS ROG Strix B850-G motherboard for Ryzen CPUs -...**</span>  
+
+[2026-07-26 - Daily Briefing (7 articles)](briefings/2026-07-26.md)
+
+- Not Netgear, Not Eero: This Router Is The Top Seller On Amazon - bgr.com
+- I stopped guessing how many mesh points I needed and ran this simple test - M...
+- The FPS Review Weekender: ASUS ProArt RTX 5080 OC Proves You Don't Need a Rad...
 
 [2026-07-25 - Daily Briefing (9 articles)](briefings/2026-07-25.md)
 
