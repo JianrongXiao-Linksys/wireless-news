@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-27 11:32**
+Last updated: **2026-07-28 10:41**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,12 +9,20 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-27.md" style="color:red;font-weight:bold;">
-    2026-07-27 - Daily Briefing (1 articles)
+  <a href="briefings/2026-07-28.md" style="color:red;font-weight:bold;">
+    2026-07-28 - Daily Briefing (7 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Limited time Prime Deal on ASUS ROG Strix B850-G motherboard for Ryzen CPUs -...**</span>  
+<span style="color:red;">**- Wi-Fi 7 Explained: Everything You Need to Know About the Next Generation of W...**</span>  
+<span style="color:red;">**- Starlink Exempted From FCC's Foreign-Made Wi-Fi Router Ban - PCMag**</span>  
+<span style="color:red;">**- AMD Strix Halo with 32 GB RAM for $1899 - Asus ProArt PX13 2026 Convertible R...**</span>  
+<span style="color:red;">**- Gigabyte just released a brand new Socket AM4 motherboard, complete with Wi-F...**</span>  
+<span style="color:red;">**- I changed my Wi-Fi channel width from 20MHz to 80MHz and got instant speed ga...**</span>  
+
+[2026-07-27 - Daily Briefing (1 articles)](briefings/2026-07-27.md)
+
+- Limited time Prime Deal on ASUS ROG Strix B850-G motherboard for Ryzen CPUs -...
 
 [2026-07-26 - Daily Briefing (7 articles)](briefings/2026-07-26.md)
 
