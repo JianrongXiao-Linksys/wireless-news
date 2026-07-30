@@ -4,19 +4,22 @@ Daily news briefings covering major wireless router brands and WiFi standards.
 
 **Tracking**: Linksys | Netgear | TP-Link | Asus | D-Link | Ubiquiti | WiFi 7 | WiFi 8 | Mesh WiFi
 
-*Last updated: 2026-07-29 10:45*
+*Last updated: 2026-07-30 10:31*
 
 ---
 
-<h3 style="color:red;">2026-07-29 - Daily Briefing (7 articles)</h3>
+<h3 style="color:red;">2026-07-30 - Daily Briefing (2 articles)</h3>
 
-<span style="color:red;"><b>1. <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1Rb21aaDV3aWlYY201eDdNQUoySzB2TW1kZ1ZPQ2pzbzJSN01DN2dwSzhfYVlvR3M1V0NFalR6ZDVlS1VmVUhtRWNsblRyV3NDNllHdzV2UmdsX2FKUGJlcVlHWVFDbFNOdjA4LWN1bnhmVC1nSVFsaVFkUVBYSHM?oc=5" style="color:red;">D-Link Unveils New 10G Wi-Fi 7 Mesh Router</a></b> — channelnews.com.au</span><br>
-<span style="color:red;"><b>2. <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm9pa1BFSDhyYjRXZUhYcXNZRjRTd21hWHBYR0R2NjVTbTkwNlB3RU5kRWdzQU9aMHZIMkw0VVhOWktaM2hmNGh4aXUyMDhESlRFLVN3SzlsOTg2bzZEUV8tY0l5SGNMSXBoUDFlQTZTa3U3N25JLTZmbHBKanFIcTYyX3JzY1JacTBubnpHZzFlOHdLLS1JaWxMamVSMkNkWTZHOVV2d3A?oc=5" style="color:red;">D-Link launches BE7200 10G Wi-Fi 7 Mesh Router for Australia's faster NBN and New Zealand Hyperfibre networks</a></b> — Digital Reviews Network</span><br>
-<span style="color:red;"><b>3. <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGlpTU1BaUpZbW1BRXA1dVFQX2RqdjZBNTQzRmtzOW5vUmk2M2k2VjFjUWRpcW5PNXN2VWVTLWNzOWtJcjFsZEdrWkotdVJ4cXYtNVVZQVc3WENRUldUZGJFWFc1Y1dLV1I4N2hRcGd4alExN0hPWl9BWFlSdnNHNmVub2JtcGRmT2M0ZEVmZjJKcERrTkxUV0gxS19nVzZDWHJQbFBrcGx4NHBtWURNZXowNkswNVIwYnFKR21xTUVaUGZDYmRSQlZqZw?oc=5" style="color:red;">D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes</a></b> — SMBtech</span><br>
-<span style="color:red;"><b>4. <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9lVFNYS0tYdThKV21GNmp0eXpiQ2Y0RWxNdXhLSTFRaTY3MVd6Y0F1Ukl3V2F4ZWJQN1ptWVJLQzlhZkJoZVNCaDVkVGZ3czAtSzVFX2pHa0dadGwtWEw1R0JQM0pjNHpUUWRpYUVlbzZiMnJRS25CaA?oc=5" style="color:red;">This TP-Link Wi-Fi 7 router just hit its lowest price yet on Amazon</a></b> — Android Authority</span><br>
-<span style="color:red;"><b>5. <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdExyOFpDZ3RmUmdsc1pVZ3ZCUGNuOVVHTWZpN2lBazdXbEtRNmI4TnV1V0EwOFJaYjlfeVBFNXIxYVVUNDd4N002a085UlNuV2o4djYxbGdaRndTYkpvZDJud2xUR0syWjZhTjVBZkNBc1BoMjVSaEJXR1IyTW5COFZPcWFUaTRNSmp0RHE3WmJMZFlBd0Y3RHlWZUVEUU1Rb0c3SHNQRlY5TXA1LXBpem1qMm5aWkFSaWE5bmkySjJGUF9jWi1SWmNHWk52YV9ZYUE?oc=5" style="color:red;">Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less</a></b> — Gizmodo</span><br>
-<span style="color:red;"><b>6. <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHA2Sm1KYURuajBOcWFZSjltQnBiQkUzX1FfLUNSZFJyLUxjQngyQzZCYnd1X1BKeUVBQXFoVkYzTjQ4X3F4cDNRVFhWMXpMZ2pRdzE3aUFtWVc3N0E2dW5FRHVxU1B0dDA4SUVXa0R3WElqWW56dTFFemJXX3o2YjZSVjhXZ0MyODYtOWJCVXJSNmlRcndNOXl3alVmSFlTN216ZA?oc=5" style="color:red;">Starlink Exempted From FCC's Foreign-Made Wi-Fi Router Ban</a></b> — PCMag UK</span><br>
-<span style="color:red;"><b>7. <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zLThOXzNVU2JUaEQ3MWJnai1sVy1oM1F6UDBIRVMyTC1aMTU0bVJWNkdib2F5X2licl8yNXlHY2pqZERTbmdTbkhiYVF3X09JZDJfZGVmOHNFbmNQaDl6dTN3?oc=5" style="color:red;">The Best Mobile Hotspots We've Tested for 2026</a></b> — PCMag</span><br>
+<span style="color:red;"><b>1. <a href="https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings" style="color:red;">Qualcomm is raising phone chip prices starting September 1st</a></b> — The Verge</span><br>
+<span style="color:red;"><b>2. <a href="https://www.tomshardware.com/laptops/testing-laptops-on-battery-life-and-ac-power-comparing-intel-qualcomm-apple-and-amd" style="color:red;">Testing laptops on battery and AC power — Comparing Intel, Qualcomm, Apple, and AMD</a></b> — Tom's Hardware</span><br>
+
+### 2026-07-29 - Daily Briefing (7 articles)
+
+- [D-Link Unveils New 10G Wi-Fi 7 Mesh Router - channelnews.com.au](https://news.google.com/rss/articles/CBMif0FVX3lxTE1Rb21aaDV3aWlYY201eDdNQUoySzB2TW1kZ1ZPQ2pzbzJSN01DN2dwSzhfYVlvR3M1V0NFalR6ZDVlS1VmVUhtRWNsblRyV3NDNllHdzV2UmdsX2FKUGJlcVlHWVFDbFNOdjA4LWN1bnhmVC1nSVFsaVFkUVBYSHM?oc=5) — channelnews.com.au
+- [D-Link launches BE7200 10G Wi-Fi 7 Mesh Router for Australia's faster NBN and New Zealand Hyperfibre networks - Digital Reviews Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm9pa1BFSDhyYjRXZUhYcXNZRjRTd21hWHBYR0R2NjVTbTkwNlB3RU5kRWdzQU9aMHZIMkw0VVhOWktaM2hmNGh4aXUyMDhESlRFLVN3SzlsOTg2bzZEUV8tY0l5SGNMSXBoUDFlQTZTa3U3N25JLTZmbHBKanFIcTYyX3JzY1JacTBubnpHZzFlOHdLLS1JaWxMamVSMkNkWTZHOVV2d3A?oc=5) — Digital Reviews Network
+- [D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes - SMBtech](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGlpTU1BaUpZbW1BRXA1dVFQX2RqdjZBNTQzRmtzOW5vUmk2M2k2VjFjUWRpcW5PNXN2VWVTLWNzOWtJcjFsZEdrWkotdVJ4cXYtNVVZQVc3WENRUldUZGJFWFc1Y1dLV1I4N2hRcGd4alExN0hPWl9BWFlSdnNHNmVub2JtcGRmT2M0ZEVmZjJKcERrTkxUV0gxS19nVzZDWHJQbFBrcGx4NHBtWURNZXowNkswNVIwYnFKR21xTUVaUGZDYmRSQlZqZw?oc=5) — SMBtech
+- [This TP-Link Wi-Fi 7 router just hit its lowest price yet on Amazon - Android Authority](https://news.google.com/rss/articles/CBMieEFVX3lxTE9lVFNYS0tYdThKV21GNmp0eXpiQ2Y0RWxNdXhLSTFRaTY3MVd6Y0F1Ukl3V2F4ZWJQN1ptWVJLQzlhZkJoZVNCaDVkVGZ3czAtSzVFX2pHa0dadGwtWEw1R0JQM0pjNHpUUWRpYUVlbzZiMnJRS25CaA?oc=5) — Android Authority
+- [Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less - Gizmodo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdExyOFpDZ3RmUmdsc1pVZ3ZCUGNuOVVHTWZpN2lBazdXbEtRNmI4TnV1V0EwOFJaYjlfeVBFNXIxYVVUNDd4N002a085UlNuV2o4djYxbGdaRndTYkpvZDJud2xUR0syWjZhTjVBZkNBc1BoMjVSaEJXR1IyTW5COFZPcWFUaTRNSmp0RHE3WmJMZFlBd0Y3RHlWZUVEUU1Rb0c3SHNQRlY5TXA1LXBpem1qMm5aWkFSaWE5bmkySjJGUF9jWi1SWmNHWk52YV9ZYUE?oc=5) — Gizmodo
 
 ### 2026-07-28 - Daily Briefing (7 articles)
 

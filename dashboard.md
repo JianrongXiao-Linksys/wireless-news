@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-29 10:45**
+Last updated: **2026-07-30 10:31**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,19 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-29.md" style="color:red;font-weight:bold;">
-    2026-07-29 - Daily Briefing (7 articles)
+  <a href="briefings/2026-07-30.md" style="color:red;font-weight:bold;">
+    2026-07-30 - Daily Briefing (2 articles)
   </a>
 </p>
 
-<span style="color:red;">**- D-Link Unveils New 10G Wi-Fi 7 Mesh Router - channelnews.com.au**</span>  
-<span style="color:red;">**- D-Link launches BE7200 10G Wi-Fi 7 Mesh Router for Australia's faster NBN and...**</span>  
-<span style="color:red;">**- D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Aus...**</span>  
-<span style="color:red;">**- This TP-Link Wi-Fi 7 router just hit its lowest price yet on Amazon - Android...**</span>  
-<span style="color:red;">**- Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your...**</span>  
+<span style="color:red;">**- Qualcomm is raising phone chip prices starting September 1st**</span>  
+<span style="color:red;">**- Testing laptops on battery and AC power — Comparing Intel, Qualcomm, Apple, a...**</span>  
+
+[2026-07-29 - Daily Briefing (7 articles)](briefings/2026-07-29.md)
+
+- D-Link Unveils New 10G Wi-Fi 7 Mesh Router - channelnews.com.au
+- D-Link launches BE7200 10G Wi-Fi 7 Mesh Router for Australia's faster NBN and...
+- D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Aus...
 
 [2026-07-28 - Daily Briefing (7 articles)](briefings/2026-07-28.md)
 
