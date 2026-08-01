@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-07-31 10:46**
+Last updated: **2026-08-01 10:05**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-07-31.md" style="color:red;font-weight:bold;">
-    2026-07-31 - Daily Briefing (23 articles)
+  <a href="briefings/2026-08-01.md" style="color:red;font-weight:bold;">
+    2026-08-01 - Daily Briefing (15 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Qualcomm-powered robot collapses spectacularly on stage during company's keyn...**</span>  
-<span style="color:red;">**- NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a...**</span>  
-<span style="color:red;">**- Quectel presents tri-band Wi-Fi 7 modules with Bluetooth 6.0 support - New El...**</span>  
-<span style="color:red;">**- D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband B...**</span>  
-<span style="color:red;">**- Should You Avoid TP-Link Routers? Here's What To Know - Engadget**</span>  
+<span style="color:red;">**- Slow Internet? Check Router Placement and Settings - 조선일보**</span>  
+<span style="color:red;">**- Data Byte: This router's signal strength beat most competitors in our lab tes...**</span>  
+<span style="color:red;">**- You can finally upgrade to Wi-Fi 7 without the premium price tag - XDA**</span>  
+<span style="color:red;">**- Slow Downloads? These Tweaks Could Speed Up Your Router - engadget.com**</span>  
+<span style="color:red;">**- Less than 24 hours remain to score this TP-Link WiFi 7 router for 24% less - ...**</span>  
+
+[2026-07-31 - Daily Briefing (23 articles)](briefings/2026-07-31.md)
+
+- Qualcomm-powered robot collapses spectacularly on stage during company's keyn...
+- NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a...
+- Quectel presents tri-band Wi-Fi 7 modules with Bluetooth 6.0 support - New El...
 
 [2026-07-30 - Daily Briefing (2 articles)](briefings/2026-07-30.md)
 
