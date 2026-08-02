@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-01 10:05**
+Last updated: **2026-08-02 10:03**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-01.md" style="color:red;font-weight:bold;">
-    2026-08-01 - Daily Briefing (15 articles)
+  <a href="briefings/2026-08-02.md" style="color:red;font-weight:bold;">
+    2026-08-02 - Daily Briefing (7 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Slow Internet? Check Router Placement and Settings - 조선일보**</span>  
-<span style="color:red;">**- Data Byte: This router's signal strength beat most competitors in our lab tes...**</span>  
-<span style="color:red;">**- You can finally upgrade to Wi-Fi 7 without the premium price tag - XDA**</span>  
-<span style="color:red;">**- Slow Downloads? These Tweaks Could Speed Up Your Router - engadget.com**</span>  
-<span style="color:red;">**- Less than 24 hours remain to score this TP-Link WiFi 7 router for 24% less - ...**</span>  
+<span style="color:red;">**- Broadband ISP YouFibre Slash 8Gbps Plan to £50pm and Adopt 24 Month Terms - I...**</span>  
+<span style="color:red;">**- 5 Useful Accessories That Can Upgrade Your Home Wi-Fi - bgr.com**</span>  
+<span style="color:red;">**- My Wi-Fi 6E router was sabotaging itself — band steering was the culprit - Ma...**</span>  
+<span style="color:red;">**- ASUS ROG Strix B650-A Gaming Wifi vs Strix B650E-F Gaming WiFi comparison - D...**</span>  
+<span style="color:red;">**- Slow Downloads? These Tweaks Could Speed Up Your Router - Engadget**</span>  
+
+[2026-08-01 - Daily Briefing (15 articles)](briefings/2026-08-01.md)
+
+- Slow Internet? Check Router Placement and Settings - 조선일보
+- Data Byte: This router's signal strength beat most competitors in our lab tes...
+- You can finally upgrade to Wi-Fi 7 without the premium price tag - XDA
 
 [2026-07-31 - Daily Briefing (23 articles)](briefings/2026-07-31.md)
 
