@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-02 10:03**
+Last updated: **2026-08-03 11:35**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,20 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-02.md" style="color:red;font-weight:bold;">
-    2026-08-02 - Daily Briefing (7 articles)
+  <a href="briefings/2026-08-03.md" style="color:red;font-weight:bold;">
+    2026-08-03 - Daily Briefing (3 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Broadband ISP YouFibre Slash 8Gbps Plan to £50pm and Adopt 24 Month Terms - I...**</span>  
-<span style="color:red;">**- 5 Useful Accessories That Can Upgrade Your Home Wi-Fi - bgr.com**</span>  
-<span style="color:red;">**- My Wi-Fi 6E router was sabotaging itself — band steering was the culprit - Ma...**</span>  
-<span style="color:red;">**- ASUS ROG Strix B650-A Gaming Wifi vs Strix B650E-F Gaming WiFi comparison - D...**</span>  
-<span style="color:red;">**- Slow Downloads? These Tweaks Could Speed Up Your Router - Engadget**</span>  
+<span style="color:red;">**- 5 Of The Most Common TP-Link Router Problems And How To Fix Them - bgr.com**</span>  
+<span style="color:red;">**- Roundup: Wi-Fi Alliance & Bluetooth SIG collaborate, Plume's new CRO, Extreme...**</span>  
+<span style="color:red;">**- My Wi-Fi 6E router was sabotaging itself — band steering was the culprit - ma...**</span>  
+
+[2026-08-02 - Daily Briefing (7 articles)](briefings/2026-08-02.md)
+
+- Broadband ISP YouFibre Slash 8Gbps Plan to £50pm and Adopt 24 Month Terms - I...
+- 5 Useful Accessories That Can Upgrade Your Home Wi-Fi - bgr.com
+- My Wi-Fi 6E router was sabotaging itself — band steering was the culprit - Ma...
 
 [2026-08-01 - Daily Briefing (15 articles)](briefings/2026-08-01.md)
 

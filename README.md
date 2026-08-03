@@ -4,19 +4,23 @@ Daily news briefings covering major wireless router brands and WiFi standards.
 
 **Tracking**: Linksys | Netgear | TP-Link | Asus | D-Link | Ubiquiti | WiFi 7 | WiFi 8 | Mesh WiFi
 
-*Last updated: 2026-08-02 10:03*
+*Last updated: 2026-08-03 11:35*
 
 ---
 
-<h3 style="color:red;">2026-08-02 - Daily Briefing (7 articles)</h3>
+<h3 style="color:red;">2026-08-03 - Daily Briefing (3 articles)</h3>
 
-<span style="color:red;"><b>1. <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVNNa1FPNjhnSTM0dENBa0pxN3VSQVRlTnFDRm5OS043WWU4ZEdGeFVMcDEySlNZYjBCeGNIOXZINnQxZjJPT0dWTV9LbXBvM0F5YTRmaWVVZUJ6U0dpdjd0M0xPZEY3bE4zMEl0dXhNUUozWG1WeFFzdVpRSm13bG5POUp6RWw2ZVQtaVZ2anU3YU42cEFTQW9senU0c1FZbVFDTEFSSTB3dVhsbk1jcTlLbFdkSDY2VUhSNV91U08?oc=5" style="color:red;">Broadband ISP YouFibre Slash 8Gbps Plan to £50pm and Adopt 24 Month Terms</a></b> — ISPreview UK</span><br>
-<span style="color:red;"><b>2. <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1BaE5sVHJIWWlmREVxTFprajBwMXBkUHdrbDY4MTRUUWtSc1MyQ1dya1FneFlJSFcxR2VSUzloTDFVdEtpc3VrUmJaay1RbWFfNmhTSnRYd3VXNE9RQ3VmRlNkZzM4ZWR0Z0tVbHNaMjVjbTEyRXVr?oc=5" style="color:red;">5 Useful Accessories That Can Upgrade Your Home Wi-Fi</a></b> — bgr.com</span><br>
-<span style="color:red;"><b>3. <a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNY3FQWC01bUtpZFYxcGZpcUFPSXpwYzhOYlM4Mk4taEZRZTVoa3pPVVZCMkpzMGlUaTBXTjdGVWp1dnh4ZTdnaGhUaGhIanV2c2J6QXloM0ExYzYzUnZGcF9jOUwxYjkydzhsN2FaV09QbGV0bmJkVXRxZ3pONGFzOTBkR29EanprRFNFY3JRRG1lSHdrZTBRaFM2dDZoZw?oc=5" style="color:red;">My Wi-Fi 6E router was sabotaging itself — band steering was the culprit</a></b> — MakeUseOf</span><br>
-<span style="color:red;"><b>4. <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0VwU2I5WElWV1hJZ1hIV2RfSEMwTEtJdjhmbWhaSXNQcHFDdk96WkEzdVZiOW5tZDJuVFlRNjRSTURvQzViVndzSG1VNkNmSklKOWFUQWpPSEZ4bXZqR0ZKQnpvZFZXWDBaUVNUUExiTTNVV3dNa01DeUdFQ0RZV0JaVnM4ajliWi0xLWVQM3E2UXBWM3NnTEJtTVJaS1ExRzc2dXJuVG1zVzlWVXp2b3FQUkEyZGtFTFFqUUUzVDVTNHIwYi16bHZYRXJqTHNaYTNKVkNOZkg?oc=5" style="color:red;">ASUS ROG Strix B650-A Gaming Wifi vs Strix B650E-F Gaming WiFi comparison</a></b> — Digitec</span><br>
-<span style="color:red;"><b>5. <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmhvUTFQaUNJWmZxVEFVRko5b05mZlRxaDVfRWJxNE9nR2dHTjlDWjJPb29EVFVoV3pmRm83Q0piNEVWOWpRM1NTSHZtYl9IbXpKSEtqVmJIRm1reVd1Z3Z1NW50X1R1UmcxS29vX3NjZ3laWElrQkg0RHNnNHR1LQ?oc=5" style="color:red;">Slow Downloads? These Tweaks Could Speed Up Your Router</a></b> — Engadget</span><br>
-<span style="color:red;"><b>6. <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFlyVDBmZmd6QVpKNW5nY3ZHM3RoM1JGdDVOVjFqMVRDVzhjWHlPRHhsS2ctUXh2bzc0b0tRS2NOeUdrSzV6cFdpd0xSMEhrT3pvclNOUmhnTng1aFA0ZGVYbWttYlUxaFliMU9Ba2xpN1F3UHhqM0w2Nkd1YjFNSDF6RVBsVVlNRDdvVkJSbXVIVkpVczVndWhBLXZCSUZoSGJXWktRNA?oc=5" style="color:red;">Less than 24 hours remain to score this TP-Link WiFi 7 router for 24% less</a></b> — PC Guide</span><br>
-<span style="color:red;"><b>7. <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VOWMwSU9QdWh5NGNxZ0RLeE5DdmVmcUxBTGtsTEh2SjhBUUNnVndBbUR2VWstYnZVRm92U1hPbmZsNHdWQXhFb3RQLXdldzJ5YWdEbGU2czBiLURWRGpGUHNrZEpYTG5s?oc=5" style="color:red;">Best travel router in 2026: our top portable routers</a></b> — PC Guide</span><br>
+<span style="color:red;"><b>1. <a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5jSjRTVVJVaXNUeVNvWHp4cE0xd1R1dmk3LU0tYVlEb2JrbFI1eFdibEY0UVg4NkU2RXYyVlp1OVRtcnlHX18wXzNNODdLZ1RmNUNhczhkaVNObTF1emtKcmd6VkZ1QkdadmkzTUpSNDdKamtBaXlaOFFB?oc=5" style="color:red;">5 Of The Most Common TP-Link Router Problems And How To Fix Them</a></b> — bgr.com</span><br>
+<span style="color:red;"><b>2. <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOXNVbU9ORy1EMzJtdFZhOXVFSXdSSVFGUmlQaW55QlhrbW9MMmVoUk9qeXREQ0pod0FVSVp3el9rQUhJQmdvUlg1REI1T0lXR2RNVmlWbmE5YllxS2ZjbHRHcmJ0MHNfU2d5TWN4c1JZWjZlVFRWMWVWdURkOE5ZZzNYUW01aE9sMTNja1h2cTBxQmNJVTgzdE5YMkw5V19aT3lRMXpLaDJfUGk5a3RNSjZHWVlXM2plcGszRVhyb3JiTGRiOWt2b0JxbERHTGJPYVJzT2h4dHY3bzV2bXlfX04xajdmSnc?oc=5" style="color:red;">Roundup: Wi-Fi Alliance & Bluetooth SIG collaborate, Plume's new CRO, Extreme's multi-beam solution, & validating Wi-Fi 8</a></b> — wifinowglobal.com</span><br>
+<span style="color:red;"><b>3. <a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNY3FQWC01bUtpZFYxcGZpcUFPSXpwYzhOYlM4Mk4taEZRZTVoa3pPVVZCMkpzMGlUaTBXTjdGVWp1dnh4ZTdnaGhUaGhIanV2c2J6QXloM0ExYzYzUnZGcF9jOUwxYjkydzhsN2FaV09QbGV0bmJkVXRxZ3pONGFzOTBkR29EanprRFNFY3JRRG1lSHdrZTBRaFM2dDZoZw?oc=5" style="color:red;">My Wi-Fi 6E router was sabotaging itself — band steering was the culprit</a></b> — makeuseof.com</span><br>
+
+### 2026-08-02 - Daily Briefing (7 articles)
+
+- [Broadband ISP YouFibre Slash 8Gbps Plan to £50pm and Adopt 24 Month Terms - ISPreview UK](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVNNa1FPNjhnSTM0dENBa0pxN3VSQVRlTnFDRm5OS043WWU4ZEdGeFVMcDEySlNZYjBCeGNIOXZINnQxZjJPT0dWTV9LbXBvM0F5YTRmaWVVZUJ6U0dpdjd0M0xPZEY3bE4zMEl0dXhNUUozWG1WeFFzdVpRSm13bG5POUp6RWw2ZVQtaVZ2anU3YU42cEFTQW9senU0c1FZbVFDTEFSSTB3dVhsbk1jcTlLbFdkSDY2VUhSNV91U08?oc=5) — ISPreview UK
+- [5 Useful Accessories That Can Upgrade Your Home Wi-Fi - bgr.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1BaE5sVHJIWWlmREVxTFprajBwMXBkUHdrbDY4MTRUUWtSc1MyQ1dya1FneFlJSFcxR2VSUzloTDFVdEtpc3VrUmJaay1RbWFfNmhTSnRYd3VXNE9RQ3VmRlNkZzM4ZWR0Z0tVbHNaMjVjbTEyRXVr?oc=5) — bgr.com
+- [My Wi-Fi 6E router was sabotaging itself — band steering was the culprit - MakeUseOf](https://news.google.com/rss/articles/CBMingFBVV95cUxNY3FQWC01bUtpZFYxcGZpcUFPSXpwYzhOYlM4Mk4taEZRZTVoa3pPVVZCMkpzMGlUaTBXTjdGVWp1dnh4ZTdnaGhUaGhIanV2c2J6QXloM0ExYzYzUnZGcF9jOUwxYjkydzhsN2FaV09QbGV0bmJkVXRxZ3pONGFzOTBkR29EanprRFNFY3JRRG1lSHdrZTBRaFM2dDZoZw?oc=5) — MakeUseOf
+- [ASUS ROG Strix B650-A Gaming Wifi vs Strix B650E-F Gaming WiFi comparison - Digitec](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0VwU2I5WElWV1hJZ1hIV2RfSEMwTEtJdjhmbWhaSXNQcHFDdk96WkEzdVZiOW5tZDJuVFlRNjRSTURvQzViVndzSG1VNkNmSklKOWFUQWpPSEZ4bXZqR0ZKQnpvZFZXWDBaUVNUUExiTTNVV3dNa01DeUdFQ0RZV0JaVnM4ajliWi0xLWVQM3E2UXBWM3NnTEJtTVJaS1ExRzc2dXJuVG1zVzlWVXp2b3FQUkEyZGtFTFFqUUUzVDVTNHIwYi16bHZYRXJqTHNaYTNKVkNOZkg?oc=5) — Digitec
+- [Slow Downloads? These Tweaks Could Speed Up Your Router - Engadget](https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmhvUTFQaUNJWmZxVEFVRko5b05mZlRxaDVfRWJxNE9nR2dHTjlDWjJPb29EVFVoV3pmRm83Q0piNEVWOWpRM1NTSHZtYl9IbXpKSEtqVmJIRm1reVd1Z3Z1NW50X1R1UmcxS29vX3NjZ3laWElrQkg0RHNnNHR1LQ?oc=5) — Engadget
 
 ### 2026-08-01 - Daily Briefing (15 articles)
 
