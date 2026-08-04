@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-03 11:35**
+Last updated: **2026-08-04 10:45**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,14 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-03.md" style="color:red;font-weight:bold;">
-    2026-08-03 - Daily Briefing (3 articles)
+  <a href="briefings/2026-08-04.md" style="color:red;font-weight:bold;">
+    2026-08-04 - Daily Briefing (13 articles)
   </a>
 </p>
 
-<span style="color:red;">**- 5 Of The Most Common TP-Link Router Problems And How To Fix Them - bgr.com**</span>  
-<span style="color:red;">**- Roundup: Wi-Fi Alliance & Bluetooth SIG collaborate, Plume's new CRO, Extreme...**</span>  
-<span style="color:red;">**- My Wi-Fi 6E router was sabotaging itself — band steering was the culprit - ma...**</span>  
+<span style="color:red;">**- Beyond Faster Wi-Fi: How Wi-Fi 7 Could Reshape Africa’s Enterprises and Publi...**</span>  
+<span style="color:red;">**- Three major PC makers now using Chinese memory to fight 'unprecedented memory...**</span>  
+<span style="color:red;">**- FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here -...**</span>  
+<span style="color:red;">**- RichWave says Wi-Fi 7 momentum stays strong in 2H26 - digitimes**</span>  
+<span style="color:red;">**- Giveaway: Win an ASUS TUF Gaming B850-PRO WiFi 7 Motherboard and 360mm ARGB A...**</span>  
+
+[2026-08-03 - Daily Briefing (3 articles)](briefings/2026-08-03.md)
+
+- 5 Of The Most Common TP-Link Router Problems And How To Fix Them - bgr.com
+- Roundup: Wi-Fi Alliance & Bluetooth SIG collaborate, Plume's new CRO, Extreme...
+- My Wi-Fi 6E router was sabotaging itself — band steering was the culprit - ma...
 
 [2026-08-02 - Daily Briefing (7 articles)](briefings/2026-08-02.md)
 
