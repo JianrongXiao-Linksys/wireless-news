@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-04 10:45**
+Last updated: **2026-08-05 10:42**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-04.md" style="color:red;font-weight:bold;">
-    2026-08-04 - Daily Briefing (13 articles)
+  <a href="briefings/2026-08-05.md" style="color:red;font-weight:bold;">
+    2026-08-05 - Daily Briefing (13 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Beyond Faster Wi-Fi: How Wi-Fi 7 Could Reshape Africa’s Enterprises and Publi...**</span>  
-<span style="color:red;">**- Three major PC makers now using Chinese memory to fight 'unprecedented memory...**</span>  
-<span style="color:red;">**- FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here -...**</span>  
-<span style="color:red;">**- RichWave says Wi-Fi 7 momentum stays strong in 2H26 - digitimes**</span>  
-<span style="color:red;">**- Giveaway: Win an ASUS TUF Gaming B850-PRO WiFi 7 Motherboard and 360mm ARGB A...**</span>  
+<span style="color:red;">**- Wi-Fi 7 Grows 4x in the U.S. - ookla.com**</span>  
+<span style="color:red;">**- Wi-Fi 8 rollout could be advanced to 2027 amid DDR4 shortages - Communication...**</span>  
+<span style="color:red;">**- Telecom news: Ciena, Toshiba, TRAI, MTNL, Wi-Fi 8 Launch - TelecomLead**</span>  
+<span style="color:red;">**- Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job - Expert Reviews**</span>  
+<span style="color:red;">**- Powerful creator tablet with Snapdragon X2 Elite - Asus ProArt PZ14 Review - ...**</span>  
+
+[2026-08-04 - Daily Briefing (13 articles)](briefings/2026-08-04.md)
+
+- Beyond Faster Wi-Fi: How Wi-Fi 7 Could Reshape Africa’s Enterprises and Publi...
+- Three major PC makers now using Chinese memory to fight 'unprecedented memory...
+- FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here -...
 
 [2026-08-03 - Daily Briefing (3 articles)](briefings/2026-08-03.md)
 
