@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-05 10:42**
+Last updated: **2026-08-06 10:45**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-05.md" style="color:red;font-weight:bold;">
-    2026-08-05 - Daily Briefing (13 articles)
+  <a href="briefings/2026-08-06.md" style="color:red;font-weight:bold;">
+    2026-08-06 - Daily Briefing (15 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Wi-Fi 7 Grows 4x in the U.S. - ookla.com**</span>  
-<span style="color:red;">**- Wi-Fi 8 rollout could be advanced to 2027 amid DDR4 shortages - Communication...**</span>  
-<span style="color:red;">**- Telecom news: Ciena, Toshiba, TRAI, MTNL, Wi-Fi 8 Launch - TelecomLead**</span>  
-<span style="color:red;">**- Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job - Expert Reviews**</span>  
-<span style="color:red;">**- Powerful creator tablet with Snapdragon X2 Elite - Asus ProArt PZ14 Review - ...**</span>  
+<span style="color:red;">**- TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - Expert Reviews**</span>  
+<span style="color:red;">**- Hacking A Tenda AC1200 Wi-Fi Router With A CVE Combo - Hackaday**</span>  
+<span style="color:red;">**- 5 Wi-Fi Router Brands With The Longest Software Support - bgr.com**</span>  
+<span style="color:red;">**- Hidden Backdoor Found in Chinese-Made Zbtlink Routers - CNET**</span>  
+<span style="color:red;">**- Internet routers used in Brit homes have backdoor to China as fears 'devastat...**</span>  
+
+[2026-08-05 - Daily Briefing (13 articles)](briefings/2026-08-05.md)
+
+- Wi-Fi 7 Grows 4x in the U.S. - ookla.com
+- Wi-Fi 8 rollout could be advanced to 2027 amid DDR4 shortages - Communication...
+- Telecom news: Ciena, Toshiba, TRAI, MTNL, Wi-Fi 8 Launch - TelecomLead
 
 [2026-08-04 - Daily Briefing (13 articles)](briefings/2026-08-04.md)
 
