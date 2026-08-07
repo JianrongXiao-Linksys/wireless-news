@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-06 10:45**
+Last updated: **2026-08-07 09:07**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-06.md" style="color:red;font-weight:bold;">
-    2026-08-06 - Daily Briefing (15 articles)
+  <a href="briefings/2026-08-07.md" style="color:red;font-weight:bold;">
+    2026-08-07 - Daily Briefing (15 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - Expert Reviews**</span>  
-<span style="color:red;">**- Hacking A Tenda AC1200 Wi-Fi Router With A CVE Combo - Hackaday**</span>  
-<span style="color:red;">**- 5 Wi-Fi Router Brands With The Longest Software Support - bgr.com**</span>  
-<span style="color:red;">**- Hidden Backdoor Found in Chinese-Made Zbtlink Routers - CNET**</span>  
-<span style="color:red;">**- Internet routers used in Brit homes have backdoor to China as fears 'devastat...**</span>  
+<span style="color:red;">**- WIN! NETGEAR Nighthawk RS200 Wi-Fi Router - MoneyMagpie**</span>  
+<span style="color:red;">**- Dell’Oro Group: Wi-Fi 8 Introduction May Arrive Earlier as Memory Shortages I...**</span>  
+<span style="color:red;">**- Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands**</span>  
+<span style="color:red;">**- Vogue just gave another nod of approval to the tech world**</span>  
+<span style="color:red;">**- Public WiFi routers in hotels and airports divert corporate credentials to Ru...**</span>  
+
+[2026-08-06 - Daily Briefing (15 articles)](briefings/2026-08-06.md)
+
+- TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - Expert Reviews
+- Hacking A Tenda AC1200 Wi-Fi Router With A CVE Combo - Hackaday
+- 5 Wi-Fi Router Brands With The Longest Software Support - bgr.com
 
 [2026-08-05 - Daily Briefing (13 articles)](briefings/2026-08-05.md)
 
