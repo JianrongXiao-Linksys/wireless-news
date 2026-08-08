@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-07 09:07**
+Last updated: **2026-08-08 08:50**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-07.md" style="color:red;font-weight:bold;">
-    2026-08-07 - Daily Briefing (15 articles)
+  <a href="briefings/2026-08-08.md" style="color:red;font-weight:bold;">
+    2026-08-08 - Daily Briefing (18 articles)
   </a>
 </p>
 
-<span style="color:red;">**- WIN! NETGEAR Nighthawk RS200 Wi-Fi Router - MoneyMagpie**</span>  
-<span style="color:red;">**- Dell’Oro Group: Wi-Fi 8 Introduction May Arrive Earlier as Memory Shortages I...**</span>  
-<span style="color:red;">**- Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands**</span>  
-<span style="color:red;">**- Vogue just gave another nod of approval to the tech world**</span>  
-<span style="color:red;">**- Public WiFi routers in hotels and airports divert corporate credentials to Ru...**</span>  
+<span style="color:red;">**- Wi-Fi Adoption in the US Rises as ISPs Expand Wi-Fi 7 Rollout - Android Headl...**</span>  
+<span style="color:red;">**- 5 Clever Ways To Use The Parental Controls On Your Router - bgr.com**</span>  
+<span style="color:red;">**- Netgear WiFi 7 router offers cost effective upgrade for only $99.88 - PC Guide**</span>  
+<span style="color:red;">**- Wi-Fi 7 traffic slowly growing: Report - Telecompetitor**</span>  
+<span style="color:red;">**- Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum...**</span>  
+
+[2026-08-07 - Daily Briefing (15 articles)](briefings/2026-08-07.md)
+
+- WIN! NETGEAR Nighthawk RS200 Wi-Fi Router - MoneyMagpie
+- Dell’Oro Group: Wi-Fi 8 Introduction May Arrive Earlier as Memory Shortages I...
+- Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands
 
 [2026-08-06 - Daily Briefing (15 articles)](briefings/2026-08-06.md)
 
