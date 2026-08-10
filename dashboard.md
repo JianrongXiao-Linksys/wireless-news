@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-09 08:52**
+Last updated: **2026-08-10 09:39**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-09.md" style="color:red;font-weight:bold;">
-    2026-08-09 - Daily Briefing (9 articles)
+  <a href="briefings/2026-08-10.md" style="color:red;font-weight:bold;">
+    2026-08-10 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link Roam 7 review: I tested this travel router at my local café, and it t...**</span>  
-<span style="color:red;">**- Move your wifi router away from one common item to boost speed for free - AOL...**</span>  
-<span style="color:red;">**- LG Uplus, Broadcom Successfully Test Edge AI That Detects and Fixes Internet ...**</span>  
-<span style="color:red;">**- "Internet Errors? AI Fixes Them Automatically"... LG Uplus Verifies Home Netw...**</span>  
-<span style="color:red;">**- Best Buy's Top Back-to-School Deals From Apple, HP, Lenovo, TP-Link, and More...**</span>  
+<span style="color:red;">**- LG Uplus tests AI self-healing network with Broadcom Wi-Fi 8 router - Telecom...**</span>  
+<span style="color:red;">**- Quectel Debuts Wi-Fi 7 Modules With Bluetooth 6.0 for Streaming and Gaming - ...**</span>  
+<span style="color:red;">**- YES 5G Mobile WiFi: The Portable Router for Remote Work - soyacincau.com**</span>  
+<span style="color:red;">**- WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that cove...**</span>  
+<span style="color:red;">**- Wi-Fi 8: The Foundation for the Secure, Intelligent, Enterprise AI Edge - Bro...**</span>  
+
+[2026-08-09 - Daily Briefing (9 articles)](briefings/2026-08-09.md)
+
+- TP-Link Roam 7 review: I tested this travel router at my local café, and it t...
+- Move your wifi router away from one common item to boost speed for free - AOL...
+- LG Uplus, Broadcom Successfully Test Edge AI That Detects and Fixes Internet ...
 
 [2026-08-08 - Daily Briefing (18 articles)](briefings/2026-08-08.md)
 
