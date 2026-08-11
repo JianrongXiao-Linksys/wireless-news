@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-10 09:39**
+Last updated: **2026-08-11 09:06**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-10.md" style="color:red;font-weight:bold;">
-    2026-08-10 - Daily Briefing (11 articles)
+  <a href="briefings/2026-08-11.md" style="color:red;font-weight:bold;">
+    2026-08-11 - Daily Briefing (8 articles)
   </a>
 </p>
 
-<span style="color:red;">**- LG Uplus tests AI self-healing network with Broadcom Wi-Fi 8 router - Telecom...**</span>  
-<span style="color:red;">**- Quectel Debuts Wi-Fi 7 Modules With Bluetooth 6.0 for Streaming and Gaming - ...**</span>  
-<span style="color:red;">**- YES 5G Mobile WiFi: The Portable Router for Remote Work - soyacincau.com**</span>  
-<span style="color:red;">**- WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that cove...**</span>  
-<span style="color:red;">**- Wi-Fi 8: The Foundation for the Secure, Intelligent, Enterprise AI Edge - Bro...**</span>  
+<span style="color:red;">**- Digi Spain offers latest Wi-Fi 7 router to current fibre users for EUR 30 - T...**</span>  
+<span style="color:red;">**- Dual Band Router: The Hidden Fix for Slow Home Wi-Fi - The Zero Net**</span>  
+<span style="color:red;">**- OpenAI reportedly completed a $7 billion employee tender offer**</span>  
+<span style="color:red;">**- ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Do...**</span>  
+<span style="color:red;">**- What Can Cause Sudden Changes in Router Performance? - tekedia.com**</span>  
+
+[2026-08-10 - Daily Briefing (11 articles)](briefings/2026-08-10.md)
+
+- LG Uplus tests AI self-healing network with Broadcom Wi-Fi 8 router - Telecom...
+- Quectel Debuts Wi-Fi 7 Modules With Bluetooth 6.0 for Streaming and Gaming - ...
+- YES 5G Mobile WiFi: The Portable Router for Remote Work - soyacincau.com
 
 [2026-08-09 - Daily Briefing (9 articles)](briefings/2026-08-09.md)
 
