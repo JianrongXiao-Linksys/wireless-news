@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-11 09:06**
+Last updated: **2026-08-12 09:17**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-11.md" style="color:red;font-weight:bold;">
-    2026-08-11 - Daily Briefing (8 articles)
+  <a href="briefings/2026-08-12.md" style="color:red;font-weight:bold;">
+    2026-08-12 - Daily Briefing (7 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Digi Spain offers latest Wi-Fi 7 router to current fibre users for EUR 30 - T...**</span>  
-<span style="color:red;">**- Dual Band Router: The Hidden Fix for Slow Home Wi-Fi - The Zero Net**</span>  
-<span style="color:red;">**- OpenAI reportedly completed a $7 billion employee tender offer**</span>  
-<span style="color:red;">**- ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Do...**</span>  
-<span style="color:red;">**- What Can Cause Sudden Changes in Router Performance? - tekedia.com**</span>  
+<span style="color:red;">**- Coin on Wi-Fi router: Does this simple home trick really improve internet spe...**</span>  
+<span style="color:red;">**- Get this GL.iNet WiFi 7 VPN router for 15% less with Amazon discount coupon -...**</span>  
+<span style="color:red;">**- Extreme Networks at Oppenheimer conference: AI, Wi-fi 7 fuel growth - Investi...**</span>  
+<span style="color:red;">**- EXTR: AI-driven automation, Wi-Fi 7 upgrades, and SaaS transition fuel strong...**</span>  
+<span style="color:red;">**- TP-Link Deco Outdoor Mesh Router Is 40% Off With Weatherproof Design for Year...**</span>  
+
+[2026-08-11 - Daily Briefing (8 articles)](briefings/2026-08-11.md)
+
+- Digi Spain offers latest Wi-Fi 7 router to current fibre users for EUR 30 - T...
+- Dual Band Router: The Hidden Fix for Slow Home Wi-Fi - The Zero Net
+- OpenAI reportedly completed a $7 billion employee tender offer
 
 [2026-08-10 - Daily Briefing (11 articles)](briefings/2026-08-10.md)
 
