@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-12 09:17**
+Last updated: **2026-08-13 09:18**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-12.md" style="color:red;font-weight:bold;">
-    2026-08-12 - Daily Briefing (7 articles)
+  <a href="briefings/2026-08-13.md" style="color:red;font-weight:bold;">
+    2026-08-13 - Daily Briefing (17 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Coin on Wi-Fi router: Does this simple home trick really improve internet spe...**</span>  
-<span style="color:red;">**- Get this GL.iNet WiFi 7 VPN router for 15% less with Amazon discount coupon -...**</span>  
-<span style="color:red;">**- Extreme Networks at Oppenheimer conference: AI, Wi-fi 7 fuel growth - Investi...**</span>  
-<span style="color:red;">**- EXTR: AI-driven automation, Wi-Fi 7 upgrades, and SaaS transition fuel strong...**</span>  
-<span style="color:red;">**- TP-Link Deco Outdoor Mesh Router Is 40% Off With Weatherproof Design for Year...**</span>  
+<span style="color:red;">**- One simple Wi-Fi router check that every UK home must make today - AOL.co.uk**</span>  
+<span style="color:red;">**- ITC Judge Finds Asus Infringed Netgear Wi-Fi Patent Claims - Law360**</span>  
+<span style="color:red;">**- FBI: Cyberattackers could be targeting your internet router - wandtv.com**</span>  
+<span style="color:red;">**- VIAVI Introduces Vertex 6.0 Channel Emulator for 6G and Wi-Fi 7/8 Testing - T...**</span>  
+<span style="color:red;">**- Qualcomm details Snapdragon C specs for $300 laptops for the first time — cla...**</span>  
+
+[2026-08-12 - Daily Briefing (7 articles)](briefings/2026-08-12.md)
+
+- Coin on Wi-Fi router: Does this simple home trick really improve internet spe...
+- Get this GL.iNet WiFi 7 VPN router for 15% less with Amazon discount coupon -...
+- Extreme Networks at Oppenheimer conference: AI, Wi-fi 7 fuel growth - Investi...
 
 [2026-08-11 - Daily Briefing (8 articles)](briefings/2026-08-11.md)
 
