@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-13 09:18**
+Last updated: **2026-08-14 09:12**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-13.md" style="color:red;font-weight:bold;">
-    2026-08-13 - Daily Briefing (17 articles)
+  <a href="briefings/2026-08-14.md" style="color:red;font-weight:bold;">
+    2026-08-14 - Daily Briefing (20 articles)
   </a>
 </p>
 
-<span style="color:red;">**- One simple Wi-Fi router check that every UK home must make today - AOL.co.uk**</span>  
-<span style="color:red;">**- ITC Judge Finds Asus Infringed Netgear Wi-Fi Patent Claims - Law360**</span>  
-<span style="color:red;">**- FBI: Cyberattackers could be targeting your internet router - wandtv.com**</span>  
-<span style="color:red;">**- VIAVI Introduces Vertex 6.0 Channel Emulator for 6G and Wi-Fi 7/8 Testing - T...**</span>  
-<span style="color:red;">**- Qualcomm details Snapdragon C specs for $300 laptops for the first time — cla...**</span>  
+<span style="color:red;">**- Starlink Reveals Forthcoming Wi-Fi 7 Satellite Broadband Router - ISPreview UK**</span>  
+<span style="color:red;">**- Starlink's first Wi-Fi 7 router surfaces in FCC filings - Notebookcheck**</span>  
+<span style="color:red;">**- 4 Of The Best Routers With More Than 4 Ports - AOL.com**</span>  
+<span style="color:red;">**- New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag**</span>  
+<span style="color:red;">**- 4 Of The Best Routers With More Than 4 Ports - bgr.com**</span>  
+
+[2026-08-13 - Daily Briefing (17 articles)](briefings/2026-08-13.md)
+
+- One simple Wi-Fi router check that every UK home must make today - AOL.co.uk
+- ITC Judge Finds Asus Infringed Netgear Wi-Fi Patent Claims - Law360
+- FBI: Cyberattackers could be targeting your internet router - wandtv.com
 
 [2026-08-12 - Daily Briefing (7 articles)](briefings/2026-08-12.md)
 
