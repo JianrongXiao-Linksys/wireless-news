@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-14 09:12**
+Last updated: **2026-08-15 08:36**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-14.md" style="color:red;font-weight:bold;">
-    2026-08-14 - Daily Briefing (20 articles)
+  <a href="briefings/2026-08-15.md" style="color:red;font-weight:bold;">
+    2026-08-15 - Daily Briefing (9 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Starlink Reveals Forthcoming Wi-Fi 7 Satellite Broadband Router - ISPreview UK**</span>  
-<span style="color:red;">**- Starlink's first Wi-Fi 7 router surfaces in FCC filings - Notebookcheck**</span>  
-<span style="color:red;">**- 4 Of The Best Routers With More Than 4 Ports - AOL.com**</span>  
-<span style="color:red;">**- New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag**</span>  
-<span style="color:red;">**- 4 Of The Best Routers With More Than 4 Ports - bgr.com**</span>  
+<span style="color:red;">**- This Deal Is Sending All the Right Signals: Get Over 20% Off This Tp-Link Wi-...**</span>  
+<span style="color:red;">**- The best Wi-Fi upgrade I made wasn't a new router, it was moving one piece of...**</span>  
+<span style="color:red;">**- Why Wi-Fi 7 routers are still bad at the thing most people actually need from...**</span>  
+<span style="color:red;">**- Cover every corner of your home for less with this Netgear WiFi 7 mesh system...**</span>  
+<span style="color:red;">**- Starlink's First Wi-Fi 7 Router May Be Coming Soon - BASENOR - Tesla Accessories**</span>  
+
+[2026-08-14 - Daily Briefing (20 articles)](briefings/2026-08-14.md)
+
+- Starlink Reveals Forthcoming Wi-Fi 7 Satellite Broadband Router - ISPreview UK
+- Starlink's first Wi-Fi 7 router surfaces in FCC filings - Notebookcheck
+- 4 Of The Best Routers With More Than 4 Ports - AOL.com
 
 [2026-08-13 - Daily Briefing (17 articles)](briefings/2026-08-13.md)
 
