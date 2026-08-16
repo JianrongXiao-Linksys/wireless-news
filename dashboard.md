@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-15 08:36**
+Last updated: **2026-08-16 08:37**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-15.md" style="color:red;font-weight:bold;">
-    2026-08-15 - Daily Briefing (9 articles)
+  <a href="briefings/2026-08-16.md" style="color:red;font-weight:bold;">
+    2026-08-16 - Daily Briefing (6 articles)
   </a>
 </p>
 
-<span style="color:red;">**- This Deal Is Sending All the Right Signals: Get Over 20% Off This Tp-Link Wi-...**</span>  
-<span style="color:red;">**- The best Wi-Fi upgrade I made wasn't a new router, it was moving one piece of...**</span>  
-<span style="color:red;">**- Why Wi-Fi 7 routers are still bad at the thing most people actually need from...**</span>  
-<span style="color:red;">**- Cover every corner of your home for less with this Netgear WiFi 7 mesh system...**</span>  
-<span style="color:red;">**- Starlink's First Wi-Fi 7 Router May Be Coming Soon - BASENOR - Tesla Accessories**</span>  
+<span style="color:red;">**- Speed it up your wifi instantly by moving the router away from these common i...**</span>  
+<span style="color:red;">**- I tested 20MHz versus 80MHz on my router, and one was clearly wrong for my ne...**</span>  
+<span style="color:red;">**- Starlink Files First WiFi 7 Router Under Exemption That Left TP-Link Out - Te...**</span>  
+<span style="color:red;">**- Your router has 6 security holes you probably don't know about - How-To Geek**</span>  
+<span style="color:red;">**- Starlink Reveals Forthcoming Wi-Fi 7 Satellite Broadband Router - ispreview.c...**</span>  
+
+[2026-08-15 - Daily Briefing (9 articles)](briefings/2026-08-15.md)
+
+- This Deal Is Sending All the Right Signals: Get Over 20% Off This Tp-Link Wi-...
+- The best Wi-Fi upgrade I made wasn't a new router, it was moving one piece of...
+- Why Wi-Fi 7 routers are still bad at the thing most people actually need from...
 
 [2026-08-14 - Daily Briefing (20 articles)](briefings/2026-08-14.md)
 
