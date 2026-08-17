@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-16 08:37**
+Last updated: **2026-08-17 08:52**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-16.md" style="color:red;font-weight:bold;">
-    2026-08-16 - Daily Briefing (6 articles)
+  <a href="briefings/2026-08-17.md" style="color:red;font-weight:bold;">
+    2026-08-17 - Daily Briefing (6 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Speed it up your wifi instantly by moving the router away from these common i...**</span>  
-<span style="color:red;">**- I tested 20MHz versus 80MHz on my router, and one was clearly wrong for my ne...**</span>  
-<span style="color:red;">**- Starlink Files First WiFi 7 Router Under Exemption That Left TP-Link Out - Te...**</span>  
-<span style="color:red;">**- Your router has 6 security holes you probably don't know about - How-To Geek**</span>  
-<span style="color:red;">**- Starlink Reveals Forthcoming Wi-Fi 7 Satellite Broadband Router - ispreview.c...**</span>  
+<span style="color:red;">**- ASUS Statement on ITC Initial Determination in Investigation No. 337-TA-1454 ...**</span>  
+<span style="color:red;">**- I’m hooked on Peak Design’s new City bags**</span>  
+<span style="color:red;">**- Popular TP-Link WiFi 7 router is back at its lowest ever price on Amazon - PC...**</span>  
+<span style="color:red;">**- Your ISP's router is fighting your new one — here's how to make them stop - M...**</span>  
+<span style="color:red;">**- 10 Best Wi-Fi Routers 2026: 10 Top Picks Tested - memeburn.com**</span>  
+
+[2026-08-16 - Daily Briefing (6 articles)](briefings/2026-08-16.md)
+
+- Speed it up your wifi instantly by moving the router away from these common i...
+- I tested 20MHz versus 80MHz on my router, and one was clearly wrong for my ne...
+- Starlink Files First WiFi 7 Router Under Exemption That Left TP-Link Out - Te...
 
 [2026-08-15 - Daily Briefing (9 articles)](briefings/2026-08-15.md)
 
