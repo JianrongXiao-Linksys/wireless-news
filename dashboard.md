@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-17 08:52**
+Last updated: **2026-08-18 08:45**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-17.md" style="color:red;font-weight:bold;">
-    2026-08-17 - Daily Briefing (6 articles)
+  <a href="briefings/2026-08-18.md" style="color:red;font-weight:bold;">
+    2026-08-18 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ASUS Statement on ITC Initial Determination in Investigation No. 337-TA-1454 ...**</span>  
-<span style="color:red;">**- I’m hooked on Peak Design’s new City bags**</span>  
-<span style="color:red;">**- Popular TP-Link WiFi 7 router is back at its lowest ever price on Amazon - PC...**</span>  
-<span style="color:red;">**- Your ISP's router is fighting your new one — here's how to make them stop - M...**</span>  
-<span style="color:red;">**- 10 Best Wi-Fi Routers 2026: 10 Top Picks Tested - memeburn.com**</span>  
+<span style="color:red;">**- Can't Log Into Your Netgear Router? Try One Of These Fixes - bgr.com**</span>  
+<span style="color:red;">**- Jio Offers Wi-Fi Router with 1500 Square Feet Network Coverage - TelecomTalk**</span>  
+<span style="color:red;">**- Community Fibre Discounts UK Broadband Plans as Mid-Contract Hikes Return - I...**</span>  
+<span style="color:red;">**- Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21**</span>  
+<span style="color:red;">**- 5 Highly Rated TP-Link Devices That Aren't Routers - bgr.com**</span>  
+
+[2026-08-17 - Daily Briefing (6 articles)](briefings/2026-08-17.md)
+
+- ASUS Statement on ITC Initial Determination in Investigation No. 337-TA-1454 ...
+- I’m hooked on Peak Design’s new City bags
+- Popular TP-Link WiFi 7 router is back at its lowest ever price on Amazon - PC...
 
 [2026-08-16 - Daily Briefing (6 articles)](briefings/2026-08-16.md)
 
