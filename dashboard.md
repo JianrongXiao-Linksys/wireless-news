@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-18 08:45**
+Last updated: **2026-08-19 08:46**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-18.md" style="color:red;font-weight:bold;">
-    2026-08-18 - Daily Briefing (11 articles)
+  <a href="briefings/2026-08-19.md" style="color:red;font-weight:bold;">
+    2026-08-19 - Daily Briefing (23 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Can't Log Into Your Netgear Router? Try One Of These Fixes - bgr.com**</span>  
-<span style="color:red;">**- Jio Offers Wi-Fi Router with 1500 Square Feet Network Coverage - TelecomTalk**</span>  
-<span style="color:red;">**- Community Fibre Discounts UK Broadband Plans as Mid-Contract Hikes Return - I...**</span>  
-<span style="color:red;">**- Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21**</span>  
-<span style="color:red;">**- 5 Highly Rated TP-Link Devices That Aren't Routers - bgr.com**</span>  
+<span style="color:red;">**- Comcast Turned Millions of Its Routers Into Motion Sensors - SOFX**</span>  
+<span style="color:red;">**- Wi-Fi 7 Breaks into the MCU Field: Next-Gen Wireless Connectivity for Microco...**</span>  
+<span style="color:red;">**- Wi-Fi 7 Accelerates into the MCU Space as Infineon and Synaptics Move First -...**</span>  
+<span style="color:red;">**- DDR4 shortages slow Wi-Fi 6 replacement as Wi-Fi 7 ramp continues - digitimes**</span>  
+<span style="color:red;">**- Comcast's Xfinity Pushes Wi-Fi Routers for In-Home Motion Detection - uk.pcma...**</span>  
+
+[2026-08-18 - Daily Briefing (11 articles)](briefings/2026-08-18.md)
+
+- Can't Log Into Your Netgear Router? Try One Of These Fixes - bgr.com
+- Jio Offers Wi-Fi Router with 1500 Square Feet Network Coverage - TelecomTalk
+- Community Fibre Discounts UK Broadband Plans as Mid-Contract Hikes Return - I...
 
 [2026-08-17 - Daily Briefing (6 articles)](briefings/2026-08-17.md)
 
