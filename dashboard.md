@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-19 08:46**
+Last updated: **2026-08-20 08:48**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-19.md" style="color:red;font-weight:bold;">
-    2026-08-19 - Daily Briefing (23 articles)
+  <a href="briefings/2026-08-20.md" style="color:red;font-weight:bold;">
+    2026-08-20 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Comcast Turned Millions of Its Routers Into Motion Sensors - SOFX**</span>  
-<span style="color:red;">**- Wi-Fi 7 Breaks into the MCU Field: Next-Gen Wireless Connectivity for Microco...**</span>  
-<span style="color:red;">**- Wi-Fi 7 Accelerates into the MCU Space as Infineon and Synaptics Move First -...**</span>  
-<span style="color:red;">**- DDR4 shortages slow Wi-Fi 6 replacement as Wi-Fi 7 ramp continues - digitimes**</span>  
-<span style="color:red;">**- Comcast's Xfinity Pushes Wi-Fi Routers for In-Home Motion Detection - uk.pcma...**</span>  
+<span style="color:red;">**- Apple TV 4K Could Finally Get Siri AI, Wi-Fi 7 and a Much Faster Processor in...**</span>  
+<span style="color:red;">**- This Router Update Turns Wi-Fi Into a Motion Detector - Yahoo News UK**</span>  
+<span style="color:red;">**- Review: ASUS RT-BE3600HP. Affordable Wi-Fi 7 With Impressive Home Coverage - ...**</span>  
+<span style="color:red;">**- New Xfinity feature turns your WiFi router into ‘a motion sensor’ - AOL.com**</span>  
+<span style="color:red;">**- New Xfinity feature turns your WiFi router into ‘a motion sensor’ - ABC27**</span>  
+
+[2026-08-19 - Daily Briefing (23 articles)](briefings/2026-08-19.md)
+
+- Comcast Turned Millions of Its Routers Into Motion Sensors - SOFX
+- Wi-Fi 7 Breaks into the MCU Field: Next-Gen Wireless Connectivity for Microco...
+- Wi-Fi 7 Accelerates into the MCU Space as Infineon and Synaptics Move First -...
 
 [2026-08-18 - Daily Briefing (11 articles)](briefings/2026-08-18.md)
 
