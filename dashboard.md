@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-20 08:48**
+Last updated: **2026-08-21 08:49**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,16 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-20.md" style="color:red;font-weight:bold;">
-    2026-08-20 - Daily Briefing (30 articles)
+  <a href="briefings/2026-08-21.md" style="color:red;font-weight:bold;">
+    2026-08-21 - Daily Briefing (0 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Apple TV 4K Could Finally Get Siri AI, Wi-Fi 7 and a Much Faster Processor in...**</span>  
-<span style="color:red;">**- This Router Update Turns Wi-Fi Into a Motion Detector - Yahoo News UK**</span>  
-<span style="color:red;">**- Review: ASUS RT-BE3600HP. Affordable Wi-Fi 7 With Impressive Home Coverage - ...**</span>  
-<span style="color:red;">**- New Xfinity feature turns your WiFi router into ‘a motion sensor’ - AOL.com**</span>  
-<span style="color:red;">**- New Xfinity feature turns your WiFi router into ‘a motion sensor’ - ABC27**</span>  
+[2026-08-20 - Daily Briefing (30 articles)](briefings/2026-08-20.md)
+
+- Apple TV 4K Could Finally Get Siri AI, Wi-Fi 7 and a Much Faster Processor in...
+- This Router Update Turns Wi-Fi Into a Motion Detector - Yahoo News UK
+- Review: ASUS RT-BE3600HP. Affordable Wi-Fi 7 With Impressive Home Coverage - ...
 
 [2026-08-19 - Daily Briefing (23 articles)](briefings/2026-08-19.md)
 
