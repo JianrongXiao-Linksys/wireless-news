@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-22 08:37**
+Last updated: **2026-08-23 08:38**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-22.md" style="color:red;font-weight:bold;">
-    2026-08-22 - Daily Briefing (17 articles)
+  <a href="briefings/2026-08-23.md" style="color:red;font-weight:bold;">
+    2026-08-23 - Daily Briefing (18 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Repurposing old Wi-Fi routers as "Ethernet converters" boosts connection spee...**</span>  
-<span style="color:red;">**- Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels**</span>  
-<span style="color:red;">**- Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today**</span>  
-<span style="color:red;">**- 6 router tricks that solve Wi-Fi problems in under 5 minutes - How-To Geek**</span>  
-<span style="color:red;">**- Xfinity Routers Can Now Detect Movement at Home—No Camera Necessary - extreme...**</span>  
+<span style="color:red;">**- Gadgets Weekly: Asus VM240 AiO, BenQ PD2732U monitor and more - Deccan Herald**</span>  
+<span style="color:red;">**- WiFi is watching you: Can routers be used as surveillance tools? - RNZ**</span>  
+<span style="color:red;">**- Big Router is watching you: WiFi could secretly track you even if you leave y...**</span>  
+<span style="color:red;">**- Big router is watching you: WiFi could secretly track you even if you leave y...**</span>  
+<span style="color:red;">**- Wi-Fi 8 is the first wireless upgrade in years that isn’t chasing speed, and ...**</span>  
+
+[2026-08-22 - Daily Briefing (17 articles)](briefings/2026-08-22.md)
+
+- Repurposing old Wi-Fi routers as "Ethernet converters" boosts connection spee...
+- Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels
+- Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today
 
 [2026-08-21 - Daily Briefing (0 articles)](briefings/2026-08-21.md)
 
