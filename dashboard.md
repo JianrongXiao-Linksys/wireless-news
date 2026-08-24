@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-23 08:38**
+Last updated: **2026-08-24 08:55**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-23.md" style="color:red;font-weight:bold;">
-    2026-08-23 - Daily Briefing (18 articles)
+  <a href="briefings/2026-08-24.md" style="color:red;font-weight:bold;">
+    2026-08-24 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Gadgets Weekly: Asus VM240 AiO, BenQ PD2732U monitor and more - Deccan Herald**</span>  
-<span style="color:red;">**- WiFi is watching you: Can routers be used as surveillance tools? - RNZ**</span>  
-<span style="color:red;">**- Big Router is watching you: WiFi could secretly track you even if you leave y...**</span>  
-<span style="color:red;">**- Big router is watching you: WiFi could secretly track you even if you leave y...**</span>  
-<span style="color:red;">**- Wi-Fi 8 is the first wireless upgrade in years that isn’t chasing speed, and ...**</span>  
+<span style="color:red;">**- What Can Happen If You Never Restart Your Router? - bgr.com**</span>  
+<span style="color:red;">**- Your router's CPU is throttling your Wi-Fi—here's which 6 settings to disable...**</span>  
+<span style="color:red;">**- Only $189.99 for this Archer BE550 Pro Tri-band WiFi 7 router with EasyMesh n...**</span>  
+<span style="color:red;">**- Wi-Fi 6 Vs Wi-Fi 7: What's The Difference Wnd Which Is Better For Home Intern...**</span>  
+<span style="color:red;">**- Grab the Asus Prime Radeon RX 9070 OC for $629.99 — save $120 on this 16GB ga...**</span>  
+
+[2026-08-23 - Daily Briefing (18 articles)](briefings/2026-08-23.md)
+
+- Gadgets Weekly: Asus VM240 AiO, BenQ PD2732U monitor and more - Deccan Herald
+- WiFi is watching you: Can routers be used as surveillance tools? - RNZ
+- Big Router is watching you: WiFi could secretly track you even if you leave y...
 
 [2026-08-22 - Daily Briefing (17 articles)](briefings/2026-08-22.md)
 
