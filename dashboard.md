@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-24 08:55**
+Last updated: **2026-08-25 08:51**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-24.md" style="color:red;font-weight:bold;">
-    2026-08-24 - Daily Briefing (11 articles)
+  <a href="briefings/2026-08-25.md" style="color:red;font-weight:bold;">
+    2026-08-25 - Daily Briefing (10 articles)
   </a>
 </p>
 
-<span style="color:red;">**- What Can Happen If You Never Restart Your Router? - bgr.com**</span>  
-<span style="color:red;">**- Your router's CPU is throttling your Wi-Fi—here's which 6 settings to disable...**</span>  
-<span style="color:red;">**- Only $189.99 for this Archer BE550 Pro Tri-band WiFi 7 router with EasyMesh n...**</span>  
-<span style="color:red;">**- Wi-Fi 6 Vs Wi-Fi 7: What's The Difference Wnd Which Is Better For Home Intern...**</span>  
-<span style="color:red;">**- Grab the Asus Prime Radeon RX 9070 OC for $629.99 — save $120 on this 16GB ga...**</span>  
+<span style="color:red;">**- Is it Good or Bad That Comcast Added Motion-Sensing to Your Xfinity Router? -...**</span>  
+<span style="color:red;">**- Privacy-Focused GrapheneOS Is Coming to Motorola Phones in 2027**</span>  
+<span style="color:red;">**- These 5 router tweaks sped up my Wi-Fi so much that I downgraded my internet ...**</span>  
+<span style="color:red;">**- Careful Who You Upgrade, WPA3 And WiFi 7 Don't Always Play Nice With Legacy H...**</span>  
+<span style="color:red;">**- Amazon Offloads TP-Link WiFi 6 Mesh System, Making Each Router Practically a ...**</span>  
+
+[2026-08-24 - Daily Briefing (11 articles)](briefings/2026-08-24.md)
+
+- What Can Happen If You Never Restart Your Router? - bgr.com
+- Your router's CPU is throttling your Wi-Fi—here's which 6 settings to disable...
+- Only $189.99 for this Archer BE550 Pro Tri-band WiFi 7 router with EasyMesh n...
 
 [2026-08-23 - Daily Briefing (18 articles)](briefings/2026-08-23.md)
 
