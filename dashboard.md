@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-25 08:51**
+Last updated: **2026-08-26 08:52**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-25.md" style="color:red;font-weight:bold;">
-    2026-08-25 - Daily Briefing (10 articles)
+  <a href="briefings/2026-08-26.md" style="color:red;font-weight:bold;">
+    2026-08-26 - Daily Briefing (21 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Is it Good or Bad That Comcast Added Motion-Sensing to Your Xfinity Router? -...**</span>  
-<span style="color:red;">**- Privacy-Focused GrapheneOS Is Coming to Motorola Phones in 2027**</span>  
-<span style="color:red;">**- These 5 router tweaks sped up my Wi-Fi so much that I downgraded my internet ...**</span>  
-<span style="color:red;">**- Careful Who You Upgrade, WPA3 And WiFi 7 Don't Always Play Nice With Legacy H...**</span>  
-<span style="color:red;">**- Amazon Offloads TP-Link WiFi 6 Mesh System, Making Each Router Practically a ...**</span>  
+<span style="color:red;">**- D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet - CyberShack**</span>  
+<span style="color:red;">**- ASUS unveils three 720Hz-capable 25-inch OLED gaming monitors, plus Wi-Fi 8 r...**</span>  
+<span style="color:red;">**- ASUS ROG at Gamescom 2026: 720-Hz Monitors, Wi-Fi 8 Routers, and the Xbox All...**</span>  
+<span style="color:red;">**- ASUS Unveils ROG Rapture GT-BN98, First Wi-Fi 8 Gaming Router - TechPowerUp**</span>  
+<span style="color:red;">**- Here are all the Apple devices with full Wi-Fi 7 support - 9to5Mac**</span>  
+
+[2026-08-25 - Daily Briefing (10 articles)](briefings/2026-08-25.md)
+
+- Is it Good or Bad That Comcast Added Motion-Sensing to Your Xfinity Router? -...
+- Privacy-Focused GrapheneOS Is Coming to Motorola Phones in 2027
+- These 5 router tweaks sped up my Wi-Fi so much that I downgraded my internet ...
 
 [2026-08-24 - Daily Briefing (11 articles)](briefings/2026-08-24.md)
 
