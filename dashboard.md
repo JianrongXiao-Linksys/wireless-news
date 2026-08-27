@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-26 08:52**
+Last updated: **2026-08-27 19:00**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-26.md" style="color:red;font-weight:bold;">
-    2026-08-26 - Daily Briefing (21 articles)
+  <a href="briefings/2026-08-27.md" style="color:red;font-weight:bold;">
+    2026-08-27 - Daily Briefing (22 articles)
   </a>
 </p>
 
-<span style="color:red;">**- D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet - CyberShack**</span>  
-<span style="color:red;">**- ASUS unveils three 720Hz-capable 25-inch OLED gaming monitors, plus Wi-Fi 8 r...**</span>  
-<span style="color:red;">**- ASUS ROG at Gamescom 2026: 720-Hz Monitors, Wi-Fi 8 Routers, and the Xbox All...**</span>  
-<span style="color:red;">**- ASUS Unveils ROG Rapture GT-BN98, First Wi-Fi 8 Gaming Router - TechPowerUp**</span>  
-<span style="color:red;">**- Here are all the Apple devices with full Wi-Fi 7 support - 9to5Mac**</span>  
+<span style="color:red;">**- Your 2.4GHz Wi-Fi has 11 channels, but you should only use 3 of them - MakeUseOf**</span>  
+<span style="color:red;">**- Microsoft and Apple give opposite advice for naming Wi-Fi networks — but only...**</span>  
+<span style="color:red;">**- New enterprise access points launch with Wi-Fi 7 and 2.5GbE - Notebookcheck**</span>  
+<span style="color:red;">**- I moved apartments and learned the real benefit of owning your own Wi-Fi rout...**</span>  
+<span style="color:red;">**- This week’s 10 best Walmart deals: Coop, Samsung, TP-Link and more - CNN**</span>  
+
+[2026-08-26 - Daily Briefing (21 articles)](briefings/2026-08-26.md)
+
+- D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet - CyberShack
+- ASUS unveils three 720Hz-capable 25-inch OLED gaming monitors, plus Wi-Fi 8 r...
+- ASUS ROG at Gamescom 2026: 720-Hz Monitors, Wi-Fi 8 Routers, and the Xbox All...
 
 [2026-08-25 - Daily Briefing (10 articles)](briefings/2026-08-25.md)
 
