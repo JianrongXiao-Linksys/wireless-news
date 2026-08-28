@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-27 19:00**
+Last updated: **2026-08-28 20:08**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-27.md" style="color:red;font-weight:bold;">
-    2026-08-27 - Daily Briefing (22 articles)
+  <a href="briefings/2026-08-28.md" style="color:red;font-weight:bold;">
+    2026-08-28 - Daily Briefing (15 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Your 2.4GHz Wi-Fi has 11 channels, but you should only use 3 of them - MakeUseOf**</span>  
-<span style="color:red;">**- Microsoft and Apple give opposite advice for naming Wi-Fi networks — but only...**</span>  
-<span style="color:red;">**- New enterprise access points launch with Wi-Fi 7 and 2.5GbE - Notebookcheck**</span>  
-<span style="color:red;">**- I moved apartments and learned the real benefit of owning your own Wi-Fi rout...**</span>  
-<span style="color:red;">**- This week’s 10 best Walmart deals: Coop, Samsung, TP-Link and more - CNN**</span>  
+<span style="color:red;">**- What happened to that Wi-Fi blocking paint we were supposed to get? - How-To ...**</span>  
+<span style="color:red;">**- More Wi-Fi Routers From This Chinese Vendor Found With Backdoors - PCMag UK**</span>  
+<span style="color:red;">**- UniFi Travel Router Long-Range, Unveiled: Making Wi-Fi 5 Cool Again! - Dong K...**</span>  
+<span style="color:red;">**- Whole-home Wi-Fi 7 costs less with this TP-Link Deco BE3600 Amazon deal - Tec...**</span>  
+<span style="color:red;">**- ASUS ROG Rapture GT-BN98 Debuts as World’s First WiFi 8 Gaming Router at Game...**</span>  
+
+[2026-08-27 - Daily Briefing (22 articles)](briefings/2026-08-27.md)
+
+- Your 2.4GHz Wi-Fi has 11 channels, but you should only use 3 of them - MakeUseOf
+- Microsoft and Apple give opposite advice for naming Wi-Fi networks — but only...
+- New enterprise access points launch with Wi-Fi 7 and 2.5GbE - Notebookcheck
 
 [2026-08-26 - Daily Briefing (21 articles)](briefings/2026-08-26.md)
 
