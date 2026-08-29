@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-28 20:08**
+Last updated: **2026-08-29 13:46**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-28.md" style="color:red;font-weight:bold;">
-    2026-08-28 - Daily Briefing (15 articles)
+  <a href="briefings/2026-08-29.md" style="color:red;font-weight:bold;">
+    2026-08-29 - Daily Briefing (5 articles)
   </a>
 </p>
 
-<span style="color:red;">**- What happened to that Wi-Fi blocking paint we were supposed to get? - How-To ...**</span>  
-<span style="color:red;">**- More Wi-Fi Routers From This Chinese Vendor Found With Backdoors - PCMag UK**</span>  
-<span style="color:red;">**- UniFi Travel Router Long-Range, Unveiled: Making Wi-Fi 5 Cool Again! - Dong K...**</span>  
-<span style="color:red;">**- Whole-home Wi-Fi 7 costs less with this TP-Link Deco BE3600 Amazon deal - Tec...**</span>  
-<span style="color:red;">**- ASUS ROG Rapture GT-BN98 Debuts as World’s First WiFi 8 Gaming Router at Game...**</span>  
+<span style="color:red;">**- Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-F...**</span>  
+<span style="color:red;">**- 4 Disadvantages Of Using All-In-One Modem Router Combos - bgr.com**</span>  
+<span style="color:red;">**- More Wi-Fi Routers From This Chinese Vendor Found With Backdoors - PCMag**</span>  
+<span style="color:red;">**- Whole-home Wi-Fi 7 costs less with this TP-Link Deco BE3600 deal - TechRadar**</span>  
+<span style="color:red;">**- ASUS launches the ROG Rapture GT-BN98 series: the world's first Wi-Fi 8 gamin...**</span>  
+
+[2026-08-28 - Daily Briefing (15 articles)](briefings/2026-08-28.md)
+
+- What happened to that Wi-Fi blocking paint we were supposed to get? - How-To ...
+- More Wi-Fi Routers From This Chinese Vendor Found With Backdoors - PCMag UK
+- UniFi Travel Router Long-Range, Unveiled: Making Wi-Fi 5 Cool Again! - Dong K...
 
 [2026-08-27 - Daily Briefing (22 articles)](briefings/2026-08-27.md)
 
