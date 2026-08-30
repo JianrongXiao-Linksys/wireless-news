@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-29 13:46**
+Last updated: **2026-08-30 13:44**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-29.md" style="color:red;font-weight:bold;">
-    2026-08-29 - Daily Briefing (5 articles)
+  <a href="briefings/2026-08-30.md" style="color:red;font-weight:bold;">
+    2026-08-30 - Daily Briefing (5 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-F...**</span>  
-<span style="color:red;">**- 4 Disadvantages Of Using All-In-One Modem Router Combos - bgr.com**</span>  
-<span style="color:red;">**- More Wi-Fi Routers From This Chinese Vendor Found With Backdoors - PCMag**</span>  
-<span style="color:red;">**- Whole-home Wi-Fi 7 costs less with this TP-Link Deco BE3600 deal - TechRadar**</span>  
-<span style="color:red;">**- ASUS launches the ROG Rapture GT-BN98 series: the world's first Wi-Fi 8 gamin...**</span>  
+<span style="color:red;">**- Don't buy a Wi-Fi extender; every alternative is better - MakeUseOf**</span>  
+<span style="color:red;">**- Poor liquid metal application almost destroys Asus Zephyrus M16 laptop, eats ...**</span>  
+<span style="color:red;">**- Loyal ASUS Customer With $30,000 Purchases To His Name Says It’s A Nightmare ...**</span>  
+<span style="color:red;">**- NComputing’s X550 Let Users Connect Six Keyboards with Just One PC Tower - Te...**</span>  
+<span style="color:red;">**- Startup raises $7 million to build backpack-portable 8.8-ounce drone intercep...**</span>  
+
+[2026-08-29 - Daily Briefing (5 articles)](briefings/2026-08-29.md)
+
+- Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-F...
+- 4 Disadvantages Of Using All-In-One Modem Router Combos - bgr.com
+- More Wi-Fi Routers From This Chinese Vendor Found With Backdoors - PCMag
 
 [2026-08-28 - Daily Briefing (15 articles)](briefings/2026-08-28.md)
 
