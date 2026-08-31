@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-30 13:44**
+Last updated: **2026-08-31 16:04**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-30.md" style="color:red;font-weight:bold;">
-    2026-08-30 - Daily Briefing (5 articles)
+  <a href="briefings/2026-08-31.md" style="color:red;font-weight:bold;">
+    2026-08-31 - Daily Briefing (8 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Don't buy a Wi-Fi extender; every alternative is better - MakeUseOf**</span>  
-<span style="color:red;">**- Poor liquid metal application almost destroys Asus Zephyrus M16 laptop, eats ...**</span>  
-<span style="color:red;">**- Loyal ASUS Customer With $30,000 Purchases To His Name Says It’s A Nightmare ...**</span>  
-<span style="color:red;">**- NComputing’s X550 Let Users Connect Six Keyboards with Just One PC Tower - Te...**</span>  
-<span style="color:red;">**- Startup raises $7 million to build backpack-portable 8.8-ounce drone intercep...**</span>  
+<span style="color:red;">**- Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip ...**</span>  
+<span style="color:red;">**- Give your build a robust foundation for less with this ASUS Z890-Plus motherb...**</span>  
+<span style="color:red;">**- Diehard Asus customer gets RMA denied for a cheap 2.4 GHz headset receiver de...**</span>  
+<span style="color:red;">**- 5 Cheap Networking Gadgets You Should Always Have In Your Home - bgr.com**</span>  
+<span style="color:red;">**- Your WiFi Has Evolved. Is Your Router Ready? Upgrade to WiFi 7 with ASUS - My...**</span>  
+
+[2026-08-30 - Daily Briefing (5 articles)](briefings/2026-08-30.md)
+
+- Don't buy a Wi-Fi extender; every alternative is better - MakeUseOf
+- Poor liquid metal application almost destroys Asus Zephyrus M16 laptop, eats ...
+- Loyal ASUS Customer With $30,000 Purchases To His Name Says It’s A Nightmare ...
 
 [2026-08-29 - Daily Briefing (5 articles)](briefings/2026-08-29.md)
 
