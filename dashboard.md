@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-08-31 16:04**
+Last updated: **2026-09-01 13:24**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-08-31.md" style="color:red;font-weight:bold;">
-    2026-08-31 - Daily Briefing (8 articles)
+  <a href="briefings/2026-09-01.md" style="color:red;font-weight:bold;">
+    2026-09-01 - Daily Briefing (29 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip ...**</span>  
-<span style="color:red;">**- Give your build a robust foundation for less with this ASUS Z890-Plus motherb...**</span>  
-<span style="color:red;">**- Diehard Asus customer gets RMA denied for a cheap 2.4 GHz headset receiver de...**</span>  
-<span style="color:red;">**- 5 Cheap Networking Gadgets You Should Always Have In Your Home - bgr.com**</span>  
-<span style="color:red;">**- Your WiFi Has Evolved. Is Your Router Ready? Upgrade to WiFi 7 with ASUS - My...**</span>  
+<span style="color:red;">**- Amazon Clears Out TP-Link Deco WiFi 7 Mesh Router 3-Pack at Nearly 30% Off, F...**</span>  
+<span style="color:red;">**- Wi-Fi 8 Arrives: TP-Link Unveils Next-Gen Routers at IFA 2026 - Analytics Ins...**</span>  
+<span style="color:red;">**- TP-Link’s first Wi-Fi 8 router is almost here - The Verge**</span>  
+<span style="color:red;">**- TP-Link's first consumer Wi-Fi 8 router opens for pre-orders September 30, bu...**</span>  
+<span style="color:red;">**- Wi-Fi 8 Arrives: TP-Link Unveils Next-Gen Routers at IFA 2026 - Analytics Ins...**</span>  
+
+[2026-08-31 - Daily Briefing (8 articles)](briefings/2026-08-31.md)
+
+- Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip ...
+- Give your build a robust foundation for less with this ASUS Z890-Plus motherb...
+- Diehard Asus customer gets RMA denied for a cheap 2.4 GHz headset receiver de...
 
 [2026-08-30 - Daily Briefing (5 articles)](briefings/2026-08-30.md)
 
