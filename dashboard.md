@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-02 12:42**
+Last updated: **2026-09-03 12:44**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-02.md" style="color:red;font-weight:bold;">
-    2026-09-02 - Daily Briefing (29 articles)
+  <a href="briefings/2026-09-03.md" style="color:red;font-weight:bold;">
+    2026-09-03 - Daily Briefing (18 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link introduces world’s first Wi-Fi 8 routers at IFA 2026 - YugaTech**</span>  
-<span style="color:red;">**- ASUS Moves Early on Wi-Fi 8 With New High-End Gaming Router for Australia - c...**</span>  
-<span style="color:red;">**- TP-Link will start taking pre-orders for its WiFi 8 routers this month - Whis...**</span>  
-<span style="color:red;">**- TP-Link Unveils Archer 8 Ultra and Deco 8 Ultra Wi-Fi 8 Devices - ManilaShake...**</span>  
-<span style="color:red;">**- TP-Link Unveils their Wi-Fi 8 Portfolio headlined by Archer 8 Ultra and Deco ...**</span>  
+<span style="color:red;">**- TP-Link's Tri-Band BE9700 WiFi 7 Router Hits Its Lowest Price of the Year Ahe...**</span>  
+<span style="color:red;">**- Score a gigabit LAN upgrade for less than $10 with this limited-time TP-Link ...**</span>  
+<span style="color:red;">**- Belkin’s first trackers come ready to attach to your gear.**</span>  
+<span style="color:red;">**- Belkin introduces its first longer-lasting semi-solid-state power banks**</span>  
+<span style="color:red;">**- Wi-Fi 8 Is Coming: Here's How Next-Gen Wireless Will Boost Real-World Reliabi...**</span>  
+
+[2026-09-02 - Daily Briefing (29 articles)](briefings/2026-09-02.md)
+
+- TP-Link introduces world’s first Wi-Fi 8 routers at IFA 2026 - YugaTech
+- ASUS Moves Early on Wi-Fi 8 With New High-End Gaming Router for Australia - c...
+- TP-Link will start taking pre-orders for its WiFi 8 routers this month - Whis...
 
 [2026-09-01 - Daily Briefing (29 articles)](briefings/2026-09-01.md)
 
