@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-03 12:44**
+Last updated: **2026-09-04 12:39**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-03.md" style="color:red;font-weight:bold;">
-    2026-09-03 - Daily Briefing (18 articles)
+  <a href="briefings/2026-09-04.md" style="color:red;font-weight:bold;">
+    2026-09-04 - Daily Briefing (27 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link's Tri-Band BE9700 WiFi 7 Router Hits Its Lowest Price of the Year Ahe...**</span>  
-<span style="color:red;">**- Score a gigabit LAN upgrade for less than $10 with this limited-time TP-Link ...**</span>  
-<span style="color:red;">**- Belkin’s first trackers come ready to attach to your gear.**</span>  
-<span style="color:red;">**- Belkin introduces its first longer-lasting semi-solid-state power banks**</span>  
-<span style="color:red;">**- Wi-Fi 8 Is Coming: Here's How Next-Gen Wireless Will Boost Real-World Reliabi...**</span>  
+<span style="color:red;">**- ROG GT-BN98 WiFi 8 Router Available Now in Canada - ASUS Pressroom**</span>  
+<span style="color:red;">**- FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cabl...**</span>  
+<span style="color:red;">**- Ultrahuman Eyes Gesture Control for Future Rings With Qualcomm Boost**</span>  
+<span style="color:red;">**- VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent**</span>  
+<span style="color:red;">**- 2.5-gigabit Ethernet (probably) isn't the upgrade your router salesman claims...**</span>  
+
+[2026-09-03 - Daily Briefing (18 articles)](briefings/2026-09-03.md)
+
+- TP-Link's Tri-Band BE9700 WiFi 7 Router Hits Its Lowest Price of the Year Ahe...
+- Score a gigabit LAN upgrade for less than $10 with this limited-time TP-Link ...
+- Belkin’s first trackers come ready to attach to your gear.
 
 [2026-09-02 - Daily Briefing (29 articles)](briefings/2026-09-02.md)
 
