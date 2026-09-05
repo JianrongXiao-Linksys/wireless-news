@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-04 12:39**
+Last updated: **2026-09-05 11:46**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-04.md" style="color:red;font-weight:bold;">
-    2026-09-04 - Daily Briefing (27 articles)
+  <a href="briefings/2026-09-05.md" style="color:red;font-weight:bold;">
+    2026-09-05 - Daily Briefing (18 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ROG GT-BN98 WiFi 8 Router Available Now in Canada - ASUS Pressroom**</span>  
-<span style="color:red;">**- FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cabl...**</span>  
-<span style="color:red;">**- Ultrahuman Eyes Gesture Control for Future Rings With Qualcomm Boost**</span>  
-<span style="color:red;">**- VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent**</span>  
-<span style="color:red;">**- 2.5-gigabit Ethernet (probably) isn't the upgrade your router salesman claims...**</span>  
+<span style="color:red;">**- First Wi-Fi 8 gaming router ROG Rapture GT-BN98 launches at a hefty price in ...**</span>  
+<span style="color:red;">**- ASUS Wireless Mouse MD105 review: An ergonomic mouse for everyday productivit...**</span>  
+<span style="color:red;">**- Robotaxis enter their villain era**</span>  
+<span style="color:red;">**- TP-Link Launches Wi-Fi 8 Router And Mesh System At IFA 2026 With Australian P...**</span>  
+<span style="color:red;">**- ASUS Announces Wi-Fi 8 Router Availability in Canada Ahead of Worldwide Octob...**</span>  
+
+[2026-09-04 - Daily Briefing (27 articles)](briefings/2026-09-04.md)
+
+- ROG GT-BN98 WiFi 8 Router Available Now in Canada - ASUS Pressroom
+- FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cabl...
+- Ultrahuman Eyes Gesture Control for Future Rings With Qualcomm Boost
 
 [2026-09-03 - Daily Briefing (18 articles)](briefings/2026-09-03.md)
 
