@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-06 12:06**
+Last updated: **2026-09-07 14:10**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-06.md" style="color:red;font-weight:bold;">
-    2026-09-06 - Daily Briefing (8 articles)
+  <a href="briefings/2026-09-07.md" style="color:red;font-weight:bold;">
+    2026-09-07 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authen...**</span>  
-<span style="color:red;">**- 4 Tech Brands Owned By Netgear - bgr.com**</span>  
-<span style="color:red;">**- If Your LG TV Keeps Disconnecting From The Internet, Try This - bgr.com**</span>  
-<span style="color:red;">**- Millions Of Comcast Routers Are Now Wi-Fi Powered Motion Detectors - SlashGear**</span>  
-<span style="color:red;">**- Ubiquiti's new travel router with foldable antenna improves range and is alre...**</span>  
+<span style="color:red;">**- SIMBA redefines Singapore’s Home Broadband Landscape with first-in-market WiF...**</span>  
+<span style="color:red;">**- TP-Link BE9700 WiFi 7 Router Is Back at Its Lowest Price, Making the Leap Fro...**</span>  
+<span style="color:red;">**- Asus announces launch of new WiFi 8 routers - Telecompaper**</span>  
+<span style="color:red;">**- Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - Slash...**</span>  
+<span style="color:red;">**- Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - Yahoo...**</span>  
+
+[2026-09-06 - Daily Briefing (8 articles)](briefings/2026-09-06.md)
+
+- Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authen...
+- 4 Tech Brands Owned By Netgear - bgr.com
+- If Your LG TV Keeps Disconnecting From The Internet, Try This - bgr.com
 
 [2026-09-05 - Daily Briefing (18 articles)](briefings/2026-09-05.md)
 
