@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-07 14:10**
+Last updated: **2026-09-08 12:47**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-07.md" style="color:red;font-weight:bold;">
-    2026-09-07 - Daily Briefing (14 articles)
+  <a href="briefings/2026-09-08.md" style="color:red;font-weight:bold;">
+    2026-09-08 - Daily Briefing (20 articles)
   </a>
 </p>
 
-<span style="color:red;">**- SIMBA redefines Singapore’s Home Broadband Landscape with first-in-market WiF...**</span>  
-<span style="color:red;">**- TP-Link BE9700 WiFi 7 Router Is Back at Its Lowest Price, Making the Leap Fro...**</span>  
-<span style="color:red;">**- Asus announces launch of new WiFi 8 routers - Telecompaper**</span>  
-<span style="color:red;">**- Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - Slash...**</span>  
-<span style="color:red;">**- Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - Yahoo...**</span>  
+<span style="color:red;">**- Huawei launches a mobile Wi-Fi 5 router, powered by eSIM - Huawei Central**</span>  
+<span style="color:red;">**- Movistar Spain offering free WiFi 7 router upgrade to selected subs - Telecom...**</span>  
+<span style="color:red;">**- ASUS ROG Prepares Gaming for the Wi-Fi 8 Leap - Gamesurf**</span>  
+<span style="color:red;">**- FRITZ! Unveils New Wi-Fi 7 Routers Alongside Matter Bridge Support - Homekit ...**</span>  
+<span style="color:red;">**- MSI Roamii BE Pro WiFi 7 Mesh System Review – Great Speeds At A Lower Cost - ...**</span>  
+
+[2026-09-07 - Daily Briefing (14 articles)](briefings/2026-09-07.md)
+
+- SIMBA redefines Singapore’s Home Broadband Landscape with first-in-market WiF...
+- TP-Link BE9700 WiFi 7 Router Is Back at Its Lowest Price, Making the Leap Fro...
+- Asus announces launch of new WiFi 8 routers - Telecompaper
 
 [2026-09-06 - Daily Briefing (8 articles)](briefings/2026-09-06.md)
 
