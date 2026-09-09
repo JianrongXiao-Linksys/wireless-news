@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-08 12:47**
+Last updated: **2026-09-09 12:52**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-08.md" style="color:red;font-weight:bold;">
-    2026-09-08 - Daily Briefing (20 articles)
+  <a href="briefings/2026-09-09.md" style="color:red;font-weight:bold;">
+    2026-09-09 - Daily Briefing (22 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Huawei launches a mobile Wi-Fi 5 router, powered by eSIM - Huawei Central**</span>  
-<span style="color:red;">**- Movistar Spain offering free WiFi 7 router upgrade to selected subs - Telecom...**</span>  
-<span style="color:red;">**- ASUS ROG Prepares Gaming for the Wi-Fi 8 Leap - Gamesurf**</span>  
-<span style="color:red;">**- FRITZ! Unveils New Wi-Fi 7 Routers Alongside Matter Bridge Support - Homekit ...**</span>  
-<span style="color:red;">**- MSI Roamii BE Pro WiFi 7 Mesh System Review – Great Speeds At A Lower Cost - ...**</span>  
+<span style="color:red;">**- Your router's power adapter is sabotaging your connection, and here's the qui...**</span>  
+<span style="color:red;">**- IFA 2026: TP-Link Shows its Complete Wi-Fi 8 Line-up - Wifi Hifi Magazine**</span>  
+<span style="color:red;">**- TP-Link Unveils World’s First Complete Wi-Fi 8 Lineup at IFA 2026 — Regional ...**</span>  
+<span style="color:red;">**- WIN Semiconductors: 2Q26 saw robust growth, with AI, Wi-Fi 7, and satellite m...**</span>  
+<span style="color:red;">**- ASUS Malaysia offers select laptop buyers up to 3 months of Google AI for fre...**</span>  
+
+[2026-09-08 - Daily Briefing (20 articles)](briefings/2026-09-08.md)
+
+- Huawei launches a mobile Wi-Fi 5 router, powered by eSIM - Huawei Central
+- Movistar Spain offering free WiFi 7 router upgrade to selected subs - Telecom...
+- ASUS ROG Prepares Gaming for the Wi-Fi 8 Leap - Gamesurf
 
 [2026-09-07 - Daily Briefing (14 articles)](briefings/2026-09-07.md)
 
