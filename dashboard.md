@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-09 12:52**
+Last updated: **2026-09-10 12:50**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-09.md" style="color:red;font-weight:bold;">
-    2026-09-09 - Daily Briefing (22 articles)
+  <a href="briefings/2026-09-10.md" style="color:red;font-weight:bold;">
+    2026-09-10 - Daily Briefing (24 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Your router's power adapter is sabotaging your connection, and here's the qui...**</span>  
-<span style="color:red;">**- IFA 2026: TP-Link Shows its Complete Wi-Fi 8 Line-up - Wifi Hifi Magazine**</span>  
-<span style="color:red;">**- TP-Link Unveils World’s First Complete Wi-Fi 8 Lineup at IFA 2026 — Regional ...**</span>  
-<span style="color:red;">**- WIN Semiconductors: 2Q26 saw robust growth, with AI, Wi-Fi 7, and satellite m...**</span>  
-<span style="color:red;">**- ASUS Malaysia offers select laptop buyers up to 3 months of Google AI for fre...**</span>  
+<span style="color:red;">**- Five more firms join European router alliance SAFEnet - Telecompaper**</span>  
+<span style="color:red;">**- Wi-Fi 7 Surpasses 50 Percent of the Market with Wi-Fi 8 on the Horizon, Accor...**</span>  
+<span style="color:red;">**- Save $100 on the Amazon eero Pro 7 mesh wifi system at Amazon - Mashable**</span>  
+<span style="color:red;">**- Finally, I have great Wi-Fi throughout the entire house with zero disconnects...**</span>  
+<span style="color:red;">**- Australia And New Zealand To Be First Markets Globally For Asus Wi-Fi 8 Route...**</span>  
+
+[2026-09-09 - Daily Briefing (22 articles)](briefings/2026-09-09.md)
+
+- Your router's power adapter is sabotaging your connection, and here's the qui...
+- IFA 2026: TP-Link Shows its Complete Wi-Fi 8 Line-up - Wifi Hifi Magazine
+- TP-Link Unveils World’s First Complete Wi-Fi 8 Lineup at IFA 2026 — Regional ...
 
 [2026-09-08 - Daily Briefing (20 articles)](briefings/2026-09-08.md)
 
