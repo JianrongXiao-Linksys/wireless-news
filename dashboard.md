@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-10 12:50**
+Last updated: **2026-09-11 12:45**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-10.md" style="color:red;font-weight:bold;">
-    2026-09-10 - Daily Briefing (24 articles)
+  <a href="briefings/2026-09-11.md" style="color:red;font-weight:bold;">
+    2026-09-11 - Daily Briefing (26 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Five more firms join European router alliance SAFEnet - Telecompaper**</span>  
-<span style="color:red;">**- Wi-Fi 7 Surpasses 50 Percent of the Market with Wi-Fi 8 on the Horizon, Accor...**</span>  
-<span style="color:red;">**- Save $100 on the Amazon eero Pro 7 mesh wifi system at Amazon - Mashable**</span>  
-<span style="color:red;">**- Finally, I have great Wi-Fi throughout the entire house with zero disconnects...**</span>  
-<span style="color:red;">**- Australia And New Zealand To Be First Markets Globally For Asus Wi-Fi 8 Route...**</span>  
+<span style="color:red;">**- The Unexpected Winner of Cisco IT’s Wi-Fi 7 Upgrade? Security. - Cisco Blogs**</span>  
+<span style="color:red;">**- Wi-Fi 8 is the first homelab upgrade to actually get things right - How-To Geek**</span>  
+<span style="color:red;">**- Asus routers escape the US foreign-made router ban, but TP-Link is still wait...**</span>  
+<span style="color:red;">**- Vantiva delivers immersive sound and advanced entertainment with its new Soun...**</span>  
+<span style="color:red;">**- iCana expands into Wi-Fi front-end modules with early offering targeting Wi-F...**</span>  
+
+[2026-09-10 - Daily Briefing (24 articles)](briefings/2026-09-10.md)
+
+- Five more firms join European router alliance SAFEnet - Telecompaper
+- Wi-Fi 7 Surpasses 50 Percent of the Market with Wi-Fi 8 on the Horizon, Accor...
+- Save $100 on the Amazon eero Pro 7 mesh wifi system at Amazon - Mashable
 
 [2026-09-09 - Daily Briefing (22 articles)](briefings/2026-09-09.md)
 
