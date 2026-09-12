@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-11 12:45**
+Last updated: **2026-09-12 12:05**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-11.md" style="color:red;font-weight:bold;">
-    2026-09-11 - Daily Briefing (26 articles)
+  <a href="briefings/2026-09-12.md" style="color:red;font-weight:bold;">
+    2026-09-12 - Daily Briefing (19 articles)
   </a>
 </p>
 
-<span style="color:red;">**- The Unexpected Winner of Cisco IT’s Wi-Fi 7 Upgrade? Security. - Cisco Blogs**</span>  
-<span style="color:red;">**- Wi-Fi 8 is the first homelab upgrade to actually get things right - How-To Geek**</span>  
-<span style="color:red;">**- Asus routers escape the US foreign-made router ban, but TP-Link is still wait...**</span>  
-<span style="color:red;">**- Vantiva delivers immersive sound and advanced entertainment with its new Soun...**</span>  
-<span style="color:red;">**- iCana expands into Wi-Fi front-end modules with early offering targeting Wi-F...**</span>  
+<span style="color:red;">**- Asus Routers Receive U.S. Department of Defense Security Clearance — Full Pro...**</span>  
+<span style="color:red;">**- The USB ports on your Wi-Fi router are surprisingly useful - Pocket-lint**</span>  
+<span style="color:red;">**- Grandstream Announces New Long-Range Outdoor Wi-Fi 7 Access Point - Telecom R...**</span>  
+<span style="color:red;">**- ASUS ROG Rapture GT-BN98 Pro Preview (vs. GT-BE98 Pro): The First Wi-Fi 8 Rou...**</span>  
+<span style="color:red;">**- Asus Just Cleared the U.S. Router Ban. TP-Link Didn’t. - Yahoo Tech**</span>  
+
+[2026-09-11 - Daily Briefing (26 articles)](briefings/2026-09-11.md)
+
+- The Unexpected Winner of Cisco IT’s Wi-Fi 7 Upgrade? Security. - Cisco Blogs
+- Wi-Fi 8 is the first homelab upgrade to actually get things right - How-To Geek
+- Asus routers escape the US foreign-made router ban, but TP-Link is still wait...
 
 [2026-09-10 - Daily Briefing (24 articles)](briefings/2026-09-10.md)
 
