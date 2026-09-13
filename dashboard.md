@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-12 12:05**
+Last updated: **2026-09-13 13:15**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-12.md" style="color:red;font-weight:bold;">
-    2026-09-12 - Daily Briefing (19 articles)
+  <a href="briefings/2026-09-13.md" style="color:red;font-weight:bold;">
+    2026-09-13 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Asus Routers Receive U.S. Department of Defense Security Clearance — Full Pro...**</span>  
-<span style="color:red;">**- The USB ports on your Wi-Fi router are surprisingly useful - Pocket-lint**</span>  
-<span style="color:red;">**- Grandstream Announces New Long-Range Outdoor Wi-Fi 7 Access Point - Telecom R...**</span>  
-<span style="color:red;">**- ASUS ROG Rapture GT-BN98 Pro Preview (vs. GT-BE98 Pro): The First Wi-Fi 8 Rou...**</span>  
-<span style="color:red;">**- Asus Just Cleared the U.S. Router Ban. TP-Link Didn’t. - Yahoo Tech**</span>  
+<span style="color:red;">**- Tri-Band WiFi 7 router is 32% cheaper in limited Amazon deal, so grab it fast...**</span>  
+<span style="color:red;">**- Waymo robotaxi calls cops on riders handling loaded AR-style ghost gun — Waym...**</span>  
+<span style="color:red;">**- ASUS Launches the World's First Wi-Fi 8 Router, but the Standard Lands in 202...**</span>  
+<span style="color:red;">**- I put my router in a cabinet and lost 74% of my Wi-Fi speed - How-To Geek**</span>  
+<span style="color:red;">**- Your new ISP router is breaking your smart home in ways you may not even noti...**</span>  
+
+[2026-09-12 - Daily Briefing (19 articles)](briefings/2026-09-12.md)
+
+- Asus Routers Receive U.S. Department of Defense Security Clearance — Full Pro...
+- The USB ports on your Wi-Fi router are surprisingly useful - Pocket-lint
+- Grandstream Announces New Long-Range Outdoor Wi-Fi 7 Access Point - Telecom R...
 
 [2026-09-11 - Daily Briefing (26 articles)](briefings/2026-09-11.md)
 
