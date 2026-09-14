@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-13 13:15**
+Last updated: **2026-09-14 14:56**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-13.md" style="color:red;font-weight:bold;">
-    2026-09-13 - Daily Briefing (14 articles)
+  <a href="briefings/2026-09-14.md" style="color:red;font-weight:bold;">
+    2026-09-14 - Daily Briefing (15 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Tri-Band WiFi 7 router is 32% cheaper in limited Amazon deal, so grab it fast...**</span>  
-<span style="color:red;">**- Waymo robotaxi calls cops on riders handling loaded AR-style ghost gun — Waym...**</span>  
-<span style="color:red;">**- ASUS Launches the World's First Wi-Fi 8 Router, but the Standard Lands in 202...**</span>  
-<span style="color:red;">**- I put my router in a cabinet and lost 74% of my Wi-Fi speed - How-To Geek**</span>  
-<span style="color:red;">**- Your new ISP router is breaking your smart home in ways you may not even noti...**</span>  
+<span style="color:red;">**- Building for the AI era: Inside Cisco IT’s Wi-Fi 7 revolution - Cisco Blogs**</span>  
+<span style="color:red;">**- R&S intros outdoor Wi-Fi 7 AP with Active Radio Control - Telecompaper**</span>  
+<span style="color:red;">**- ASUS Gets the Green Light to Sell Its Routers in the US - Android Headlines**</span>  
+<span style="color:red;">**- Asus ROG Swift PG27UCWM gaming monitor review: Speed and pixel density in a p...**</span>  
+<span style="color:red;">**- ASUS PRIME AP303 White Featured Build - KitGuru**</span>  
+
+[2026-09-13 - Daily Briefing (14 articles)](briefings/2026-09-13.md)
+
+- Tri-Band WiFi 7 router is 32% cheaper in limited Amazon deal, so grab it fast...
+- Waymo robotaxi calls cops on riders handling loaded AR-style ghost gun — Waym...
+- ASUS Launches the World's First Wi-Fi 8 Router, but the Standard Lands in 202...
 
 [2026-09-12 - Daily Briefing (19 articles)](briefings/2026-09-12.md)
 
