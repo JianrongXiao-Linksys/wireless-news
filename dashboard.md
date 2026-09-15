@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-14 14:56**
+Last updated: **2026-09-15 13:23**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-14.md" style="color:red;font-weight:bold;">
-    2026-09-14 - Daily Briefing (15 articles)
+  <a href="briefings/2026-09-15.md" style="color:red;font-weight:bold;">
+    2026-09-15 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Building for the AI era: Inside Cisco IT’s Wi-Fi 7 revolution - Cisco Blogs**</span>  
-<span style="color:red;">**- R&S intros outdoor Wi-Fi 7 AP with Active Radio Control - Telecompaper**</span>  
-<span style="color:red;">**- ASUS Gets the Green Light to Sell Its Routers in the US - Android Headlines**</span>  
-<span style="color:red;">**- Asus ROG Swift PG27UCWM gaming monitor review: Speed and pixel density in a p...**</span>  
-<span style="color:red;">**- ASUS PRIME AP303 White Featured Build - KitGuru**</span>  
+<span style="color:red;">**- This TP-Link Whole Home Mesh System Is $140 Off Right Now - Lifehacker**</span>  
+<span style="color:red;">**- Huawei Wi-Fi 6 Pro mobile router with 7000mAh battery launched - Huawei Central**</span>  
+<span style="color:red;">**- TP-Link Launches Wi-Fi 8 In Malaysia - TRP | The Rakyat Post**</span>  
+<span style="color:red;">**- MediaTek’s Dimensity 9600 Pro Focuses on Gaming, AI Performance for High-End ...**</span>  
+<span style="color:red;">**- 2026 Apple iPad Air deal knocks $100 off the price of this M4 powered tablet ...**</span>  
+
+[2026-09-14 - Daily Briefing (15 articles)](briefings/2026-09-14.md)
+
+- Building for the AI era: Inside Cisco IT’s Wi-Fi 7 revolution - Cisco Blogs
+- R&S intros outdoor Wi-Fi 7 AP with Active Radio Control - Telecompaper
+- ASUS Gets the Green Light to Sell Its Routers in the US - Android Headlines
 
 [2026-09-13 - Daily Briefing (14 articles)](briefings/2026-09-13.md)
 
