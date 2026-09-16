@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-15 13:23**
+Last updated: **2026-09-16 13:22**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-15.md" style="color:red;font-weight:bold;">
-    2026-09-15 - Daily Briefing (14 articles)
+  <a href="briefings/2026-09-16.md" style="color:red;font-weight:bold;">
+    2026-09-16 - Daily Briefing (25 articles)
   </a>
 </p>
 
-<span style="color:red;">**- This TP-Link Whole Home Mesh System Is $140 Off Right Now - Lifehacker**</span>  
-<span style="color:red;">**- Huawei Wi-Fi 6 Pro mobile router with 7000mAh battery launched - Huawei Central**</span>  
-<span style="color:red;">**- TP-Link Launches Wi-Fi 8 In Malaysia - TRP | The Rakyat Post**</span>  
-<span style="color:red;">**- MediaTek’s Dimensity 9600 Pro Focuses on Gaming, AI Performance for High-End ...**</span>  
-<span style="color:red;">**- 2026 Apple iPad Air deal knocks $100 off the price of this M4 powered tablet ...**</span>  
+<span style="color:red;">**- Netgear Orbi 970 (RBE973S) review: impressively fast with great reach but exo...**</span>  
+<span style="color:red;">**- WOW! extends availability of Wi-Fi 7 devices - Telecompaper**</span>  
+<span style="color:red;">**- Get Connected and Save Big With These Early Amazon Prime Day Mesh and Router ...**</span>  
+<span style="color:red;">**- ASUS Vivobook S14 / S16 / 14 Flip and S14 Flip / Vivobook 16 / S14 / S16 laun...**</span>  
+<span style="color:red;">**- New Fortify Router Includes One Year Of ExpressVPN’s Advanced Plan - Yahoo Ne...**</span>  
+
+[2026-09-15 - Daily Briefing (14 articles)](briefings/2026-09-15.md)
+
+- This TP-Link Whole Home Mesh System Is $140 Off Right Now - Lifehacker
+- Huawei Wi-Fi 6 Pro mobile router with 7000mAh battery launched - Huawei Central
+- TP-Link Launches Wi-Fi 8 In Malaysia - TRP | The Rakyat Post
 
 [2026-09-14 - Daily Briefing (15 articles)](briefings/2026-09-14.md)
 
