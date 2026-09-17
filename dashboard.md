@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-16 13:22**
+Last updated: **2026-09-17 13:18**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-16.md" style="color:red;font-weight:bold;">
-    2026-09-16 - Daily Briefing (25 articles)
+  <a href="briefings/2026-09-17.md" style="color:red;font-weight:bold;">
+    2026-09-17 - Daily Briefing (9 articles)
   </a>
 </p>
 
+<span style="color:red;">**- I disabled DFS channels, and my Wi-Fi stopped dropping without warning - Make...**</span>  
+<span style="color:red;">**- Asus wins exemption to US foreign router ban - Telecompaper**</span>  
+<span style="color:red;">**- Arcadyan expects third-quarter strength as Wi-Fi 7 upgrade cycle builds - dig...**</span>  
+<span style="color:red;">**- A TP-Link Internet Camera Contains a Serious Flaw, Security Researchers Say -...**</span>  
 <span style="color:red;">**- Netgear Orbi 970 (RBE973S) review: impressively fast with great reach but exo...**</span>  
-<span style="color:red;">**- WOW! extends availability of Wi-Fi 7 devices - Telecompaper**</span>  
-<span style="color:red;">**- Get Connected and Save Big With These Early Amazon Prime Day Mesh and Router ...**</span>  
-<span style="color:red;">**- ASUS Vivobook S14 / S16 / 14 Flip and S14 Flip / Vivobook 16 / S14 / S16 laun...**</span>  
-<span style="color:red;">**- New Fortify Router Includes One Year Of ExpressVPN’s Advanced Plan - Yahoo Ne...**</span>  
+
+[2026-09-16 - Daily Briefing (25 articles)](briefings/2026-09-16.md)
+
+- Netgear Orbi 970 (RBE973S) review: impressively fast with great reach but exo...
+- WOW! extends availability of Wi-Fi 7 devices - Telecompaper
+- Get Connected and Save Big With These Early Amazon Prime Day Mesh and Router ...
 
 [2026-09-15 - Daily Briefing (14 articles)](briefings/2026-09-15.md)
 
