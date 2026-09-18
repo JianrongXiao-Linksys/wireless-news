@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-17 13:18**
+Last updated: **2026-09-18 12:52**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-17.md" style="color:red;font-weight:bold;">
-    2026-09-17 - Daily Briefing (9 articles)
+  <a href="briefings/2026-09-18.md" style="color:red;font-weight:bold;">
+    2026-09-18 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- I disabled DFS channels, and my Wi-Fi stopped dropping without warning - Make...**</span>  
-<span style="color:red;">**- Asus wins exemption to US foreign router ban - Telecompaper**</span>  
-<span style="color:red;">**- Arcadyan expects third-quarter strength as Wi-Fi 7 upgrade cycle builds - dig...**</span>  
-<span style="color:red;">**- A TP-Link Internet Camera Contains a Serious Flaw, Security Researchers Say -...**</span>  
-<span style="color:red;">**- Netgear Orbi 970 (RBE973S) review: impressively fast with great reach but exo...**</span>  
+<span style="color:red;">**- SIMBA's 10Gbps broadband uses equipment from Huawei - hardwarezone.com.sg**</span>  
+<span style="color:red;">**- TP-Link launches new WiFi technology to strengthen connectivity, manage conge...**</span>  
+<span style="color:red;">**- Smart Home WiFi SIM 99 is now available for affordable, flexible connectivity...**</span>  
+<span style="color:red;">**- Asus Receives Exemption to US’s Foreign-Made Wi-Fi Router Ban - Mix93.3**</span>  
+<span style="color:red;">**- UniFi Whole Home WiFi Mesh: 100% Solid - Dong Knows Tech**</span>  
+
+[2026-09-17 - Daily Briefing (9 articles)](briefings/2026-09-17.md)
+
+- I disabled DFS channels, and my Wi-Fi stopped dropping without warning - Make...
+- Asus wins exemption to US foreign router ban - Telecompaper
+- Arcadyan expects third-quarter strength as Wi-Fi 7 upgrade cycle builds - dig...
 
 [2026-09-16 - Daily Briefing (25 articles)](briefings/2026-09-16.md)
 
