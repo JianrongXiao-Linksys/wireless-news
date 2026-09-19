@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-18 12:52**
+Last updated: **2026-09-19 12:25**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-18.md" style="color:red;font-weight:bold;">
-    2026-09-18 - Daily Briefing (12 articles)
+  <a href="briefings/2026-09-19.md" style="color:red;font-weight:bold;">
+    2026-09-19 - Daily Briefing (9 articles)
   </a>
 </p>
 
-<span style="color:red;">**- SIMBA's 10Gbps broadband uses equipment from Huawei - hardwarezone.com.sg**</span>  
-<span style="color:red;">**- TP-Link launches new WiFi technology to strengthen connectivity, manage conge...**</span>  
-<span style="color:red;">**- Smart Home WiFi SIM 99 is now available for affordable, flexible connectivity...**</span>  
-<span style="color:red;">**- Asus Receives Exemption to US’s Foreign-Made Wi-Fi Router Ban - Mix93.3**</span>  
-<span style="color:red;">**- UniFi Whole Home WiFi Mesh: 100% Solid - Dong Knows Tech**</span>  
+<span style="color:red;">**- What Data Do Netgear Routers Collect, And Can You Opt Out? - bgr.com**</span>  
+<span style="color:red;">**- The 5 Best NETGEAR Routers of 2026 - RTINGS.com**</span>  
+<span style="color:red;">**- TP-Link's popular Wi-Fi 6 router drops to $60 in early Prime Day deal - TechR...**</span>  
+<span style="color:red;">**- TP-Link Jumps Ahead With Its First Wi-Fi 8 Routers - Android Headlines**</span>  
+<span style="color:red;">**- Build your WiFi 7 network with this limited-time TP-Link Deco 7 router deal -...**</span>  
+
+[2026-09-18 - Daily Briefing (12 articles)](briefings/2026-09-18.md)
+
+- SIMBA's 10Gbps broadband uses equipment from Huawei - hardwarezone.com.sg
+- TP-Link launches new WiFi technology to strengthen connectivity, manage conge...
+- Smart Home WiFi SIM 99 is now available for affordable, flexible connectivity...
 
 [2026-09-17 - Daily Briefing (9 articles)](briefings/2026-09-17.md)
 
