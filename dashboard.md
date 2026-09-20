@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-19 12:25**
+Last updated: **2026-09-20 12:59**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-19.md" style="color:red;font-weight:bold;">
-    2026-09-19 - Daily Briefing (9 articles)
+  <a href="briefings/2026-09-20.md" style="color:red;font-weight:bold;">
+    2026-09-20 - Daily Briefing (9 articles)
   </a>
 </p>
 
-<span style="color:red;">**- What Data Do Netgear Routers Collect, And Can You Opt Out? - bgr.com**</span>  
-<span style="color:red;">**- The 5 Best NETGEAR Routers of 2026 - RTINGS.com**</span>  
-<span style="color:red;">**- TP-Link's popular Wi-Fi 6 router drops to $60 in early Prime Day deal - TechR...**</span>  
-<span style="color:red;">**- TP-Link Jumps Ahead With Its First Wi-Fi 8 Routers - Android Headlines**</span>  
-<span style="color:red;">**- Build your WiFi 7 network with this limited-time TP-Link Deco 7 router deal -...**</span>  
+<span style="color:red;">**- The US Ban on Foreign-Made Routers Gets Another Exception - WIRED**</span>  
+<span style="color:red;">**- Why Has the US Banned Foreign-Made Routers? - WIRED**</span>  
+<span style="color:red;">**- One Albania Takes Home Connectivity to the Next Level with Wi-Fi 7 - albanian...**</span>  
+<span style="color:red;">**- A setting from 1999 is still switched on in most routers, and it slows every ...**</span>  
+<span style="color:red;">**- Mesh Wi-Fi is often a scam—this is the cheaper way to get fast internet in ev...**</span>  
+
+[2026-09-19 - Daily Briefing (9 articles)](briefings/2026-09-19.md)
+
+- What Data Do Netgear Routers Collect, And Can You Opt Out? - bgr.com
+- The 5 Best NETGEAR Routers of 2026 - RTINGS.com
+- TP-Link's popular Wi-Fi 6 router drops to $60 in early Prime Day deal - TechR...
 
 [2026-09-18 - Daily Briefing (12 articles)](briefings/2026-09-18.md)
 
