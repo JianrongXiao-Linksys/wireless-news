@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-20 12:59**
+Last updated: **2026-09-21 15:01**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-20.md" style="color:red;font-weight:bold;">
-    2026-09-20 - Daily Briefing (9 articles)
+  <a href="briefings/2026-09-21.md" style="color:red;font-weight:bold;">
+    2026-09-21 - Daily Briefing (15 articles)
   </a>
 </p>
 
-<span style="color:red;">**- The US Ban on Foreign-Made Routers Gets Another Exception - WIRED**</span>  
-<span style="color:red;">**- Why Has the US Banned Foreign-Made Routers? - WIRED**</span>  
-<span style="color:red;">**- One Albania Takes Home Connectivity to the Next Level with Wi-Fi 7 - albanian...**</span>  
-<span style="color:red;">**- A setting from 1999 is still switched on in most routers, and it slows every ...**</span>  
-<span style="color:red;">**- Mesh Wi-Fi is often a scam—this is the cheaper way to get fast internet in ev...**</span>  
+<span style="color:red;">**- Heavy-duty TP-Link WiFi 7 router with 18Gbps speed drops 20% in latest Amazon...**</span>  
+<span style="color:red;">**- This TP-Link Deco Wi-Fi 7 mesh system eliminates internet dead zones with spe...**</span>  
+<span style="color:red;">**- ASUS ROG Strix Z890-I Gaming Wi-Fi Review - Innovative Mini-ITX - TweakTown**</span>  
+<span style="color:red;">**- WiFi 7, 5 Gbps Support and 2,000 Sq. Ft. Coverage Come at an All-Time Low Wit...**</span>  
+<span style="color:red;">**- FS Introduces Software-Driven Wi-Fi 7 Campus Solution for High-Density Connec...**</span>  
+
+[2026-09-20 - Daily Briefing (9 articles)](briefings/2026-09-20.md)
+
+- The US Ban on Foreign-Made Routers Gets Another Exception - WIRED
+- Why Has the US Banned Foreign-Made Routers? - WIRED
+- One Albania Takes Home Connectivity to the Next Level with Wi-Fi 7 - albanian...
 
 [2026-09-19 - Daily Briefing (9 articles)](briefings/2026-09-19.md)
 
