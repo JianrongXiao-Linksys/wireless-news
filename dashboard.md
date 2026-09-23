@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-22 13:19**
+Last updated: **2026-09-23 13:32**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-22.md" style="color:red;font-weight:bold;">
-    2026-09-22 - Daily Briefing (18 articles)
+  <a href="briefings/2026-09-23.md" style="color:red;font-weight:bold;">
+    2026-09-23 - Daily Briefing (23 articles)
   </a>
 </p>
 
-<span style="color:red;">**- I spent a week troubleshooting my router. Then I plugged it into a different ...**</span>  
-<span style="color:red;">**- Alternative UK home broadband network Trooli launches 5Gbps speeds - ISPrevie...**</span>  
-<span style="color:red;">**- Annoying Pixel 11 battery drain blamed on connectivity issue - Trusted Reviews**</span>  
-<span style="color:red;">**- FS rolls out campus networking suite based on Wi-Fi 7 APs and network switche...**</span>  
-<span style="color:red;">**- Most Aussies are using slower, outdated routers - WhistleOut**</span>  
+<span style="color:red;">**- Amazon Offloads TP-Link Deco WiFi 6 Mesh 3-Pack at a Record Low, Basically Th...**</span>  
+<span style="color:red;">**- Qualcomm Wants You to Let AI Agents Spend Your Money**</span>  
+<span style="color:red;">**- One Albania launches Wi-Fi 7 with new 2.5 Gbps Ultra Fibre plan - Telecompaper**</span>  
+<span style="color:red;">**- Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display**</span>  
+<span style="color:red;">**- USB Port on Routers: Necessity or Gimmick? - Root-Nation.com**</span>  
+
+[2026-09-22 - Daily Briefing (18 articles)](briefings/2026-09-22.md)
+
+- I spent a week troubleshooting my router. Then I plugged it into a different ...
+- Alternative UK home broadband network Trooli launches 5Gbps speeds - ISPrevie...
+- Annoying Pixel 11 battery drain blamed on connectivity issue - Trusted Reviews
 
 [2026-09-21 - Daily Briefing (15 articles)](briefings/2026-09-21.md)
 
