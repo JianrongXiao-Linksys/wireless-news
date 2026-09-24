@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-23 13:32**
+Last updated: **2026-09-24 13:28**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-23.md" style="color:red;font-weight:bold;">
-    2026-09-23 - Daily Briefing (23 articles)
+  <a href="briefings/2026-09-24.md" style="color:red;font-weight:bold;">
+    2026-09-24 - Daily Briefing (21 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Amazon Offloads TP-Link Deco WiFi 6 Mesh 3-Pack at a Record Low, Basically Th...**</span>  
-<span style="color:red;">**- Qualcomm Wants You to Let AI Agents Spend Your Money**</span>  
-<span style="color:red;">**- One Albania launches Wi-Fi 7 with new 2.5 Gbps Ultra Fibre plan - Telecompaper**</span>  
-<span style="color:red;">**- Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display**</span>  
-<span style="color:red;">**- USB Port on Routers: Necessity or Gimmick? - Root-Nation.com**</span>  
+<span style="color:red;">**- Save $149 on this 3-item gaming combo from Newegg**</span>  
+<span style="color:red;">**- Lucky 3D artist scores Jensen Huang-signed RTX 5090 from used marketplace tha...**</span>  
+<span style="color:red;">**- WiCi One unveils wireless Wi-Fi 7 eGPU with built-in 4TB SSD for local AI — $...**</span>  
+<span style="color:red;">**- New wireless Wi-Fi 7 external GPU box comes with a built-in 4TB SSD for local AI**</span>  
+<span style="color:red;">**- Putting a coin on your Wi-Fi router: why people recommend it and what it’s fo...**</span>  
+
+[2026-09-23 - Daily Briefing (23 articles)](briefings/2026-09-23.md)
+
+- Amazon Offloads TP-Link Deco WiFi 6 Mesh 3-Pack at a Record Low, Basically Th...
+- Qualcomm Wants You to Let AI Agents Spend Your Money
+- One Albania launches Wi-Fi 7 with new 2.5 Gbps Ultra Fibre plan - Telecompaper
 
 [2026-09-22 - Daily Briefing (18 articles)](briefings/2026-09-22.md)
 
