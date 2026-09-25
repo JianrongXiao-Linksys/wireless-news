@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-24 13:28**
+Last updated: **2026-09-25 13:34**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-24.md" style="color:red;font-weight:bold;">
-    2026-09-24 - Daily Briefing (21 articles)
+  <a href="briefings/2026-09-25.md" style="color:red;font-weight:bold;">
+    2026-09-25 - Daily Briefing (5 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Save $149 on this 3-item gaming combo from Newegg**</span>  
-<span style="color:red;">**- Lucky 3D artist scores Jensen Huang-signed RTX 5090 from used marketplace tha...**</span>  
-<span style="color:red;">**- WiCi One unveils wireless Wi-Fi 7 eGPU with built-in 4TB SSD for local AI — $...**</span>  
-<span style="color:red;">**- New wireless Wi-Fi 7 external GPU box comes with a built-in 4TB SSD for local AI**</span>  
-<span style="color:red;">**- Putting a coin on your Wi-Fi router: why people recommend it and what it’s fo...**</span>  
+<span style="color:red;">**- Asus confirms eShop data breach exposed customer order records and contact de...**</span>  
+<span style="color:red;">**- Microsoft is killing off the ‘Copilot Plus PC’ brand**</span>  
+<span style="color:red;">**- Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream**</span>  
+<span style="color:red;">**- PrismML brings its tiny LLMs to Qualcomm-powered smart glasses**</span>  
+<span style="color:red;">**- Microsoft’s New Surface Laptops Embody the PC-Phone Marriage Snapdragon Promi...**</span>  
+
+[2026-09-24 - Daily Briefing (21 articles)](briefings/2026-09-24.md)
+
+- Save $149 on this 3-item gaming combo from Newegg
+- Lucky 3D artist scores Jensen Huang-signed RTX 5090 from used marketplace tha...
+- WiCi One unveils wireless Wi-Fi 7 eGPU with built-in 4TB SSD for local AI — $...
 
 [2026-09-23 - Daily Briefing (23 articles)](briefings/2026-09-23.md)
 
