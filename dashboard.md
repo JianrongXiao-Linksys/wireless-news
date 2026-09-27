@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-26 12:55**
+Last updated: **2026-09-27 13:47**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,18 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-26.md" style="color:red;font-weight:bold;">
-    2026-09-26 - Daily Briefing (30 articles)
+  <a href="briefings/2026-09-27.md" style="color:red;font-weight:bold;">
+    2026-09-27 - Daily Briefing (1 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ASUS ROG Rapture GT-BN98 now available for preorder at RM3,988 - Tech Critter**</span>  
-<span style="color:red;">**- The internet is obsessing over a Minion-shaped router: Here's where to buy yo...**</span>  
-<span style="color:red;">**- Asus expands PH creator hardware lineup with 8K monitor, RTX 50-series GPUs -...**</span>  
-<span style="color:red;">**- WiCi One wireless eGPU uses Wi-Fi 7 for laptops - tbreak.com**</span>  
-<span style="color:red;">**- First Wireless eGPU Could Turn Any Wi-Fi 7 PC Into a Gaming Laptop - PCMag Mi...**</span>  
+<span style="color:red;">**- Googlebooks might be the real deal**</span>  
+
+[2026-09-26 - Daily Briefing (30 articles)](briefings/2026-09-26.md)
+
+- ASUS ROG Rapture GT-BN98 now available for preorder at RM3,988 - Tech Critter
+- The internet is obsessing over a Minion-shaped router: Here's where to buy yo...
+- Asus expands PH creator hardware lineup with 8K monitor, RTX 50-series GPUs -...
 
 [2026-09-25 - Daily Briefing (5 articles)](briefings/2026-09-25.md)
 
