@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-27 13:47**
+Last updated: **2026-09-28 16:41**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,12 +9,20 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-27.md" style="color:red;font-weight:bold;">
-    2026-09-27 - Daily Briefing (1 articles)
+  <a href="briefings/2026-09-28.md" style="color:red;font-weight:bold;">
+    2026-09-28 - Daily Briefing (24 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Googlebooks might be the real deal**</span>  
+<span style="color:red;">**- The 5 Best Routers For Verizon Fios of 2026 - RTINGS.com**</span>  
+<span style="color:red;">**- This £220 TP-Link Wi-Fi 7 router beats pricier rivals on port speeds - TechRadar**</span>  
+<span style="color:red;">**- Eero WiFi 7 router deal saves $200 – this three-pack offers 6,000 square foot...**</span>  
+<span style="color:red;">**- After a deepfake voice fooled her grandfather, this founder sprang into action**</span>  
+<span style="color:red;">**- TP-Link Tri-Band BE15000 WiFi 7 Router Archer falls to $259.97 - Technobezz**</span>  
+
+[2026-09-27 - Daily Briefing (1 articles)](briefings/2026-09-27.md)
+
+- Googlebooks might be the real deal
 
 [2026-09-26 - Daily Briefing (30 articles)](briefings/2026-09-26.md)
 
