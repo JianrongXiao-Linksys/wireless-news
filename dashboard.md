@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-09-29 14:46**
+Last updated: **2026-09-30 14:49**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-09-29.md" style="color:red;font-weight:bold;">
-    2026-09-29 - Daily Briefing (30 articles)
+  <a href="briefings/2026-09-30.md" style="color:red;font-weight:bold;">
+    2026-09-30 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Minions router goes viral for serious WiFi 6E speed - Cybernews**</span>  
-<span style="color:red;">**- Save Up to 34% Off Eero Routers With These Limited-Time Prime Day Deals - CNET**</span>  
-<span style="color:red;">**- We tested 13 power banks to help you choose the best one**</span>  
-<span style="color:red;">**- Should You Put A Router In Your Bedroom? It's Complicated - bgr.com**</span>  
-<span style="color:red;">**- Why Wi-Fi Extenders Simply Aren't Worth Buying In 2026 - Engadget**</span>  
+<span style="color:red;">**- What Is a WiFi 7 Router? And If You Need One, Which Should You Buy? - Esquire**</span>  
+<span style="color:red;">**- Deco 7 Pro BE14000 Tri-Band Wi-Fi 7 marked down to $249.99 - technobezz.com**</span>  
+<span style="color:red;">**- TP-Link Opens Pre-Orders for Archer 8 Ultra, Its First Wi-Fi 8 Router - The J...**</span>  
+<span style="color:red;">**- TP-Link Opens Pre-Orders for Archer 8 Ultra, Its First Wi-Fi 8 Router - Busin...**</span>  
+<span style="color:red;">**- CCTV images released after WiFi router 'stolen' in hotel burglary - Oxford Mail**</span>  
+
+[2026-09-29 - Daily Briefing (30 articles)](briefings/2026-09-29.md)
+
+- Minions router goes viral for serious WiFi 6E speed - Cybernews
+- Save Up to 34% Off Eero Routers With These Limited-Time Prime Day Deals - CNET
+- We tested 13 power banks to help you choose the best one
 
 [2026-09-28 - Daily Briefing (24 articles)](briefings/2026-09-28.md)
 
