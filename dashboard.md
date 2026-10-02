@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-01 15:20**
+Last updated: **2026-10-02 14:38**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-01.md" style="color:red;font-weight:bold;">
-    2026-10-01 - Daily Briefing (30 articles)
+  <a href="briefings/2026-10-02.md" style="color:red;font-weight:bold;">
+    2026-10-02 - Daily Briefing (19 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TIM Brasil and Qualcomm begin Wi-Fi 8 lab trials in Brazil - Telecompaper**</span>  
-<span style="color:red;">**- The HP OmniBook 3 is the best laptop under $500 I can recommend - TechRadar**</span>  
-<span style="color:red;">**- Stop Wasting Your Wi-Fi Router's USB Port - Try This Instead - Yahoo Tech**</span>  
-<span style="color:red;">**- TP-Link Archer 8 Ultra Debuts As World's First Wi-Fi 8 Router But There's A C...**</span>  
-<span style="color:red;">**- Turk Telekom completes real-world Wi-Fi 8 tests in multi-device, mesh archite...**</span>  
+<span style="color:red;">**- Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders**</span>  
+<span style="color:red;">**- I just moved; this simple trick saved me from reconnecting all my devices to ...**</span>  
+<span style="color:red;">**- This TP-Link Wi-Fi 7 Router Is 32% Off for October Prime Day - Lifehacker**</span>  
+<span style="color:red;">**- 1&1 offers Fritz! Wi-Fi 7 router exclusively for 6 months - Telecompaper**</span>  
+<span style="color:red;">**- Grab an $80 discount on this TP-Link Wi-Fi 7 router with five 2.5G Ethernet p...**</span>  
+
+[2026-10-01 - Daily Briefing (30 articles)](briefings/2026-10-01.md)
+
+- TIM Brasil and Qualcomm begin Wi-Fi 8 lab trials in Brazil - Telecompaper
+- The HP OmniBook 3 is the best laptop under $500 I can recommend - TechRadar
+- Stop Wasting Your Wi-Fi Router's USB Port - Try This Instead - Yahoo Tech
 
 [2026-09-30 - Daily Briefing (30 articles)](briefings/2026-09-30.md)
 
