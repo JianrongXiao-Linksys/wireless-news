@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-02 14:38**
+Last updated: **2026-10-03 13:15**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-02.md" style="color:red;font-weight:bold;">
-    2026-10-02 - Daily Briefing (19 articles)
+  <a href="briefings/2026-10-03.md" style="color:red;font-weight:bold;">
+    2026-10-03 - Daily Briefing (13 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders**</span>  
-<span style="color:red;">**- I just moved; this simple trick saved me from reconnecting all my devices to ...**</span>  
-<span style="color:red;">**- This TP-Link Wi-Fi 7 Router Is 32% Off for October Prime Day - Lifehacker**</span>  
-<span style="color:red;">**- 1&1 offers Fritz! Wi-Fi 7 router exclusively for 6 months - Telecompaper**</span>  
-<span style="color:red;">**- Grab an $80 discount on this TP-Link Wi-Fi 7 router with five 2.5G Ethernet p...**</span>  
+<span style="color:red;">**- Malicious VPN config files can let attackers run commands on Asus routers**</span>  
+<span style="color:red;">**- 3 hidden router settings you need to change for flawless 4K streaming - Pocke...**</span>  
+<span style="color:red;">**- Turbocharge Your Wireless Network With The TP-Link Deco 7 Pro BE63 Wi-Fi 7 Me...**</span>  
+<span style="color:red;">**- This compact router easily fits into a carry-on and is under $150 - How-To Geek**</span>  
+<span style="color:red;">**- Hollywood Bowl Levels Up for 2026 With Venue-Wide Wi-Fi 7 Upgrade - ticketnew...**</span>  
+
+[2026-10-02 - Daily Briefing (19 articles)](briefings/2026-10-02.md)
+
+- Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders
+- I just moved; this simple trick saved me from reconnecting all my devices to ...
+- This TP-Link Wi-Fi 7 Router Is 32% Off for October Prime Day - Lifehacker
 
 [2026-10-01 - Daily Briefing (30 articles)](briefings/2026-10-01.md)
 
