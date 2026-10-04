@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-03 13:15**
+Last updated: **2026-10-04 13:52**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-03.md" style="color:red;font-weight:bold;">
-    2026-10-03 - Daily Briefing (13 articles)
+  <a href="briefings/2026-10-04.md" style="color:red;font-weight:bold;">
+    2026-10-04 - Daily Briefing (9 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Malicious VPN config files can let attackers run commands on Asus routers**</span>  
-<span style="color:red;">**- 3 hidden router settings you need to change for flawless 4K streaming - Pocke...**</span>  
-<span style="color:red;">**- Turbocharge Your Wireless Network With The TP-Link Deco 7 Pro BE63 Wi-Fi 7 Me...**</span>  
-<span style="color:red;">**- This compact router easily fits into a carry-on and is under $150 - How-To Geek**</span>  
-<span style="color:red;">**- Hollywood Bowl Levels Up for 2026 With Venue-Wide Wi-Fi 7 Upgrade - ticketnew...**</span>  
+<span style="color:red;">**- Valve says Steam Frame streams over plain Wi-Fi, if the router is wired to yo...**</span>  
+<span style="color:red;">**- What Are the Best Mesh Wi-Fi Systems for Large Homes? - Gagadget.com**</span>  
+<span style="color:red;">**- Asus built a massive Wi-Fi 8 router nobody can fully test yet - TechRadar**</span>  
+<span style="color:red;">**- 5 reasons your Wi-Fi is slow even though your internet is fast - MakeUseOf**</span>  
+<span style="color:red;">**- What Makes Netgear's Orbi Mesh System So Expensive? - bgr.com**</span>  
+
+[2026-10-03 - Daily Briefing (13 articles)](briefings/2026-10-03.md)
+
+- Malicious VPN config files can let attackers run commands on Asus routers
+- 3 hidden router settings you need to change for flawless 4K streaming - Pocke...
+- Turbocharge Your Wireless Network With The TP-Link Deco 7 Pro BE63 Wi-Fi 7 Me...
 
 [2026-10-02 - Daily Briefing (19 articles)](briefings/2026-10-02.md)
 
