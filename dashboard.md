@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-04 13:52**
+Last updated: **2026-10-05 17:02**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-04.md" style="color:red;font-weight:bold;">
-    2026-10-04 - Daily Briefing (9 articles)
+  <a href="briefings/2026-10-05.md" style="color:red;font-weight:bold;">
+    2026-10-05 - Daily Briefing (20 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Valve says Steam Frame streams over plain Wi-Fi, if the router is wired to yo...**</span>  
-<span style="color:red;">**- What Are the Best Mesh Wi-Fi Systems for Large Homes? - Gagadget.com**</span>  
-<span style="color:red;">**- Asus built a massive Wi-Fi 8 router nobody can fully test yet - TechRadar**</span>  
-<span style="color:red;">**- 5 reasons your Wi-Fi is slow even though your internet is fast - MakeUseOf**</span>  
-<span style="color:red;">**- What Makes Netgear's Orbi Mesh System So Expensive? - bgr.com**</span>  
+<span style="color:red;">**- Grab this $79.98 TP-Link wireless router with Wi-Fi 7 support at its lowest e...**</span>  
+<span style="color:red;">**- Grab this $79.98 TP-Link wireless router with Wi-Fi 7 support at its lowest e...**</span>  
+<span style="color:red;">**- Intel's Googlebooks might not run some Android apps as well as Qualcomm's**</span>  
+<span style="color:red;">**- Lola Vision Systems is trying to make it easier to run AI models on chips**</span>  
+<span style="color:red;">**- Your expensive new router might be running worse than your old one due to one...**</span>  
+
+[2026-10-04 - Daily Briefing (9 articles)](briefings/2026-10-04.md)
+
+- Valve says Steam Frame streams over plain Wi-Fi, if the router is wired to yo...
+- What Are the Best Mesh Wi-Fi Systems for Large Homes? - Gagadget.com
+- Asus built a massive Wi-Fi 8 router nobody can fully test yet - TechRadar
 
 [2026-10-03 - Daily Briefing (13 articles)](briefings/2026-10-03.md)
 
