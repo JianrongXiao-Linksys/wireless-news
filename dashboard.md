@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-05 17:02**
+Last updated: **2026-10-06 14:58**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-05.md" style="color:red;font-weight:bold;">
-    2026-10-05 - Daily Briefing (20 articles)
+  <a href="briefings/2026-10-06.md" style="color:red;font-weight:bold;">
+    2026-10-06 - Daily Briefing (18 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Grab this $79.98 TP-Link wireless router with Wi-Fi 7 support at its lowest e...**</span>  
-<span style="color:red;">**- Grab this $79.98 TP-Link wireless router with Wi-Fi 7 support at its lowest e...**</span>  
-<span style="color:red;">**- Intel's Googlebooks might not run some Android apps as well as Qualcomm's**</span>  
-<span style="color:red;">**- Lola Vision Systems is trying to make it easier to run AI models on chips**</span>  
-<span style="color:red;">**- Your expensive new router might be running worse than your old one due to one...**</span>  
+<span style="color:red;">**- Upgrade your network for less with 44% off the Netgear Nighthawk Wi-Fi 6 rout...**</span>  
+<span style="color:red;">**- Get all your questions answered at TechCrunch Disrupt 2026: The full breakout...**</span>  
+<span style="color:red;">**- ASUS Launches ROG Rapture GT-BN98: First Wi-Fi 8 Gaming Router with 25 Gbps S...**</span>  
+<span style="color:red;">**- Qualcomm will pay Huawei to license its patents for the first time in histori...**</span>  
+<span style="color:red;">**- FCC issues Covered List waiver for ISP-modified internet routers - Telecompaper**</span>  
+
+[2026-10-05 - Daily Briefing (20 articles)](briefings/2026-10-05.md)
+
+- Grab this $79.98 TP-Link wireless router with Wi-Fi 7 support at its lowest e...
+- Grab this $79.98 TP-Link wireless router with Wi-Fi 7 support at its lowest e...
+- Intel's Googlebooks might not run some Android apps as well as Qualcomm's
 
 [2026-10-04 - Daily Briefing (9 articles)](briefings/2026-10-04.md)
 
