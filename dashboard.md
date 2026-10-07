@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-06 14:58**
+Last updated: **2026-10-07 15:26**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-06.md" style="color:red;font-weight:bold;">
-    2026-10-06 - Daily Briefing (18 articles)
+  <a href="briefings/2026-10-07.md" style="color:red;font-weight:bold;">
+    2026-10-07 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Upgrade your network for less with 44% off the Netgear Nighthawk Wi-Fi 6 rout...**</span>  
-<span style="color:red;">**- Get all your questions answered at TechCrunch Disrupt 2026: The full breakout...**</span>  
-<span style="color:red;">**- ASUS Launches ROG Rapture GT-BN98: First Wi-Fi 8 Gaming Router with 25 Gbps S...**</span>  
-<span style="color:red;">**- Qualcomm will pay Huawei to license its patents for the first time in histori...**</span>  
-<span style="color:red;">**- FCC issues Covered List waiver for ISP-modified internet routers - Telecompaper**</span>  
+<span style="color:red;">**- Upgrade to a WiFi 7 router for cheaper with this Netgear Nighthawk RS140 Prim...**</span>  
+<span style="color:red;">**- Get a Wi-Fi 7 mesh network for a discounted $149.99 — TP-Link Deco 7 BE25 off...**</span>  
+<span style="color:red;">**- Get a Wi-Fi 7 mesh network for a discounted $149.99 — TP-Link Deco 7 BE25 off...**</span>  
+<span style="color:red;">**- The internet is obsessing over a Minion-shaped router: Where to buy for under...**</span>  
+<span style="color:red;">**- Ubiquiti’s Latest Is A Whole-Home WiFi 7 Challenger To Amazon Eero - Forbes**</span>  
+
+[2026-10-06 - Daily Briefing (18 articles)](briefings/2026-10-06.md)
+
+- Upgrade your network for less with 44% off the Netgear Nighthawk Wi-Fi 6 rout...
+- Get all your questions answered at TechCrunch Disrupt 2026: The full breakout...
+- ASUS Launches ROG Rapture GT-BN98: First Wi-Fi 8 Gaming Router with 25 Gbps S...
 
 [2026-10-05 - Daily Briefing (20 articles)](briefings/2026-10-05.md)
 
