@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-07 15:26**
+Last updated: **2026-10-08 15:28**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-07.md" style="color:red;font-weight:bold;">
-    2026-10-07 - Daily Briefing (30 articles)
+  <a href="briefings/2026-10-08.md" style="color:red;font-weight:bold;">
+    2026-10-08 - Daily Briefing (24 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Upgrade to a WiFi 7 router for cheaper with this Netgear Nighthawk RS140 Prim...**</span>  
-<span style="color:red;">**- Get a Wi-Fi 7 mesh network for a discounted $149.99 — TP-Link Deco 7 BE25 off...**</span>  
-<span style="color:red;">**- Get a Wi-Fi 7 mesh network for a discounted $149.99 — TP-Link Deco 7 BE25 off...**</span>  
-<span style="color:red;">**- The internet is obsessing over a Minion-shaped router: Where to buy for under...**</span>  
-<span style="color:red;">**- Ubiquiti’s Latest Is A Whole-Home WiFi 7 Challenger To Amazon Eero - Forbes**</span>  
+<span style="color:red;">**- Actiontec Achieves prplWare Certification for WF-728A/WF-728N Wi-Fi 7 Gateway...**</span>  
+<span style="color:red;">**- 5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass**</span>  
+<span style="color:red;">**- Iowa Attorney General sues internet router company over ties to China - Radio...**</span>  
+<span style="color:red;">**- 4 ways your neighbors are ruining your Wi-Fi (and the fixes that actually wor...**</span>  
+<span style="color:red;">**- Alleged China ties put America’s favorite Wi-Fi router brand under fire - Mak...**</span>  
+
+[2026-10-07 - Daily Briefing (30 articles)](briefings/2026-10-07.md)
+
+- Upgrade to a WiFi 7 router for cheaper with this Netgear Nighthawk RS140 Prim...
+- Get a Wi-Fi 7 mesh network for a discounted $149.99 — TP-Link Deco 7 BE25 off...
+- Get a Wi-Fi 7 mesh network for a discounted $149.99 — TP-Link Deco 7 BE25 off...
 
 [2026-10-06 - Daily Briefing (18 articles)](briefings/2026-10-06.md)
 
