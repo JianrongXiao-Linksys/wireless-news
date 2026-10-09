@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-08 15:28**
+Last updated: **2026-10-09 15:11**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-08.md" style="color:red;font-weight:bold;">
-    2026-10-08 - Daily Briefing (24 articles)
+  <a href="briefings/2026-10-09.md" style="color:red;font-weight:bold;">
+    2026-10-09 - Daily Briefing (22 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Actiontec Achieves prplWare Certification for WF-728A/WF-728N Wi-Fi 7 Gateway...**</span>  
-<span style="color:red;">**- 5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass**</span>  
-<span style="color:red;">**- Iowa Attorney General sues internet router company over ties to China - Radio...**</span>  
-<span style="color:red;">**- 4 ways your neighbors are ruining your Wi-Fi (and the fixes that actually wor...**</span>  
-<span style="color:red;">**- Alleged China ties put America’s favorite Wi-Fi router brand under fire - Mak...**</span>  
+<span style="color:red;">**- My Wi-Fi calls dropped every 25 minutes on cue until I tweaked one router set...**</span>  
+<span style="color:red;">**- Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can...**</span>  
+<span style="color:red;">**- TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to...**</span>  
+<span style="color:red;">**- Is your home Wi-Fi secure? Florida sues popular router brand - geekspin**</span>  
+<span style="color:red;">**- Wi-Fi 8 – the defensive frontline for ISPs against AI-driven cyberattacks (Re...**</span>  
+
+[2026-10-08 - Daily Briefing (24 articles)](briefings/2026-10-08.md)
+
+- Actiontec Achieves prplWare Certification for WF-728A/WF-728N Wi-Fi 7 Gateway...
+- 5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass
+- Iowa Attorney General sues internet router company over ties to China - Radio...
 
 [2026-10-07 - Daily Briefing (30 articles)](briefings/2026-10-07.md)
 
