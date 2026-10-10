@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-09 15:11**
+Last updated: **2026-10-10 14:23**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-09.md" style="color:red;font-weight:bold;">
-    2026-10-09 - Daily Briefing (22 articles)
+  <a href="briefings/2026-10-10.md" style="color:red;font-weight:bold;">
+    2026-10-10 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- My Wi-Fi calls dropped every 25 minutes on cue until I tweaked one router set...**</span>  
-<span style="color:red;">**- Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can...**</span>  
-<span style="color:red;">**- TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to...**</span>  
-<span style="color:red;">**- Is your home Wi-Fi secure? Florida sues popular router brand - geekspin**</span>  
-<span style="color:red;">**- Wi-Fi 8 – the defensive frontline for ISPs against AI-driven cyberattacks (Re...**</span>  
+<span style="color:red;">**- Your TP-Link router has an official expiry date - MakeUseOf**</span>  
+<span style="color:red;">**- Why the TP-Link M7450 remains relevant despite the rise of 5G hotspots - Gulf...**</span>  
+<span style="color:red;">**- What Is QoS On Your Router, And Should You Turn It On? - Engadget**</span>  
+<span style="color:red;">**- Wi-Fi router that delivers 11,529 Mbps - MyBroadband**</span>  
+<span style="color:red;">**- Grandstream Introduces Tri-Band Wi-Fi 7 Router - Telecom Reseller / Technolog...**</span>  
+
+[2026-10-09 - Daily Briefing (22 articles)](briefings/2026-10-09.md)
+
+- My Wi-Fi calls dropped every 25 minutes on cue until I tweaked one router set...
+- Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can...
+- TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to...
 
 [2026-10-08 - Daily Briefing (24 articles)](briefings/2026-10-08.md)
 
