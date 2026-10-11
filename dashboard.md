@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-10 14:23**
+Last updated: **2026-10-11 14:50**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-10.md" style="color:red;font-weight:bold;">
-    2026-10-10 - Daily Briefing (11 articles)
+  <a href="briefings/2026-10-11.md" style="color:red;font-weight:bold;">
+    2026-10-11 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Your TP-Link router has an official expiry date - MakeUseOf**</span>  
-<span style="color:red;">**- Why the TP-Link M7450 remains relevant despite the rise of 5G hotspots - Gulf...**</span>  
-<span style="color:red;">**- What Is QoS On Your Router, And Should You Turn It On? - Engadget**</span>  
-<span style="color:red;">**- Wi-Fi router that delivers 11,529 Mbps - MyBroadband**</span>  
-<span style="color:red;">**- Grandstream Introduces Tri-Band Wi-Fi 7 Router - Telecom Reseller / Technolog...**</span>  
+<span style="color:red;">**- KAON Broadband Showcases Field-Proven prpl Deployments and Wi-Fi 8-Ready Plat...**</span>  
+<span style="color:red;">**- KAON Broadband Showcases Field-Proven prpl Deployments and Wi-Fi 8-Ready Plat...**</span>  
+<span style="color:red;">**- The most popular Wi-Fi 6E router of 2026 feels like a sick joke - How-To Geek**</span>  
+<span style="color:red;">**- Roundup: MediaTek's Wi-Fi 8, Sagemcom's RDK EasyMesh, HPE's Ryder Cup, Silico...**</span>  
+<span style="color:red;">**- Pop-Culture WiFi Routers: Davolink Turns A Minions Character Into A Working W...**</span>  
+
+[2026-10-10 - Daily Briefing (11 articles)](briefings/2026-10-10.md)
+
+- Your TP-Link router has an official expiry date - MakeUseOf
+- Why the TP-Link M7450 remains relevant despite the rise of 5G hotspots - Gulf...
+- What Is QoS On Your Router, And Should You Turn It On? - Engadget
 
 [2026-10-09 - Daily Briefing (22 articles)](briefings/2026-10-09.md)
 
