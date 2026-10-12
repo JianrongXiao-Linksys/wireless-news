@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-11 14:50**
+Last updated: **2026-10-12 17:41**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-11.md" style="color:red;font-weight:bold;">
-    2026-10-11 - Daily Briefing (12 articles)
+  <a href="briefings/2026-10-12.md" style="color:red;font-weight:bold;">
+    2026-10-12 - Daily Briefing (22 articles)
   </a>
 </p>
 
-<span style="color:red;">**- KAON Broadband Showcases Field-Proven prpl Deployments and Wi-Fi 8-Ready Plat...**</span>  
-<span style="color:red;">**- KAON Broadband Showcases Field-Proven prpl Deployments and Wi-Fi 8-Ready Plat...**</span>  
-<span style="color:red;">**- The most popular Wi-Fi 6E router of 2026 feels like a sick joke - How-To Geek**</span>  
-<span style="color:red;">**- Roundup: MediaTek's Wi-Fi 8, Sagemcom's RDK EasyMesh, HPE's Ryder Cup, Silico...**</span>  
-<span style="color:red;">**- Pop-Culture WiFi Routers: Davolink Turns A Minions Character Into A Working W...**</span>  
+<span style="color:red;">**- TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future...**</span>  
+<span style="color:red;">**- Leverkusen nets Extreme in Wi-Fi 7 upgrade at BayArena - SDxCentral**</span>  
+<span style="color:red;">**- Brightspeed Makes WiFi 7 Standard with Every New Fiber Plan at No Additional ...**</span>  
+<span style="color:red;">**- gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router - Light Reading**</span>  
+<span style="color:red;">**- What Is Band Steering, And Should You Enable It On Your Home Internet? - BGR**</span>  
+
+[2026-10-11 - Daily Briefing (12 articles)](briefings/2026-10-11.md)
+
+- KAON Broadband Showcases Field-Proven prpl Deployments and Wi-Fi 8-Ready Plat...
+- KAON Broadband Showcases Field-Proven prpl Deployments and Wi-Fi 8-Ready Plat...
+- The most popular Wi-Fi 6E router of 2026 feels like a sick joke - How-To Geek
 
 [2026-10-10 - Daily Briefing (11 articles)](briefings/2026-10-10.md)
 
