@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-12 17:41**
+Last updated: **2026-10-13 15:49**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-12.md" style="color:red;font-weight:bold;">
-    2026-10-12 - Daily Briefing (22 articles)
+  <a href="briefings/2026-10-13.md" style="color:red;font-weight:bold;">
+    2026-10-13 - Daily Briefing (22 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future...**</span>  
-<span style="color:red;">**- Leverkusen nets Extreme in Wi-Fi 7 upgrade at BayArena - SDxCentral**</span>  
-<span style="color:red;">**- Brightspeed Makes WiFi 7 Standard with Every New Fiber Plan at No Additional ...**</span>  
-<span style="color:red;">**- gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router - Light Reading**</span>  
-<span style="color:red;">**- What Is Band Steering, And Should You Enable It On Your Home Internet? - BGR**</span>  
+<span style="color:red;">**- Network X: Qualcomm partners with gFiber & Gemtek for Wi-Fi 8 20 Gig gateway,...**</span>  
+<span style="color:red;">**- TechCrunch Disrupt 2026: Day 1**</span>  
+<span style="color:red;">**- Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a ...**</span>  
+<span style="color:red;">**- Gemtek and prpl Foundation: Advancing Innovation in AI and Wi-Fi 8 - 01net**</span>  
+<span style="color:red;">**- Gemtek, Qualcomm and gFiber Collaborate to Bring Edge AI to Wi-Fi 8 Broadband...**</span>  
+
+[2026-10-12 - Daily Briefing (22 articles)](briefings/2026-10-12.md)
+
+- TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future...
+- Leverkusen nets Extreme in Wi-Fi 7 upgrade at BayArena - SDxCentral
+- Brightspeed Makes WiFi 7 Standard with Every New Fiber Plan at No Additional ...
 
 [2026-10-11 - Daily Briefing (12 articles)](briefings/2026-10-11.md)
 
