@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-13 15:49**
+Last updated: **2026-10-14 13:33**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-13.md" style="color:red;font-weight:bold;">
-    2026-10-13 - Daily Briefing (22 articles)
+  <a href="briefings/2026-10-14.md" style="color:red;font-weight:bold;">
+    2026-10-14 - Daily Briefing (17 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Network X: Qualcomm partners with gFiber & Gemtek for Wi-Fi 8 20 Gig gateway,...**</span>  
-<span style="color:red;">**- TechCrunch Disrupt 2026: Day 1**</span>  
-<span style="color:red;">**- Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a ...**</span>  
-<span style="color:red;">**- Gemtek and prpl Foundation: Advancing Innovation in AI and Wi-Fi 8 - 01net**</span>  
-<span style="color:red;">**- Gemtek, Qualcomm and gFiber Collaborate to Bring Edge AI to Wi-Fi 8 Broadband...**</span>  
+<span style="color:red;">**- TP-Link Portable Router Deal: Stay Connected While Saving Over 30% Off - PCMag**</span>  
+<span style="color:red;">**- ASUS ExpertBook A7 14" AMD: Ultraslim Business Laptop - ASUS Pressroom**</span>  
+<span style="color:red;">**- Qualcomm wins architecture breach verdict against Arm but gets just $2**</span>  
+<span style="color:red;">**- Home network not keeping up with your NBN speeds? Upgrade to a Wi-Fi 7 mesh n...**</span>  
+<span style="color:red;">**- Why Southeast Asia’s AI ambitions hinge on fibre, 5G and Wi-Fi 7 - Computer W...**</span>  
+
+[2026-10-13 - Daily Briefing (22 articles)](briefings/2026-10-13.md)
+
+- Network X: Qualcomm partners with gFiber & Gemtek for Wi-Fi 8 20 Gig gateway,...
+- TechCrunch Disrupt 2026: Day 1
+- Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a ...
 
 [2026-10-12 - Daily Briefing (22 articles)](briefings/2026-10-12.md)
 
