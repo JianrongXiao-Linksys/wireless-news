@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-14 13:33**
+Last updated: **2026-10-15 13:17**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-14.md" style="color:red;font-weight:bold;">
-    2026-10-14 - Daily Briefing (17 articles)
+  <a href="briefings/2026-10-15.md" style="color:red;font-weight:bold;">
+    2026-10-15 - Daily Briefing (19 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link Portable Router Deal: Stay Connected While Saving Over 30% Off - PCMag**</span>  
-<span style="color:red;">**- ASUS ExpertBook A7 14" AMD: Ultraslim Business Laptop - ASUS Pressroom**</span>  
-<span style="color:red;">**- Qualcomm wins architecture breach verdict against Arm but gets just $2**</span>  
-<span style="color:red;">**- Home network not keeping up with your NBN speeds? Upgrade to a Wi-Fi 7 mesh n...**</span>  
-<span style="color:red;">**- Why Southeast Asia’s AI ambitions hinge on fibre, 5G and Wi-Fi 7 - Computer W...**</span>  
+<span style="color:red;">**- TP-Link pledges $1B US investment amid mounting government resistance - Light...**</span>  
+<span style="color:red;">**- Save 30% on this ASUS ROG Gaming laptop with RTX 5060 — $600 discount makes t...**</span>  
+<span style="color:red;">**- ISP Connect Fibre introduce 5Gbps UK broadband plan and Black Friday sales - ...**</span>  
+<span style="color:red;">**- Qualcomm Combines 5G Advanced with Satellite Communications and Wi-Fi 8 - All...**</span>  
+<span style="color:red;">**- FPT Wi-Fi 7, FPT Play, and FPT Camera Brain made their mark at the Vietnam Di...**</span>  
+
+[2026-10-14 - Daily Briefing (17 articles)](briefings/2026-10-14.md)
+
+- TP-Link Portable Router Deal: Stay Connected While Saving Over 30% Off - PCMag
+- ASUS ExpertBook A7 14" AMD: Ultraslim Business Laptop - ASUS Pressroom
+- Qualcomm wins architecture breach verdict against Arm but gets just $2
 
 [2026-10-13 - Daily Briefing (22 articles)](briefings/2026-10-13.md)
 
