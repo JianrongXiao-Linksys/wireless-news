@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-15 13:17**
+Last updated: **2026-10-16 13:08**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-15.md" style="color:red;font-weight:bold;">
-    2026-10-15 - Daily Briefing (19 articles)
+  <a href="briefings/2026-10-16.md" style="color:red;font-weight:bold;">
+    2026-10-16 - Daily Briefing (20 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link pledges $1B US investment amid mounting government resistance - Light...**</span>  
-<span style="color:red;">**- Save 30% on this ASUS ROG Gaming laptop with RTX 5060 — $600 discount makes t...**</span>  
-<span style="color:red;">**- ISP Connect Fibre introduce 5Gbps UK broadband plan and Black Friday sales - ...**</span>  
-<span style="color:red;">**- Qualcomm Combines 5G Advanced with Satellite Communications and Wi-Fi 8 - All...**</span>  
-<span style="color:red;">**- FPT Wi-Fi 7, FPT Play, and FPT Camera Brain made their mark at the Vietnam Di...**</span>  
+<span style="color:red;">**- Best WiFi router for home in 2026: 4 picks by home size - TechCity**</span>  
+<span style="color:red;">**- The 5 Best Mesh Wi-Fi Systems for DeSoto County Two-Story Homes - DeSoto Coun...**</span>  
+<span style="color:red;">**- Amazon Goes Big on ASUS ROG Strix Gaming Motherboards, Dropping Prices to Rec...**</span>  
+<span style="color:red;">**- Wi-Fi 7 Delivers Immersive Frictionless Fan Experience - stadiaworld**</span>  
+<span style="color:red;">**- The Sony Xperia 10 VI won’t be getting a promised update to Android 17**</span>  
+
+[2026-10-15 - Daily Briefing (19 articles)](briefings/2026-10-15.md)
+
+- TP-Link pledges $1B US investment amid mounting government resistance - Light...
+- Save 30% on this ASUS ROG Gaming laptop with RTX 5060 — $600 discount makes t...
+- ISP Connect Fibre introduce 5Gbps UK broadband plan and Black Friday sales - ...
 
 [2026-10-14 - Daily Briefing (17 articles)](briefings/2026-10-14.md)
 
