@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-16 13:08**
+Last updated: **2026-10-17 12:05**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,19 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-16.md" style="color:red;font-weight:bold;">
-    2026-10-16 - Daily Briefing (20 articles)
+  <a href="briefings/2026-10-17.md" style="color:red;font-weight:bold;">
+    2026-10-17 - Daily Briefing (2 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Best WiFi router for home in 2026: 4 picks by home size - TechCity**</span>  
-<span style="color:red;">**- The 5 Best Mesh Wi-Fi Systems for DeSoto County Two-Story Homes - DeSoto Coun...**</span>  
-<span style="color:red;">**- Amazon Goes Big on ASUS ROG Strix Gaming Motherboards, Dropping Prices to Rec...**</span>  
-<span style="color:red;">**- Wi-Fi 7 Delivers Immersive Frictionless Fan Experience - stadiaworld**</span>  
-<span style="color:red;">**- The Sony Xperia 10 VI won’t be getting a promised update to Android 17**</span>  
+<span style="color:red;">**- Nvidia RTX Spark devices are now officially on sale, secure the Surface Lapto...**</span>  
+<span style="color:red;">**- GFiber and Qualcomm announce Wi-Fi 8 gateway**</span>  
+
+[2026-10-16 - Daily Briefing (20 articles)](briefings/2026-10-16.md)
+
+- Best WiFi router for home in 2026: 4 picks by home size - TechCity
+- The 5 Best Mesh Wi-Fi Systems for DeSoto County Two-Story Homes - DeSoto Coun...
+- Amazon Goes Big on ASUS ROG Strix Gaming Motherboards, Dropping Prices to Rec...
 
 [2026-10-15 - Daily Briefing (19 articles)](briefings/2026-10-15.md)
 
