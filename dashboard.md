@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-18 12:32**
+Last updated: **2026-10-19 15:28**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-18.md" style="color:red;font-weight:bold;">
-    2026-10-18 - Daily Briefing (22 articles)
+  <a href="briefings/2026-10-19.md" style="color:red;font-weight:bold;">
+    2026-10-19 - Daily Briefing (23 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Roundup: Apple's UWB, Realtek's Wi-Fi 8, Extreme Networks wins award, Brazil'...**</span>  
-<span style="color:red;">**- Wi-Fi 8 is coming, but Ethernet still beats it for one simple reason - How-To...**</span>  
-<span style="color:red;">**- The predistortion pioneer who says Wi-Fi has outgrown DPD: QuantalRF's Dr Ali...**</span>  
-<span style="color:red;">**- Amazon deal has shaved 33% off this popular TP-Link WiFi 7 router - PC Guide**</span>  
-<span style="color:red;">**- 5 Mesh Wi-Fi Systems With Plenty Of Ethernet Ports - BGR**</span>  
+<span style="color:red;">**- Miami HEAT partners with HPE for Wi-Fi 7 network upgrade - Investing.com UK**</span>  
+<span style="color:red;">**- HPE to upgrade Kaseya Center with Wi-Fi 7 ahead of NBA season - StreetInsider**</span>  
+<span style="color:red;">**- Huawei Is Preparing an Unusual New Product: A New Router Disguised as a Book ...**</span>  
+<span style="color:red;">**- TP-Link signs US production deal to avoid foreign routers ban - Telecompaper**</span>  
+<span style="color:red;">**- Facing Ban, TP-Link Taps US Company to Build Wi-Fi Routers Domestically - PCMag**</span>  
+
+[2026-10-18 - Daily Briefing (22 articles)](briefings/2026-10-18.md)
+
+- Roundup: Apple's UWB, Realtek's Wi-Fi 8, Extreme Networks wins award, Brazil'...
+- Wi-Fi 8 is coming, but Ethernet still beats it for one simple reason - How-To...
+- The predistortion pioneer who says Wi-Fi has outgrown DPD: QuantalRF's Dr Ali...
 
 [2026-10-17 - Daily Briefing (2 articles)](briefings/2026-10-17.md)
 
