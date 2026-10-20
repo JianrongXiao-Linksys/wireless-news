@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-19 15:28**
+Last updated: **2026-10-20 13:29**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-19.md" style="color:red;font-weight:bold;">
-    2026-10-19 - Daily Briefing (23 articles)
+  <a href="briefings/2026-10-20.md" style="color:red;font-weight:bold;">
+    2026-10-20 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Miami HEAT partners with HPE for Wi-Fi 7 network upgrade - Investing.com UK**</span>  
-<span style="color:red;">**- HPE to upgrade Kaseya Center with Wi-Fi 7 ahead of NBA season - StreetInsider**</span>  
-<span style="color:red;">**- Huawei Is Preparing an Unusual New Product: A New Router Disguised as a Book ...**</span>  
-<span style="color:red;">**- TP-Link signs US production deal to avoid foreign routers ban - Telecompaper**</span>  
-<span style="color:red;">**- Facing Ban, TP-Link Taps US Company to Build Wi-Fi Routers Domestically - PCMag**</span>  
+<span style="color:red;">**- TP-Link Deco 7 WiFi 7 3-Pack Drops to an All-Time Low, Making Each Router Far...**</span>  
+<span style="color:red;">**- How To Know It's Time To Replace Your Router - Engadget**</span>  
+<span style="color:red;">**- TP-Link Dodges FCC Ban: Shifts Wi-Fi 8 Router Production to Mississippi with ...**</span>  
+<span style="color:red;">**- Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now...**</span>  
+<span style="color:red;">**- Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now...**</span>  
+
+[2026-10-19 - Daily Briefing (23 articles)](briefings/2026-10-19.md)
+
+- Miami HEAT partners with HPE for Wi-Fi 7 network upgrade - Investing.com UK
+- HPE to upgrade Kaseya Center with Wi-Fi 7 ahead of NBA season - StreetInsider
+- Huawei Is Preparing an Unusual New Product: A New Router Disguised as a Book ...
 
 [2026-10-18 - Daily Briefing (22 articles)](briefings/2026-10-18.md)
 
