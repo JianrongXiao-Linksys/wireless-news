@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-20 13:29**
+Last updated: **2026-10-21 13:39**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-20.md" style="color:red;font-weight:bold;">
-    2026-10-20 - Daily Briefing (30 articles)
+  <a href="briefings/2026-10-21.md" style="color:red;font-weight:bold;">
+    2026-10-21 - Daily Briefing (23 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link Deco 7 WiFi 7 3-Pack Drops to an All-Time Low, Making Each Router Far...**</span>  
-<span style="color:red;">**- How To Know It's Time To Replace Your Router - Engadget**</span>  
-<span style="color:red;">**- TP-Link Dodges FCC Ban: Shifts Wi-Fi 8 Router Production to Mississippi with ...**</span>  
-<span style="color:red;">**- Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now...**</span>  
-<span style="color:red;">**- Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now...**</span>  
+<span style="color:red;">**- Wi-Fi 8, Edge AI and the Introduction of Security and Management services - L...**</span>  
+<span style="color:red;">**- The next TP-Link router you buy could come from Mississippi - MakeUseOf**</span>  
+<span style="color:red;">**- Okinawa City schools strengthen digital learning with Alcatel-Lucent’s Wi-Fi ...**</span>  
+<span style="color:red;">**- Snag a Month of T-Mobile 5G Home Internet and Get Up to $200 Back - CNET**</span>  
+<span style="color:red;">**- Amazon’s TP-Link router deals include a WiFi 7 model for less than $100 - Pop...**</span>  
+
+[2026-10-20 - Daily Briefing (30 articles)](briefings/2026-10-20.md)
+
+- TP-Link Deco 7 WiFi 7 3-Pack Drops to an All-Time Low, Making Each Router Far...
+- How To Know It's Time To Replace Your Router - Engadget
+- TP-Link Dodges FCC Ban: Shifts Wi-Fi 8 Router Production to Mississippi with ...
 
 [2026-10-19 - Daily Briefing (23 articles)](briefings/2026-10-19.md)
 
