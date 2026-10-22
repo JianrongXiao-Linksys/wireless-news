@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-21 13:39**
+Last updated: **2026-10-22 13:40**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-21.md" style="color:red;font-weight:bold;">
-    2026-10-21 - Daily Briefing (23 articles)
+  <a href="briefings/2026-10-22.md" style="color:red;font-weight:bold;">
+    2026-10-22 - Daily Briefing (21 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Wi-Fi 8, Edge AI and the Introduction of Security and Management services - L...**</span>  
-<span style="color:red;">**- The next TP-Link router you buy could come from Mississippi - MakeUseOf**</span>  
-<span style="color:red;">**- Okinawa City schools strengthen digital learning with Alcatel-Lucent’s Wi-Fi ...**</span>  
-<span style="color:red;">**- Snag a Month of T-Mobile 5G Home Internet and Get Up to $200 Back - CNET**</span>  
-<span style="color:red;">**- Amazon’s TP-Link router deals include a WiFi 7 model for less than $100 - Pop...**</span>  
+<span style="color:red;">**- TP-Link WiFi 6 Mesh System Is Practically a Giveaway on Amazon, With All 3 Ro...**</span>  
+<span style="color:red;">**- Asus ROG Rapture GT-BN98: A New Monster for Your Home Network - NAG**</span>  
+<span style="color:red;">**- How to keep your router running during a blackout with a Ryobi battery - Make...**</span>  
+<span style="color:red;">**- TP-Link and Key Tronic plan US router assembly - Digital Watch Observatory**</span>  
+<span style="color:red;">**- GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Et...**</span>  
+
+[2026-10-21 - Daily Briefing (23 articles)](briefings/2026-10-21.md)
+
+- Wi-Fi 8, Edge AI and the Introduction of Security and Management services - L...
+- The next TP-Link router you buy could come from Mississippi - MakeUseOf
+- Okinawa City schools strengthen digital learning with Alcatel-Lucent’s Wi-Fi ...
 
 [2026-10-20 - Daily Briefing (30 articles)](briefings/2026-10-20.md)
 
