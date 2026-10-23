@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-22 13:40**
+Last updated: **2026-10-23 13:17**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-22.md" style="color:red;font-weight:bold;">
-    2026-10-22 - Daily Briefing (21 articles)
+  <a href="briefings/2026-10-23.md" style="color:red;font-weight:bold;">
+    2026-10-23 - Daily Briefing (16 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link WiFi 6 Mesh System Is Practically a Giveaway on Amazon, With All 3 Ro...**</span>  
-<span style="color:red;">**- Asus ROG Rapture GT-BN98: A New Monster for Your Home Network - NAG**</span>  
-<span style="color:red;">**- How to keep your router running during a blackout with a Ryobi battery - Make...**</span>  
-<span style="color:red;">**- TP-Link and Key Tronic plan US router assembly - Digital Watch Observatory**</span>  
-<span style="color:red;">**- GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Et...**</span>  
+<span style="color:red;">**- These TP-Link Travel Routers Are up to 25% Off Right Now - Lifehacker**</span>  
+<span style="color:red;">**- MSI Receives Exemption to US Wi-Fi Router Ban - PCMag**</span>  
+<span style="color:red;">**- The first Wi-Fi 8 router is here, and it's banging - PC Gamer**</span>  
+<span style="color:red;">**- TP-Link Routers Planned for US Assembly as Early as 2027 - Tech My Money**</span>  
+<span style="color:red;">**- Facing a looming Ban, TP-Link partners with American Manufacturer to build Wi...**</span>  
+
+[2026-10-22 - Daily Briefing (21 articles)](briefings/2026-10-22.md)
+
+- TP-Link WiFi 6 Mesh System Is Practically a Giveaway on Amazon, With All 3 Ro...
+- Asus ROG Rapture GT-BN98: A New Monster for Your Home Network - NAG
+- How to keep your router running during a blackout with a Ryobi battery - Make...
 
 [2026-10-21 - Daily Briefing (23 articles)](briefings/2026-10-21.md)
 
