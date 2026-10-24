@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-23 13:17**
+Last updated: **2026-10-24 12:35**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-23.md" style="color:red;font-weight:bold;">
-    2026-10-23 - Daily Briefing (16 articles)
+  <a href="briefings/2026-10-24.md" style="color:red;font-weight:bold;">
+    2026-10-24 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- These TP-Link Travel Routers Are up to 25% Off Right Now - Lifehacker**</span>  
-<span style="color:red;">**- MSI Receives Exemption to US Wi-Fi Router Ban - PCMag**</span>  
-<span style="color:red;">**- The first Wi-Fi 8 router is here, and it's banging - PC Gamer**</span>  
-<span style="color:red;">**- TP-Link Routers Planned for US Assembly as Early as 2027 - Tech My Money**</span>  
-<span style="color:red;">**- Facing a looming Ban, TP-Link partners with American Manufacturer to build Wi...**</span>  
+<span style="color:red;">**- This week on Tom's Hardware Premium: October 24, 2026**</span>  
+<span style="color:red;">**- ASUS issues WIFI Router updates to address severe vulnerabilities - OC3D**</span>  
+<span style="color:red;">**- ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability ...**</span>  
+<span style="color:red;">**- ASUS ROG Xbox Ally X and X20 handhelds get FSR 4.1 through preview driver - T...**</span>  
+<span style="color:red;">**- 6 reasons your brand new router is making your Wi-Fi worse - How-To Geek**</span>  
+
+[2026-10-23 - Daily Briefing (16 articles)](briefings/2026-10-23.md)
+
+- These TP-Link Travel Routers Are up to 25% Off Right Now - Lifehacker
+- MSI Receives Exemption to US Wi-Fi Router Ban - PCMag
+- The first Wi-Fi 8 router is here, and it's banging - PC Gamer
 
 [2026-10-22 - Daily Briefing (21 articles)](briefings/2026-10-22.md)
 
