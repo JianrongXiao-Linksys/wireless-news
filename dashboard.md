@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-24 12:35**
+Last updated: **2026-10-25 13:07**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-24.md" style="color:red;font-weight:bold;">
-    2026-10-24 - Daily Briefing (12 articles)
+  <a href="briefings/2026-10-25.md" style="color:red;font-weight:bold;">
+    2026-10-25 - Daily Briefing (5 articles)
   </a>
 </p>
 
-<span style="color:red;">**- This week on Tom's Hardware Premium: October 24, 2026**</span>  
-<span style="color:red;">**- ASUS issues WIFI Router updates to address severe vulnerabilities - OC3D**</span>  
-<span style="color:red;">**- ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability ...**</span>  
-<span style="color:red;">**- ASUS ROG Xbox Ally X and X20 handhelds get FSR 4.1 through preview driver - T...**</span>  
-<span style="color:red;">**- 6 reasons your brand new router is making your Wi-Fi worse - How-To Geek**</span>  
+<span style="color:red;">**- A busy week: News from NCTA, FiRA, Zyxel Networks, Extreme, TP-Link, HPE, Cis...**</span>  
+<span style="color:red;">**- Three part, Tri-Band, Wi-Fi 6E mesh router system is 20% cheaper in Amazon de...**</span>  
+<span style="color:red;">**- Tri-Band WiFi 7 router deal from TP-Link knocks 34% off the price of this hig...**</span>  
+<span style="color:red;">**- Arvig Deploys Wi-Fi 7 Speeds Network-Wide - Carroll County Mirror-Democrat**</span>  
+<span style="color:red;">**- MSI Receives Exemption to US Wi-Fi Router Ban - PCMag Australia**</span>  
+
+[2026-10-24 - Daily Briefing (12 articles)](briefings/2026-10-24.md)
+
+- This week on Tom's Hardware Premium: October 24, 2026
+- ASUS issues WIFI Router updates to address severe vulnerabilities - OC3D
+- ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability ...
 
 [2026-10-23 - Daily Briefing (16 articles)](briefings/2026-10-23.md)
 
