@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-25 13:07**
+Last updated: **2026-10-26 15:04**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-25.md" style="color:red;font-weight:bold;">
-    2026-10-25 - Daily Briefing (5 articles)
+  <a href="briefings/2026-10-26.md" style="color:red;font-weight:bold;">
+    2026-10-26 - Daily Briefing (16 articles)
   </a>
 </p>
 
-<span style="color:red;">**- A busy week: News from NCTA, FiRA, Zyxel Networks, Extreme, TP-Link, HPE, Cis...**</span>  
-<span style="color:red;">**- Three part, Tri-Band, Wi-Fi 6E mesh router system is 20% cheaper in Amazon de...**</span>  
-<span style="color:red;">**- Tri-Band WiFi 7 router deal from TP-Link knocks 34% off the price of this hig...**</span>  
-<span style="color:red;">**- Arvig Deploys Wi-Fi 7 Speeds Network-Wide - Carroll County Mirror-Democrat**</span>  
-<span style="color:red;">**- MSI Receives Exemption to US Wi-Fi Router Ban - PCMag Australia**</span>  
+<span style="color:red;">**- Evaluation of Wi-Fi 8 and Bluetooth LE devices on a single test platform - El...**</span>  
+<span style="color:red;">**- Why the next Wi-Fi era is moving to reliability - ITWeb Africa**</span>  
+<span style="color:red;">**- ASUS issues firmware update for WiFi 7 routers to address vulnerabilities, 's...**</span>  
+<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming WiFi motherboard drops just shy of its lowest ev...**</span>  
+<span style="color:red;">**- Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPre...**</span>  
+
+[2026-10-25 - Daily Briefing (5 articles)](briefings/2026-10-25.md)
+
+- A busy week: News from NCTA, FiRA, Zyxel Networks, Extreme, TP-Link, HPE, Cis...
+- Three part, Tri-Band, Wi-Fi 6E mesh router system is 20% cheaper in Amazon de...
+- Tri-Band WiFi 7 router deal from TP-Link knocks 34% off the price of this hig...
 
 [2026-10-24 - Daily Briefing (12 articles)](briefings/2026-10-24.md)
 
