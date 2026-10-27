@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-26 15:04**
+Last updated: **2026-10-27 14:18**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-26.md" style="color:red;font-weight:bold;">
-    2026-10-26 - Daily Briefing (16 articles)
+  <a href="briefings/2026-10-27.md" style="color:red;font-weight:bold;">
+    2026-10-27 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Evaluation of Wi-Fi 8 and Bluetooth LE devices on a single test platform - El...**</span>  
-<span style="color:red;">**- Why the next Wi-Fi era is moving to reliability - ITWeb Africa**</span>  
-<span style="color:red;">**- ASUS issues firmware update for WiFi 7 routers to address vulnerabilities, 's...**</span>  
-<span style="color:red;">**- ASUS ROG Strix Z890-E Gaming WiFi motherboard drops just shy of its lowest ev...**</span>  
-<span style="color:red;">**- Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPre...**</span>  
+<span style="color:red;">**- Apple announces new M6-powered iMac with faster AI, Wi-Fi 7, and a 2.5Gb ethe...**</span>  
+<span style="color:red;">**- Apple Launches New iMac With Powerful M6 Chip, Faster AI, and Wi-Fi 7 - The M...**</span>  
+<span style="color:red;">**- New M6 iMac adds Wi-Fi 7, Bluetooth 6 and 2.5Gb Ethernet - The Apple Post**</span>  
+<span style="color:red;">**- Apple updates the iMac with M6 chip, Wi-Fi 7, Bluetooth 6, and more - Appleos...**</span>  
+<span style="color:red;">**- Slight 14-inch MacBook Pro refresh adds M6 AI power, Wi-Fi 7 - AppleInsider**</span>  
+
+[2026-10-26 - Daily Briefing (16 articles)](briefings/2026-10-26.md)
+
+- Evaluation of Wi-Fi 8 and Bluetooth LE devices on a single test platform - El...
+- Why the next Wi-Fi era is moving to reliability - ITWeb Africa
+- ASUS issues firmware update for WiFi 7 routers to address vulnerabilities, 's...
 
 [2026-10-25 - Daily Briefing (5 articles)](briefings/2026-10-25.md)
 
