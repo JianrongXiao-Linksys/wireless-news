@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-27 14:18**
+Last updated: **2026-10-28 14:59**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-27.md" style="color:red;font-weight:bold;">
-    2026-10-27 - Daily Briefing (30 articles)
+  <a href="briefings/2026-10-28.md" style="color:red;font-weight:bold;">
+    2026-10-28 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Apple announces new M6-powered iMac with faster AI, Wi-Fi 7, and a 2.5Gb ethe...**</span>  
-<span style="color:red;">**- Apple Launches New iMac With Powerful M6 Chip, Faster AI, and Wi-Fi 7 - The M...**</span>  
-<span style="color:red;">**- New M6 iMac adds Wi-Fi 7, Bluetooth 6 and 2.5Gb Ethernet - The Apple Post**</span>  
-<span style="color:red;">**- Apple updates the iMac with M6 chip, Wi-Fi 7, Bluetooth 6, and more - Appleos...**</span>  
-<span style="color:red;">**- Slight 14-inch MacBook Pro refresh adds M6 AI power, Wi-Fi 7 - AppleInsider**</span>  
+<span style="color:red;">**- Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networkin...**</span>  
+<span style="color:red;">**- Your hotel or coffee shop Wi-Fi has a problem, and this $20 gadget can fix it...**</span>  
+<span style="color:red;">**- Cisco (CSCO) Launches AI Partner Tools And Quantum Resilient Wi Fi 7 Access P...**</span>  
+<span style="color:red;">**- The 4 Best Cable Modem-Router Combos of 2026 - RTINGS.com**</span>  
+<span style="color:red;">**- How to Find Your Router’s Default Username and Password (Without Resetting It...**</span>  
+
+[2026-10-27 - Daily Briefing (30 articles)](briefings/2026-10-27.md)
+
+- Apple announces new M6-powered iMac with faster AI, Wi-Fi 7, and a 2.5Gb ethe...
+- Apple Launches New iMac With Powerful M6 Chip, Faster AI, and Wi-Fi 7 - The M...
+- New M6 iMac adds Wi-Fi 7, Bluetooth 6 and 2.5Gb Ethernet - The Apple Post
 
 [2026-10-26 - Daily Briefing (16 articles)](briefings/2026-10-26.md)
 
