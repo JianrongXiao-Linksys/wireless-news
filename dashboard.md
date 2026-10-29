@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-28 14:59**
+Last updated: **2026-10-29 15:07**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-28.md" style="color:red;font-weight:bold;">
-    2026-10-28 - Daily Briefing (30 articles)
+  <a href="briefings/2026-10-29.md" style="color:red;font-weight:bold;">
+    2026-10-29 - Daily Briefing (21 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networkin...**</span>  
-<span style="color:red;">**- Your hotel or coffee shop Wi-Fi has a problem, and this $20 gadget can fix it...**</span>  
-<span style="color:red;">**- Cisco (CSCO) Launches AI Partner Tools And Quantum Resilient Wi Fi 7 Access P...**</span>  
-<span style="color:red;">**- The 4 Best Cable Modem-Router Combos of 2026 - RTINGS.com**</span>  
-<span style="color:red;">**- How to Find Your Router’s Default Username and Password (Without Resetting It...**</span>  
+<span style="color:red;">**- This whole-home wifi system finally solved my garden office internet woes - T...**</span>  
+<span style="color:red;">**- Wi-Fi 8 Comes to South Africa with ASUS: Why Wi-Fi 7 Still Matters - MyBroadband**</span>  
+<span style="color:red;">**- Save $234 on 32GB of DDR5 RAM with this 3-item AM5 Newegg bundle**</span>  
+<span style="color:red;">**- ASUS to Launch Wi-Fi 8 Router "ROG Rapture GT-BN98," Claims Up to 34% Reducti...**</span>  
+<span style="color:red;">**- Asus MD105 wireless mouse review: Quite clicks with practical features - The ...**</span>  
+
+[2026-10-28 - Daily Briefing (30 articles)](briefings/2026-10-28.md)
+
+- Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networkin...
+- Your hotel or coffee shop Wi-Fi has a problem, and this $20 gadget can fix it...
+- Cisco (CSCO) Launches AI Partner Tools And Quantum Resilient Wi Fi 7 Access P...
 
 [2026-10-27 - Daily Briefing (30 articles)](briefings/2026-10-27.md)
 
