@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-29 15:07**
+Last updated: **2026-10-30 14:58**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-29.md" style="color:red;font-weight:bold;">
-    2026-10-29 - Daily Briefing (21 articles)
+  <a href="briefings/2026-10-30.md" style="color:red;font-weight:bold;">
+    2026-10-30 - Daily Briefing (17 articles)
   </a>
 </p>
 
-<span style="color:red;">**- This whole-home wifi system finally solved my garden office internet woes - T...**</span>  
-<span style="color:red;">**- Wi-Fi 8 Comes to South Africa with ASUS: Why Wi-Fi 7 Still Matters - MyBroadband**</span>  
-<span style="color:red;">**- Save $234 on 32GB of DDR5 RAM with this 3-item AM5 Newegg bundle**</span>  
-<span style="color:red;">**- ASUS to Launch Wi-Fi 8 Router "ROG Rapture GT-BN98," Claims Up to 34% Reducti...**</span>  
-<span style="color:red;">**- Asus MD105 wireless mouse review: Quite clicks with practical features - The ...**</span>  
+<span style="color:red;">**- NETGEAR Nighthawk Advanced Whole Home Mesh Dual slips to $95 - Technobezz**</span>  
+<span style="color:red;">**- Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the co...**</span>  
+<span style="color:red;">**- 【RichWave Technology FY2026 Q3 Earnings Call】Taiwan's RichWave sees Wi-Fi 7 r...**</span>  
+<span style="color:red;">**- ASUS Launches Next-Gen Wi-Fi 8 Gaming Router Priced Around ¥180,000, Exclusiv...**</span>  
+<span style="color:red;">**- $26 Banana Pi BPI-RT2 WiFi 6 router board features Realtek RTL8198D dual-core...**</span>  
+
+[2026-10-29 - Daily Briefing (21 articles)](briefings/2026-10-29.md)
+
+- This whole-home wifi system finally solved my garden office internet woes - T...
+- Wi-Fi 8 Comes to South Africa with ASUS: Why Wi-Fi 7 Still Matters - MyBroadband
+- Save $234 on 32GB of DDR5 RAM with this 3-item AM5 Newegg bundle
 
 [2026-10-28 - Daily Briefing (30 articles)](briefings/2026-10-28.md)
 
