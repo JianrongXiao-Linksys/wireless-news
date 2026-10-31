@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-30 14:58**
+Last updated: **2026-10-31 14:27**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-30.md" style="color:red;font-weight:bold;">
-    2026-10-30 - Daily Briefing (17 articles)
+  <a href="briefings/2026-10-31.md" style="color:red;font-weight:bold;">
+    2026-10-31 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- NETGEAR Nighthawk Advanced Whole Home Mesh Dual slips to $95 - Technobezz**</span>  
-<span style="color:red;">**- Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the co...**</span>  
-<span style="color:red;">**- 【RichWave Technology FY2026 Q3 Earnings Call】Taiwan's RichWave sees Wi-Fi 7 r...**</span>  
-<span style="color:red;">**- ASUS Launches Next-Gen Wi-Fi 8 Gaming Router Priced Around ¥180,000, Exclusiv...**</span>  
-<span style="color:red;">**- $26 Banana Pi BPI-RT2 WiFi 6 router board features Realtek RTL8198D dual-core...**</span>  
+<span style="color:red;">**- ASRock Rack AI Box-A395-Mediatek RZ717 Wi-Fi 7 Chip 1 - ServeTheHome**</span>  
+<span style="color:red;">**- RichWave Technology Corp (TPE:4968) (Q3 2026) Earnings Call Highlights: Wi-Fi...**</span>  
+<span style="color:red;">**- How to Fix a Skylight Frame That Won't Connect to WiFi - Technobezz**</span>  
+<span style="color:red;">**- How to Access Frontier Router Settings for the First Time - Technobezz**</span>  
+<span style="color:red;">**- Are Open Source Routers Safe To Use? Here's What You Need To Know - BGR**</span>  
+
+[2026-10-30 - Daily Briefing (17 articles)](briefings/2026-10-30.md)
+
+- NETGEAR Nighthawk Advanced Whole Home Mesh Dual slips to $95 - Technobezz
+- Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the co...
+- 【RichWave Technology FY2026 Q3 Earnings Call】Taiwan's RichWave sees Wi-Fi 7 r...
 
 [2026-10-29 - Daily Briefing (21 articles)](briefings/2026-10-29.md)
 
