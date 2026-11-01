@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-10-31 14:27**
+Last updated: **2026-11-01 14:54**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-10-31.md" style="color:red;font-weight:bold;">
-    2026-10-31 - Daily Briefing (11 articles)
+  <a href="briefings/2026-11-01.md" style="color:red;font-weight:bold;">
+    2026-11-01 - Daily Briefing (10 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ASRock Rack AI Box-A395-Mediatek RZ717 Wi-Fi 7 Chip 1 - ServeTheHome**</span>  
-<span style="color:red;">**- RichWave Technology Corp (TPE:4968) (Q3 2026) Earnings Call Highlights: Wi-Fi...**</span>  
-<span style="color:red;">**- How to Fix a Skylight Frame That Won't Connect to WiFi - Technobezz**</span>  
-<span style="color:red;">**- How to Access Frontier Router Settings for the First Time - Technobezz**</span>  
-<span style="color:red;">**- Are Open Source Routers Safe To Use? Here's What You Need To Know - BGR**</span>  
+<span style="color:red;">**- Club386 Opens Worldwide Giveaway: Full Details - JournalArta**</span>  
+<span style="color:red;">**- Popular Netgear Orbi 770 Wi-Fi 7 mesh system falls close to its best-ever pri...**</span>  
+<span style="color:red;">**- Who Makes The Viral Minions Wi-Fi Routers & Are They Any Good? - SlashGear**</span>  
+<span style="color:red;">**- 5 Of The Best Routers For Power Users You Can Buy In 2026 - BGR**</span>  
+<span style="color:red;">**- The FCC has TP-Link in its sights again. Could the popular brand be banned in...**</span>  
+
+[2026-10-31 - Daily Briefing (11 articles)](briefings/2026-10-31.md)
+
+- ASRock Rack AI Box-A395-Mediatek RZ717 Wi-Fi 7 Chip 1 - ServeTheHome
+- RichWave Technology Corp (TPE:4968) (Q3 2026) Earnings Call Highlights: Wi-Fi...
+- How to Fix a Skylight Frame That Won't Connect to WiFi - Technobezz
 
 [2026-10-30 - Daily Briefing (17 articles)](briefings/2026-10-30.md)
 
