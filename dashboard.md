@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-02 18:07**
+Last updated: **2026-11-03 16:01**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-02.md" style="color:red;font-weight:bold;">
-    2026-11-02 - Daily Briefing (19 articles)
+  <a href="briefings/2026-11-03.md" style="color:red;font-weight:bold;">
+    2026-11-03 - Daily Briefing (13 articles)
   </a>
 </p>
 
-<span style="color:red;">**- I Tested the Very First Wi-Fi 8 Router and Walked Away Impressed - WIRED**</span>  
-<span style="color:red;">**- TP-Link Deco XE75 AXE5400 Tri-Band Mesh System dips to $99.99 - Technobezz**</span>  
-<span style="color:red;">**- TP-Link Deco 7 Pro BE17000 Tri-Band Mesh System slips to $449.97 - Technobezz**</span>  
-<span style="color:red;">**- TP-Link AX5400 WiFi 6 Router gets a $30 price cut to $99.99 - Technobezz**</span>  
-<span style="color:red;">**- TP-Link Dual-Band BE3600 Wi-Fi 7 Router dips to $79.98 - Technobezz**</span>  
+<span style="color:red;">**- After 120 Hours of Testing, This Phone Had the Longest-Lasting Battery Life**</span>  
+<span style="color:red;">**- RedMagic 12 Pro Pairs Qualcomm’s New Chip With the Phone Series’ Biggest Batt...**</span>  
+<span style="color:red;">**- Mesh WiFi System Market Forecast to 2035: Growth Driven by Smart Home Adoptio...**</span>  
+<span style="color:red;">**- Telekom launches Wi-Fi 7 router, Mesh home connectivity service in Greece - T...**</span>  
+<span style="color:red;">**- TP-Link BE5000 Dual-Band Wi-Fi 7 Router now $143.99, down from $159.99 - Tech...**</span>  
+
+[2026-11-02 - Daily Briefing (19 articles)](briefings/2026-11-02.md)
+
+- I Tested the Very First Wi-Fi 8 Router and Walked Away Impressed - WIRED
+- TP-Link Deco XE75 AXE5400 Tri-Band Mesh System dips to $99.99 - Technobezz
+- TP-Link Deco 7 Pro BE17000 Tri-Band Mesh System slips to $449.97 - Technobezz
 
 [2026-11-01 - Daily Briefing (10 articles)](briefings/2026-11-01.md)
 
