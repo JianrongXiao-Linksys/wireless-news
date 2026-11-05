@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-04 16:07**
+Last updated: **2026-11-05 16:21**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-04.md" style="color:red;font-weight:bold;">
-    2026-11-04 - Daily Briefing (16 articles)
+  <a href="briefings/2026-11-05.md" style="color:red;font-weight:bold;">
+    2026-11-05 - Daily Briefing (28 articles)
   </a>
 </p>
 
-<span style="color:red;">**- This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now - Lifehacker**</span>  
-<span style="color:red;">**- This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now - Lifehacker**</span>  
-<span style="color:red;">**- New report reveals where Australia sits on WiFi 7 adoption - WhistleOut**</span>  
-<span style="color:red;">**- I stopped tweaking my router after discovering these hidden Windows Wi-Fi set...**</span>  
-<span style="color:red;">**- SpaceX is working with Qualcomm to build its Starlink Mobile 5G network**</span>  
+<span style="color:red;">**- Amazon Makes Whole-Home WiFi 6 Mesh Router Upgrades Affordable Again With One...**</span>  
+<span style="color:red;">**- Netgear launches Wi-Fi 7 mobile hotspot for AT&T business users - Investing.com**</span>  
+<span style="color:red;">**- ASUS ZenWiFi BN12 WiFi 8 mesh router will be coming to Malaysia in December -...**</span>  
+<span style="color:red;">**- Vodafone Pro 4 brings Wi-Fi 7 and 8Gbps speeds to UK homes - Trusted Reviews**</span>  
+<span style="color:red;">**- Netgear launches Wi-Fi 7 mobile hotspot for AT&T Business customers - StreetI...**</span>  
+
+[2026-11-04 - Daily Briefing (16 articles)](briefings/2026-11-04.md)
+
+- This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now - Lifehacker
+- This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now - Lifehacker
+- New report reveals where Australia sits on WiFi 7 adoption - WhistleOut
 
 [2026-11-03 - Daily Briefing (13 articles)](briefings/2026-11-03.md)
 
