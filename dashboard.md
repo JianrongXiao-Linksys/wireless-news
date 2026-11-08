@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-07 14:49**
+Last updated: **2026-11-08 14:57**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-07.md" style="color:red;font-weight:bold;">
-    2026-11-07 - Daily Briefing (11 articles)
+  <a href="briefings/2026-11-08.md" style="color:red;font-weight:bold;">
+    2026-11-08 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Deco 7 BE25 Dual-Band BE5000 Mesh Wi-Fi System falls to $99.98 - Technobezz**</span>  
-<span style="color:red;">**- Prime members can save almost $700 on this powerful Ryzen AI 9 HX 470 mini PC...**</span>  
-<span style="color:red;">**- TP-Link's Archer 8 Ultra is one of the first Wi-Fi 8 routers in the world - b...**</span>  
-<span style="color:red;">**- Starlink launches Wi-Fi 7 Router 4 with 3,500 sq ft coverage for new resident...**</span>  
-<span style="color:red;">**- High-Speed Broadband Upgrades: Vodafone Launches An 8Gbps Broadband Package W...**</span>  
+<span style="color:red;">**- NETGEAR Nighthawk WiFi 7 Router RS100 marked down to $129.99 - Technobezz**</span>  
+<span style="color:red;">**- NETGEAR Orbi 770 WiFi 7 Mesh System discounted to $239.99 - Technobezz**</span>  
+<span style="color:red;">**- NETGEAR Nighthawk WiFi 7 Extender EXS27 now $119.99, down from $149.99 - Tech...**</span>  
+<span style="color:red;">**- Starlink Router 4 brings Wi-Fi 7 to new residential kits - The Gadgeteer**</span>  
+<span style="color:red;">**- TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Network...**</span>  
+
+[2026-11-07 - Daily Briefing (11 articles)](briefings/2026-11-07.md)
+
+- Deco 7 BE25 Dual-Band BE5000 Mesh Wi-Fi System falls to $99.98 - Technobezz
+- Prime members can save almost $700 on this powerful Ryzen AI 9 HX 470 mini PC...
+- TP-Link's Archer 8 Ultra is one of the first Wi-Fi 8 routers in the world - b...
 
 [2026-11-06 - Daily Briefing (14 articles)](briefings/2026-11-06.md)
 
