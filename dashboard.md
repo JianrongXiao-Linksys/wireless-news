@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-08 14:57**
+Last updated: **2026-11-09 18:37**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-08.md" style="color:red;font-weight:bold;">
-    2026-11-08 - Daily Briefing (12 articles)
+  <a href="briefings/2026-11-09.md" style="color:red;font-weight:bold;">
+    2026-11-09 - Daily Briefing (20 articles)
   </a>
 </p>
 
-<span style="color:red;">**- NETGEAR Nighthawk WiFi 7 Router RS100 marked down to $129.99 - Technobezz**</span>  
-<span style="color:red;">**- NETGEAR Orbi 770 WiFi 7 Mesh System discounted to $239.99 - Technobezz**</span>  
-<span style="color:red;">**- NETGEAR Nighthawk WiFi 7 Extender EXS27 now $119.99, down from $149.99 - Tech...**</span>  
-<span style="color:red;">**- Starlink Router 4 brings Wi-Fi 7 to new residential kits - The Gadgeteer**</span>  
-<span style="color:red;">**- TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Network...**</span>  
+<span style="color:red;">**- Lab Exclusive: How Fast Is Wi-Fi 8? Our First Test Numbers Hint at Something ...**</span>  
+<span style="color:red;">**- Lab Exclusive: Just How Fast Is Wi-Fi 8? Our First Test Results Hint at Somet...**</span>  
+<span style="color:red;">**- Lab Exclusive: Just How Fast Is Wi-Fi 8? Our First Test Results Hint at Somet...**</span>  
+<span style="color:red;">**- TP-Link Deco X50-Outdoor AX3000 Dual Band WiFi Extender now $99.99, down from...**</span>  
+<span style="color:red;">**- TP-Link Deco 7 Elite BE95 BE33000 Mesh System price drops to $847.79 - Techno...**</span>  
+
+[2026-11-08 - Daily Briefing (12 articles)](briefings/2026-11-08.md)
+
+- NETGEAR Nighthawk WiFi 7 Router RS100 marked down to $129.99 - Technobezz
+- NETGEAR Orbi 770 WiFi 7 Mesh System discounted to $239.99 - Technobezz
+- NETGEAR Nighthawk WiFi 7 Extender EXS27 now $119.99, down from $149.99 - Tech...
 
 [2026-11-07 - Daily Briefing (11 articles)](briefings/2026-11-07.md)
 
