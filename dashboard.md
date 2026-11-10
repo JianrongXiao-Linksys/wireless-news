@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-09 18:37**
+Last updated: **2026-11-10 16:20**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-09.md" style="color:red;font-weight:bold;">
-    2026-11-09 - Daily Briefing (20 articles)
+  <a href="briefings/2026-11-10.md" style="color:red;font-weight:bold;">
+    2026-11-10 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Lab Exclusive: How Fast Is Wi-Fi 8? Our First Test Numbers Hint at Something ...**</span>  
-<span style="color:red;">**- Lab Exclusive: Just How Fast Is Wi-Fi 8? Our First Test Results Hint at Somet...**</span>  
-<span style="color:red;">**- Lab Exclusive: Just How Fast Is Wi-Fi 8? Our First Test Results Hint at Somet...**</span>  
-<span style="color:red;">**- TP-Link Deco X50-Outdoor AX3000 Dual Band WiFi Extender now $99.99, down from...**</span>  
-<span style="color:red;">**- TP-Link Deco 7 Elite BE95 BE33000 Mesh System price drops to $847.79 - Techno...**</span>  
+<span style="color:red;">**- Charlotte Hornets hoop NBA wireless first with Wi-Fi 7 - Computer Weekly**</span>  
+<span style="color:red;">**- TP-Link WiFi 7 Router Is Back at Its Lowest Price Since Prime Day, With Black...**</span>  
+<span style="color:red;">**- Grab 32GB DDR5 for $371 in this Newegg RAM bundle with the 9800X3D, $70 less ...**</span>  
+<span style="color:red;">**- Hornets install new WiFi system in Spectrum Arena, bringing 4x connection spe...**</span>  
+<span style="color:red;">**- 7 Best Wi-Fi 7 Routers in 2026 - Technobezz**</span>  
+
+[2026-11-09 - Daily Briefing (20 articles)](briefings/2026-11-09.md)
+
+- Lab Exclusive: How Fast Is Wi-Fi 8? Our First Test Numbers Hint at Something ...
+- Lab Exclusive: Just How Fast Is Wi-Fi 8? Our First Test Results Hint at Somet...
+- Lab Exclusive: Just How Fast Is Wi-Fi 8? Our First Test Results Hint at Somet...
 
 [2026-11-08 - Daily Briefing (12 articles)](briefings/2026-11-08.md)
 
