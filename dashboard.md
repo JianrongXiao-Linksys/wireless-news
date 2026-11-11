@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-10 16:20**
+Last updated: **2026-11-11 16:00**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-10.md" style="color:red;font-weight:bold;">
-    2026-11-10 - Daily Briefing (12 articles)
+  <a href="briefings/2026-11-11.md" style="color:red;font-weight:bold;">
+    2026-11-11 - Daily Briefing (17 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Charlotte Hornets hoop NBA wireless first with Wi-Fi 7 - Computer Weekly**</span>  
-<span style="color:red;">**- TP-Link WiFi 7 Router Is Back at Its Lowest Price Since Prime Day, With Black...**</span>  
-<span style="color:red;">**- Grab 32GB DDR5 for $371 in this Newegg RAM bundle with the 9800X3D, $70 less ...**</span>  
-<span style="color:red;">**- Hornets install new WiFi system in Spectrum Arena, bringing 4x connection spe...**</span>  
-<span style="color:red;">**- 7 Best Wi-Fi 7 Routers in 2026 - Technobezz**</span>  
+<span style="color:red;">**- ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN - ...**</span>  
+<span style="color:red;">**- TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From ...**</span>  
+<span style="color:red;">**- Amazon eero Max 7 drops $180, returns to all-time low - Android Authority**</span>  
+<span style="color:red;">**- TP-Link Omada Fusion Pro Series, Unveiled: An All-in-One Platform for Network...**</span>  
+<span style="color:red;">**- TP-Link Omada Fusion Pro 2.5G PoE Gateway with SSD Tray Review (vs. Ubiquiti ...**</span>  
+
+[2026-11-10 - Daily Briefing (12 articles)](briefings/2026-11-10.md)
+
+- Charlotte Hornets hoop NBA wireless first with Wi-Fi 7 - Computer Weekly
+- TP-Link WiFi 7 Router Is Back at Its Lowest Price Since Prime Day, With Black...
+- Grab 32GB DDR5 for $371 in this Newegg RAM bundle with the 9800X3D, $70 less ...
 
 [2026-11-09 - Daily Briefing (20 articles)](briefings/2026-11-09.md)
 
