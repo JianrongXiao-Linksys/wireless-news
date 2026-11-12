@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-11 16:00**
+Last updated: **2026-11-12 16:43**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-11.md" style="color:red;font-weight:bold;">
-    2026-11-11 - Daily Briefing (17 articles)
+  <a href="briefings/2026-11-12.md" style="color:red;font-weight:bold;">
+    2026-11-12 - Daily Briefing (19 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN - ...**</span>  
-<span style="color:red;">**- TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From ...**</span>  
-<span style="color:red;">**- Amazon eero Max 7 drops $180, returns to all-time low - Android Authority**</span>  
-<span style="color:red;">**- TP-Link Omada Fusion Pro Series, Unveiled: An All-in-One Platform for Network...**</span>  
-<span style="color:red;">**- TP-Link Omada Fusion Pro 2.5G PoE Gateway with SSD Tray Review (vs. Ubiquiti ...**</span>  
+<span style="color:red;">**- Amazon eero Outdoor 7 Gets Its First All-TIme Low Deal Since Prime Day, Bring...**</span>  
+<span style="color:red;">**- This popular NETGEAR Nighthawk Wi-Fi 6 router just dropped to its lowest pric...**</span>  
+<span style="color:red;">**- Amazon Clears Out TP-Link Dual-Band WiFi Extender at a Near-Giveaway Price fo...**</span>  
+<span style="color:red;">**- 6 Highly-Rated Wi-Fi Mesh Systems You Can Easily Set Up At Home - SlashGear**</span>  
+<span style="color:red;">**- My home Wi-Fi was awful. These 6 fixes beat buying a new router - PCWorld**</span>  
+
+[2026-11-11 - Daily Briefing (17 articles)](briefings/2026-11-11.md)
+
+- ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN - ...
+- TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From ...
+- Amazon eero Max 7 drops $180, returns to all-time low - Android Authority
 
 [2026-11-10 - Daily Briefing (12 articles)](briefings/2026-11-10.md)
 
