@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-12 16:43**
+Last updated: **2026-11-13 16:03**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-12.md" style="color:red;font-weight:bold;">
-    2026-11-12 - Daily Briefing (19 articles)
+  <a href="briefings/2026-11-13.md" style="color:red;font-weight:bold;">
+    2026-11-13 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Amazon eero Outdoor 7 Gets Its First All-TIme Low Deal Since Prime Day, Bring...**</span>  
-<span style="color:red;">**- This popular NETGEAR Nighthawk Wi-Fi 6 router just dropped to its lowest pric...**</span>  
-<span style="color:red;">**- Amazon Clears Out TP-Link Dual-Band WiFi Extender at a Near-Giveaway Price fo...**</span>  
-<span style="color:red;">**- 6 Highly-Rated Wi-Fi Mesh Systems You Can Easily Set Up At Home - SlashGear**</span>  
-<span style="color:red;">**- My home Wi-Fi was awful. These 6 fixes beat buying a new router - PCWorld**</span>  
+<span style="color:red;">**- Analysis | Why WiFi can still be so annoying — and how to fix it - The Washin...**</span>  
+<span style="color:red;">**- These TP-Link Routers Are up to $100 Off in Amazon's Early Black Friday Sale ...**</span>  
+<span style="color:red;">**- Early Black Friday Router Deals: Save Up to $100 on a TP-Link Wi-Fi 7 Mesh Sy...**</span>  
+<span style="color:red;">**- Stay Connected With a 30% Off Early Black Friday Deal on This Amazon Mesh Wi-...**</span>  
+<span style="color:red;">**- The Smartest Way to Buy a WiFi 6 Router Is to Grab NETGEAR Nighthawk at an Al...**</span>  
+
+[2026-11-12 - Daily Briefing (19 articles)](briefings/2026-11-12.md)
+
+- Amazon eero Outdoor 7 Gets Its First All-TIme Low Deal Since Prime Day, Bring...
+- This popular NETGEAR Nighthawk Wi-Fi 6 router just dropped to its lowest pric...
+- Amazon Clears Out TP-Link Dual-Band WiFi Extender at a Near-Giveaway Price fo...
 
 [2026-11-11 - Daily Briefing (17 articles)](briefings/2026-11-11.md)
 
