@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-13 16:03**
+Last updated: **2026-11-14 14:55**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-13.md" style="color:red;font-weight:bold;">
-    2026-11-13 - Daily Briefing (11 articles)
+  <a href="briefings/2026-11-14.md" style="color:red;font-weight:bold;">
+    2026-11-14 - Daily Briefing (6 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Analysis | Why WiFi can still be so annoying — and how to fix it - The Washin...**</span>  
-<span style="color:red;">**- These TP-Link Routers Are up to $100 Off in Amazon's Early Black Friday Sale ...**</span>  
-<span style="color:red;">**- Early Black Friday Router Deals: Save Up to $100 on a TP-Link Wi-Fi 7 Mesh Sy...**</span>  
-<span style="color:red;">**- Stay Connected With a 30% Off Early Black Friday Deal on This Amazon Mesh Wi-...**</span>  
-<span style="color:red;">**- The Smartest Way to Buy a WiFi 6 Router Is to Grab NETGEAR Nighthawk at an Al...**</span>  
+<span style="color:red;">**- Colorful Launches iGame X870E Senna V14 Motherboard With Wi-Fi 7, USB4, and F...**</span>  
+<span style="color:red;">**- Motorola's New Flagship Packs Bluetooth 7.0 and Wi-Fi 8 First: A $1,600 "Insu...**</span>  
+<span style="color:red;">**- Moto’s Signature 27 phone supports tech that doesn’t exist yet – is that a go...**</span>  
+<span style="color:red;">**- Amazon Eero 7 three-pack gets price cut in Early Black Friday deal - a simple...**</span>  
+<span style="color:red;">**- How to keep your Wi-Fi router online during a power outage – with a device yo...**</span>  
+
+[2026-11-13 - Daily Briefing (11 articles)](briefings/2026-11-13.md)
+
+- Analysis | Why WiFi can still be so annoying — and how to fix it - The Washin...
+- These TP-Link Routers Are up to $100 Off in Amazon's Early Black Friday Sale ...
+- Early Black Friday Router Deals: Save Up to $100 on a TP-Link Wi-Fi 7 Mesh Sy...
 
 [2026-11-12 - Daily Briefing (19 articles)](briefings/2026-11-12.md)
 
