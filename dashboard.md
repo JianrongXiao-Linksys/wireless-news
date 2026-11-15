@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-14 14:55**
+Last updated: **2026-11-15 15:32**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-14.md" style="color:red;font-weight:bold;">
-    2026-11-14 - Daily Briefing (6 articles)
+  <a href="briefings/2026-11-15.md" style="color:red;font-weight:bold;">
+    2026-11-15 - Daily Briefing (8 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Colorful Launches iGame X870E Senna V14 Motherboard With Wi-Fi 7, USB4, and F...**</span>  
-<span style="color:red;">**- Motorola's New Flagship Packs Bluetooth 7.0 and Wi-Fi 8 First: A $1,600 "Insu...**</span>  
-<span style="color:red;">**- Moto’s Signature 27 phone supports tech that doesn’t exist yet – is that a go...**</span>  
-<span style="color:red;">**- Amazon Eero 7 three-pack gets price cut in Early Black Friday deal - a simple...**</span>  
-<span style="color:red;">**- How to keep your Wi-Fi router online during a power outage – with a device yo...**</span>  
+<span style="color:red;">**- Mesh Wi-Fi isn't always the upgrade you think it is. Here's when it actually ...**</span>  
+<span style="color:red;">**- TP-Link’s three-pack Wi-Fi 7 mesh system is $112.50 below its typical Amazon ...**</span>  
+<span style="color:red;">**- What Is The DSL Port On Some Internet Routers For? - SlashGear**</span>  
+<span style="color:red;">**- Instantly speed up your Wi-Fi by moving your router away from 1 item in your ...**</span>  
+<span style="color:red;">**- Upgrade your home Wi-Fi for a lot less with this early Black Friday deal on a...**</span>  
+
+[2026-11-14 - Daily Briefing (6 articles)](briefings/2026-11-14.md)
+
+- Colorful Launches iGame X870E Senna V14 Motherboard With Wi-Fi 7, USB4, and F...
+- Motorola's New Flagship Packs Bluetooth 7.0 and Wi-Fi 8 First: A $1,600 "Insu...
+- Moto’s Signature 27 phone supports tech that doesn’t exist yet – is that a go...
 
 [2026-11-13 - Daily Briefing (11 articles)](briefings/2026-11-13.md)
 
