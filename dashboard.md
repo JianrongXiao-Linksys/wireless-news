@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-15 15:32**
+Last updated: **2026-11-16 18:16**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-15.md" style="color:red;font-weight:bold;">
-    2026-11-15 - Daily Briefing (8 articles)
+  <a href="briefings/2026-11-16.md" style="color:red;font-weight:bold;">
+    2026-11-16 - Daily Briefing (16 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Mesh Wi-Fi isn't always the upgrade you think it is. Here's when it actually ...**</span>  
-<span style="color:red;">**- TP-Link’s three-pack Wi-Fi 7 mesh system is $112.50 below its typical Amazon ...**</span>  
-<span style="color:red;">**- What Is The DSL Port On Some Internet Routers For? - SlashGear**</span>  
-<span style="color:red;">**- Instantly speed up your Wi-Fi by moving your router away from 1 item in your ...**</span>  
-<span style="color:red;">**- Upgrade your home Wi-Fi for a lot less with this early Black Friday deal on a...**</span>  
+<span style="color:red;">**- How to Set Up a TP Link WiFi Extender - Technobezz**</span>  
+<span style="color:red;">**- I changed one router setting and closed a security hole I didn't know existed...**</span>  
+<span style="color:red;">**- How to secure your home Wi-Fi, what works and what does not - Pasquale Pillit...**</span>  
+<span style="color:red;">**- Your Ethernet port’s light color is a speed test you never have to run - Make...**</span>  
+<span style="color:red;">**- ASUS Routers: Wi-Fi 7, Security, and Network Expansion - Root-Nation.com**</span>  
+
+[2026-11-15 - Daily Briefing (8 articles)](briefings/2026-11-15.md)
+
+- Mesh Wi-Fi isn't always the upgrade you think it is. Here's when it actually ...
+- TP-Link’s three-pack Wi-Fi 7 mesh system is $112.50 below its typical Amazon ...
+- What Is The DSL Port On Some Internet Routers For? - SlashGear
 
 [2026-11-14 - Daily Briefing (6 articles)](briefings/2026-11-14.md)
 
