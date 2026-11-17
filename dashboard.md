@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-16 18:16**
+Last updated: **2026-11-17 17:31**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-16.md" style="color:red;font-weight:bold;">
-    2026-11-16 - Daily Briefing (16 articles)
+  <a href="briefings/2026-11-17.md" style="color:red;font-weight:bold;">
+    2026-11-17 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- How to Set Up a TP Link WiFi Extender - Technobezz**</span>  
-<span style="color:red;">**- I changed one router setting and closed a security hole I didn't know existed...**</span>  
-<span style="color:red;">**- How to secure your home Wi-Fi, what works and what does not - Pasquale Pillit...**</span>  
-<span style="color:red;">**- Your Ethernet port’s light color is a speed test you never have to run - Make...**</span>  
-<span style="color:red;">**- ASUS Routers: Wi-Fi 7, Security, and Network Expansion - Root-Nation.com**</span>  
+<span style="color:red;">**- Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. - ...**</span>  
+<span style="color:red;">**- AI models can be tricked into identifying civilians as military targets by te...**</span>  
+<span style="color:red;">**- Smart City Networks Begins Wi-Fi 7 Deployment at Colorado Convention Center -...**</span>  
+<span style="color:red;">**- Huawei built a Wi-Fi 7 router that hides on a bookshelf - The Gadgeteer**</span>  
+<span style="color:red;">**- I tested the Netgear Nighthawk RS150 and this affordable Wi-Fi 7 router deliv...**</span>  
+
+[2026-11-16 - Daily Briefing (16 articles)](briefings/2026-11-16.md)
+
+- How to Set Up a TP Link WiFi Extender - Technobezz
+- I changed one router setting and closed a security hole I didn't know existed...
+- How to secure your home Wi-Fi, what works and what does not - Pasquale Pillit...
 
 [2026-11-15 - Daily Briefing (8 articles)](briefings/2026-11-15.md)
 
