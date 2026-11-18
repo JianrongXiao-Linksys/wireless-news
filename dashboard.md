@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-17 17:31**
+Last updated: **2026-11-18 17:07**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-17.md" style="color:red;font-weight:bold;">
-    2026-11-17 - Daily Briefing (12 articles)
+  <a href="briefings/2026-11-18.md" style="color:red;font-weight:bold;">
+    2026-11-18 - Daily Briefing (11 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. - ...**</span>  
-<span style="color:red;">**- AI models can be tricked into identifying civilians as military targets by te...**</span>  
-<span style="color:red;">**- Smart City Networks Begins Wi-Fi 7 Deployment at Colorado Convention Center -...**</span>  
-<span style="color:red;">**- Huawei built a Wi-Fi 7 router that hides on a bookshelf - The Gadgeteer**</span>  
-<span style="color:red;">**- I tested the Netgear Nighthawk RS150 and this affordable Wi-Fi 7 router deliv...**</span>  
+<span style="color:red;">**- TP-Link unveils Wi-Fi 8 in Bangladesh - The Daily Star**</span>  
+<span style="color:red;">**- Your Wi-Fi Router Has a Guest Network — Here’s Why You Might Actually Want to...**</span>  
+<span style="color:red;">**- Global OLED monitor shipments doubled year-over-year in Q3 2026**</span>  
+<span style="color:red;">**- Bring Wi-Fi 7 to your backyard with $90 off the eero Outdoor 7 - Android Auth...**</span>  
+<span style="color:red;">**- Qualcomm Ath12k Linux Driver Preparing For New WiFi 8 Hardware - Phoronix**</span>  
+
+[2026-11-17 - Daily Briefing (12 articles)](briefings/2026-11-17.md)
+
+- Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. - ...
+- AI models can be tricked into identifying civilians as military targets by te...
+- Smart City Networks Begins Wi-Fi 7 Deployment at Colorado Convention Center -...
 
 [2026-11-16 - Daily Briefing (16 articles)](briefings/2026-11-16.md)
 
