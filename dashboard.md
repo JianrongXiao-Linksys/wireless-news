@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-18 17:07**
+Last updated: **2026-11-19 17:14**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-18.md" style="color:red;font-weight:bold;">
-    2026-11-18 - Daily Briefing (11 articles)
+  <a href="briefings/2026-11-19.md" style="color:red;font-weight:bold;">
+    2026-11-19 - Daily Briefing (22 articles)
   </a>
 </p>
 
-<span style="color:red;">**- TP-Link unveils Wi-Fi 8 in Bangladesh - The Daily Star**</span>  
-<span style="color:red;">**- Your Wi-Fi Router Has a Guest Network — Here’s Why You Might Actually Want to...**</span>  
-<span style="color:red;">**- Global OLED monitor shipments doubled year-over-year in Q3 2026**</span>  
-<span style="color:red;">**- Bring Wi-Fi 7 to your backyard with $90 off the eero Outdoor 7 - Android Auth...**</span>  
-<span style="color:red;">**- Qualcomm Ath12k Linux Driver Preparing For New WiFi 8 Hardware - Phoronix**</span>  
+<span style="color:red;">**- Every home network has multiple power-saving features that could be slowing i...**</span>  
+<span style="color:red;">**- Amazon eero Pro 7 WiFi 7 3-Pack Now Costs as Much as a 2-Pack, Making the Thi...**</span>  
+<span style="color:red;">**- TP-Link TL-SG1210MP, 8 Port Gigabit PoE Switch marked down to $89.99 - Techno...**</span>  
+<span style="color:red;">**- Deco 7 Pro Tri-Band BE10000 Mesh System falls to $369.99 - Technobezz**</span>  
+<span style="color:red;">**- NETGEAR Nighthawk WiFi 7 Router gets a $68.81 price cut to $180.19 - Technobezz**</span>  
+
+[2026-11-18 - Daily Briefing (11 articles)](briefings/2026-11-18.md)
+
+- TP-Link unveils Wi-Fi 8 in Bangladesh - The Daily Star
+- Your Wi-Fi Router Has a Guest Network — Here’s Why You Might Actually Want to...
+- Global OLED monitor shipments doubled year-over-year in Q3 2026
 
 [2026-11-17 - Daily Briefing (12 articles)](briefings/2026-11-17.md)
 
