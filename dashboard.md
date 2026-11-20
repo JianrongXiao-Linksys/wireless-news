@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-19 17:14**
+Last updated: **2026-11-20 16:53**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-19.md" style="color:red;font-weight:bold;">
-    2026-11-19 - Daily Briefing (22 articles)
+  <a href="briefings/2026-11-20.md" style="color:red;font-weight:bold;">
+    2026-11-20 - Daily Briefing (26 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Every home network has multiple power-saving features that could be slowing i...**</span>  
-<span style="color:red;">**- Amazon eero Pro 7 WiFi 7 3-Pack Now Costs as Much as a 2-Pack, Making the Thi...**</span>  
-<span style="color:red;">**- TP-Link TL-SG1210MP, 8 Port Gigabit PoE Switch marked down to $89.99 - Techno...**</span>  
-<span style="color:red;">**- Deco 7 Pro Tri-Band BE10000 Mesh System falls to $369.99 - Technobezz**</span>  
-<span style="color:red;">**- NETGEAR Nighthawk WiFi 7 Router gets a $68.81 price cut to $180.19 - Technobezz**</span>  
+<span style="color:red;">**- Do You Really Need a Mesh System? CNET Labs’ Data Has a Surprising Answer - CNET**</span>  
+<span style="color:red;">**- Asus ZenWiFi BN12 review: The world’s first Wi-Fi 8 mesh router is here - PCW...**</span>  
+<span style="color:red;">**- TP-Link AX3000 WiFi 6 Range Extender w/Smart sees price cut to $99.99 - Techn...**</span>  
+<span style="color:red;">**- ASUS GT-BE19000AI Tri-Band WiFi 7 AI Gaming Router gets a $242.78 price cut t...**</span>  
+<span style="color:red;">**- Xfinity is using your router to build a nationwide Wi-Fi network - MakeUseOf**</span>  
+
+[2026-11-19 - Daily Briefing (22 articles)](briefings/2026-11-19.md)
+
+- Every home network has multiple power-saving features that could be slowing i...
+- Amazon eero Pro 7 WiFi 7 3-Pack Now Costs as Much as a 2-Pack, Making the Thi...
+- TP-Link TL-SG1210MP, 8 Port Gigabit PoE Switch marked down to $89.99 - Techno...
 
 [2026-11-18 - Daily Briefing (11 articles)](briefings/2026-11-18.md)
 
