@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-20 16:53**
+Last updated: **2026-11-21 16:01**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-20.md" style="color:red;font-weight:bold;">
-    2026-11-20 - Daily Briefing (26 articles)
+  <a href="briefings/2026-11-21.md" style="color:red;font-weight:bold;">
+    2026-11-21 - Daily Briefing (17 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Do You Really Need a Mesh System? CNET Labs’ Data Has a Surprising Answer - CNET**</span>  
-<span style="color:red;">**- Asus ZenWiFi BN12 review: The world’s first Wi-Fi 8 mesh router is here - PCW...**</span>  
-<span style="color:red;">**- TP-Link AX3000 WiFi 6 Range Extender w/Smart sees price cut to $99.99 - Techn...**</span>  
-<span style="color:red;">**- ASUS GT-BE19000AI Tri-Band WiFi 7 AI Gaming Router gets a $242.78 price cut t...**</span>  
-<span style="color:red;">**- Xfinity is using your router to build a nationwide Wi-Fi network - MakeUseOf**</span>  
+<span style="color:red;">**- Netgear Black Friday deals save you up to 33% on full home WiFi coverage — up...**</span>  
+<span style="color:red;">**- Netgear Black Friday deals save you up to 33% on full home WiFi coverage — up...**</span>  
+<span style="color:red;">**- The router works from a power bank, but there is no Internet: 9 reasons and w...**</span>  
+<span style="color:red;">**- Asus ROG Strix Scope II 96 gaming keyboard crashes to all-time low in early B...**</span>  
+<span style="color:red;">**- NETGEAR 5-Port 10G/Multi-Gigabit Ethernet Unmanaged Network Switch marked dow...**</span>  
+
+[2026-11-20 - Daily Briefing (26 articles)](briefings/2026-11-20.md)
+
+- Do You Really Need a Mesh System? CNET Labs’ Data Has a Surprising Answer - CNET
+- Asus ZenWiFi BN12 review: The world’s first Wi-Fi 8 mesh router is here - PCW...
+- TP-Link AX3000 WiFi 6 Range Extender w/Smart sees price cut to $99.99 - Techn...
 
 [2026-11-19 - Daily Briefing (22 articles)](briefings/2026-11-19.md)
 
