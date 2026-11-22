@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-21 16:01**
+Last updated: **2026-11-22 16:08**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-21.md" style="color:red;font-weight:bold;">
-    2026-11-21 - Daily Briefing (17 articles)
+  <a href="briefings/2026-11-22.md" style="color:red;font-weight:bold;">
+    2026-11-22 - Daily Briefing (10 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Netgear Black Friday deals save you up to 33% on full home WiFi coverage — up...**</span>  
-<span style="color:red;">**- Netgear Black Friday deals save you up to 33% on full home WiFi coverage — up...**</span>  
-<span style="color:red;">**- The router works from a power bank, but there is no Internet: 9 reasons and w...**</span>  
-<span style="color:red;">**- Asus ROG Strix Scope II 96 gaming keyboard crashes to all-time low in early B...**</span>  
-<span style="color:red;">**- NETGEAR 5-Port 10G/Multi-Gigabit Ethernet Unmanaged Network Switch marked dow...**</span>  
+<span style="color:red;">**- WAVLINK Discusses the Future of Connectivity and Wi-Fi 7 - Cubed3**</span>  
+<span style="color:red;">**- NETGEAR Nighthawk DOCSIS 3.1 Modem Router Combo sees price cut to $239.99 - T...**</span>  
+<span style="color:red;">**- TP-Link BE6300 Wi-Fi 7 Dual-Band Range Extender on sale for $98.67 - Technobezz**</span>  
+<span style="color:red;">**- I built a local network map and discovered 4 Wi-Fi problems I didn't know I h...**</span>  
+<span style="color:red;">**- TP-Link Wi-Fi 6E mesh router with 7,200 sq. ft. coverage gets a big 28% price...**</span>  
+
+[2026-11-21 - Daily Briefing (17 articles)](briefings/2026-11-21.md)
+
+- Netgear Black Friday deals save you up to 33% on full home WiFi coverage — up...
+- Netgear Black Friday deals save you up to 33% on full home WiFi coverage — up...
+- The router works from a power bank, but there is no Internet: 9 reasons and w...
 
 [2026-11-20 - Daily Briefing (26 articles)](briefings/2026-11-20.md)
 
