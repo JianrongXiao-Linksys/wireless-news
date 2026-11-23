@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-22 16:08**
+Last updated: **2026-11-23 20:01**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-22.md" style="color:red;font-weight:bold;">
-    2026-11-22 - Daily Briefing (10 articles)
+  <a href="briefings/2026-11-23.md" style="color:red;font-weight:bold;">
+    2026-11-23 - Daily Briefing (14 articles)
   </a>
 </p>
 
-<span style="color:red;">**- WAVLINK Discusses the Future of Connectivity and Wi-Fi 7 - Cubed3**</span>  
-<span style="color:red;">**- NETGEAR Nighthawk DOCSIS 3.1 Modem Router Combo sees price cut to $239.99 - T...**</span>  
-<span style="color:red;">**- TP-Link BE6300 Wi-Fi 7 Dual-Band Range Extender on sale for $98.67 - Technobezz**</span>  
-<span style="color:red;">**- I built a local network map and discovered 4 Wi-Fi problems I didn't know I h...**</span>  
-<span style="color:red;">**- TP-Link Wi-Fi 6E mesh router with 7,200 sq. ft. coverage gets a big 28% price...**</span>  
+<span style="color:red;">**- Ryzen 9 9955HX3D and RTX 5070 ASUS mini PC falls to lowest price in 90 days -...**</span>  
+<span style="color:red;">**- Segra launches managed Business Wi-Fi with Wi-Fi 7 - Telecompaper**</span>  
+<span style="color:red;">**- I tested ExpressVPN’s Fortify router – and got speedy whole-home protection -...**</span>  
+<span style="color:red;">**- TP-Link's Deco 7 Pro BE63 kills home office internet dead zones - TechRadar**</span>  
+<span style="color:red;">**- Markets & Stocks - FinancialContent**</span>  
+
+[2026-11-22 - Daily Briefing (10 articles)](briefings/2026-11-22.md)
+
+- WAVLINK Discusses the Future of Connectivity and Wi-Fi 7 - Cubed3
+- NETGEAR Nighthawk DOCSIS 3.1 Modem Router Combo sees price cut to $239.99 - T...
+- TP-Link BE6300 Wi-Fi 7 Dual-Band Range Extender on sale for $98.67 - Technobezz
 
 [2026-11-21 - Daily Briefing (17 articles)](briefings/2026-11-21.md)
 
