@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-23 20:01**
+Last updated: **2026-11-24 19:27**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-23.md" style="color:red;font-weight:bold;">
-    2026-11-23 - Daily Briefing (14 articles)
+  <a href="briefings/2026-11-24.md" style="color:red;font-weight:bold;">
+    2026-11-24 - Daily Briefing (22 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Ryzen 9 9955HX3D and RTX 5070 ASUS mini PC falls to lowest price in 90 days -...**</span>  
-<span style="color:red;">**- Segra launches managed Business Wi-Fi with Wi-Fi 7 - Telecompaper**</span>  
-<span style="color:red;">**- I tested ExpressVPN’s Fortify router – and got speedy whole-home protection -...**</span>  
-<span style="color:red;">**- TP-Link's Deco 7 Pro BE63 kills home office internet dead zones - TechRadar**</span>  
-<span style="color:red;">**- Markets & Stocks - FinancialContent**</span>  
+<span style="color:red;">**- Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch**</span>  
+<span style="color:red;">**- ZTE Speed Wi-Fi launches a touchscreen Wi-Fi 7 router and portable 5G hotspot...**</span>  
+<span style="color:red;">**- 4 Wi-Fi Router Brands With Better Ratings Than Linksys - SlashGear**</span>  
+<span style="color:red;">**- Placing a foil reflector behind your WiFi modem: What it does and how it affe...**</span>  
+<span style="color:red;">**- These are the best mesh Wi-Fi systems we've tested to say goodbye to Wi-Fi de...**</span>  
+
+[2026-11-23 - Daily Briefing (14 articles)](briefings/2026-11-23.md)
+
+- Ryzen 9 9955HX3D and RTX 5070 ASUS mini PC falls to lowest price in 90 days -...
+- Segra launches managed Business Wi-Fi with Wi-Fi 7 - Telecompaper
+- I tested ExpressVPN’s Fortify router – and got speedy whole-home protection -...
 
 [2026-11-22 - Daily Briefing (10 articles)](briefings/2026-11-22.md)
 
