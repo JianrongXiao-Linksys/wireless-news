@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-24 19:27**
+Last updated: **2026-11-25 18:34**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-24.md" style="color:red;font-weight:bold;">
-    2026-11-24 - Daily Briefing (22 articles)
+  <a href="briefings/2026-11-25.md" style="color:red;font-weight:bold;">
+    2026-11-25 - Daily Briefing (24 articles)
   </a>
 </p>
 
-<span style="color:red;">**- Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch**</span>  
-<span style="color:red;">**- ZTE Speed Wi-Fi launches a touchscreen Wi-Fi 7 router and portable 5G hotspot...**</span>  
-<span style="color:red;">**- 4 Wi-Fi Router Brands With Better Ratings Than Linksys - SlashGear**</span>  
-<span style="color:red;">**- Placing a foil reflector behind your WiFi modem: What it does and how it affe...**</span>  
-<span style="color:red;">**- These are the best mesh Wi-Fi systems we've tested to say goodbye to Wi-Fi de...**</span>  
+<span style="color:red;">**- ASUS Republic of Gamers unveils latest gaming peripherals lineup at ROG LoadO...**</span>  
+<span style="color:red;">**- Save $200 with surprising deals on new Nvidia RTX Spark-powered Asus ProArt P...**</span>  
+<span style="color:red;">**- Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets**</span>  
+<span style="color:red;">**- How to Change UPnP Settings on Your Router - Technobezz**</span>  
+<span style="color:red;">**- Travel Routers Turn Public Wifi Into Your Own Private Network, and This TP-Li...**</span>  
+
+[2026-11-24 - Daily Briefing (22 articles)](briefings/2026-11-24.md)
+
+- Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch
+- ZTE Speed Wi-Fi launches a touchscreen Wi-Fi 7 router and portable 5G hotspot...
+- 4 Wi-Fi Router Brands With Better Ratings Than Linksys - SlashGear
 
 [2026-11-23 - Daily Briefing (14 articles)](briefings/2026-11-23.md)
 
