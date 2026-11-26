@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-25 18:34**
+Last updated: **2026-11-26 18:18**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-25.md" style="color:red;font-weight:bold;">
-    2026-11-25 - Daily Briefing (24 articles)
+  <a href="briefings/2026-11-26.md" style="color:red;font-weight:bold;">
+    2026-11-26 - Daily Briefing (30 articles)
   </a>
 </p>
 
-<span style="color:red;">**- ASUS Republic of Gamers unveils latest gaming peripherals lineup at ROG LoadO...**</span>  
-<span style="color:red;">**- Save $200 with surprising deals on new Nvidia RTX Spark-powered Asus ProArt P...**</span>  
-<span style="color:red;">**- Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets**</span>  
-<span style="color:red;">**- How to Change UPnP Settings on Your Router - Technobezz**</span>  
-<span style="color:red;">**- Travel Routers Turn Public Wifi Into Your Own Private Network, and This TP-Li...**</span>  
+<span style="color:red;">**- D-Link launches C36 BE3600 Wi-Fi 7 router in Australia and New Zealand - Adve...**</span>  
+<span style="color:red;">**- This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now - Lifehacker**</span>  
+<span style="color:red;">**- These TP-Link Routers Are up to $100 Off in Amazon's Black Friday Sale - Life...**</span>  
+<span style="color:red;">**- Black Friday Mesh Wi-Fi & Router Deals (2026) - Gagadget.com**</span>  
+<span style="color:red;">**- Best Black Friday Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and m...**</span>  
+
+[2026-11-25 - Daily Briefing (24 articles)](briefings/2026-11-25.md)
+
+- ASUS Republic of Gamers unveils latest gaming peripherals lineup at ROG LoadO...
+- Save $200 with surprising deals on new Nvidia RTX Spark-powered Asus ProArt P...
+- Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets
 
 [2026-11-24 - Daily Briefing (22 articles)](briefings/2026-11-24.md)
 
