@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-26 18:18**
+Last updated: **2026-11-27 18:01**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-26.md" style="color:red;font-weight:bold;">
-    2026-11-26 - Daily Briefing (30 articles)
+  <a href="briefings/2026-11-27.md" style="color:red;font-weight:bold;">
+    2026-11-27 - Daily Briefing (26 articles)
   </a>
 </p>
 
-<span style="color:red;">**- D-Link launches C36 BE3600 Wi-Fi 7 router in Australia and New Zealand - Adve...**</span>  
-<span style="color:red;">**- This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now - Lifehacker**</span>  
-<span style="color:red;">**- These TP-Link Routers Are up to $100 Off in Amazon's Black Friday Sale - Life...**</span>  
-<span style="color:red;">**- Black Friday Mesh Wi-Fi & Router Deals (2026) - Gagadget.com**</span>  
-<span style="color:red;">**- Best Black Friday Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and m...**</span>  
+<span style="color:red;">**- iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC**</span>  
+<span style="color:red;">**- Upgrade to Wi-Fi 7 with these stellar deals — TP-Link and Netgear Wi-Fi 7 rou...**</span>  
+<span style="color:red;">**- Upgrade to Wi-Fi 7 with these stellar savings**</span>  
+<span style="color:red;">**- Amazon's eero 7 Wi-Fi 7 mesh router drops to $139.99 - Android Authority**</span>  
+<span style="color:red;">**- Handy TP-Link 5-port gigabit ethernet switch returns to all-time low of $8 at...**</span>  
+
+[2026-11-26 - Daily Briefing (30 articles)](briefings/2026-11-26.md)
+
+- D-Link launches C36 BE3600 Wi-Fi 7 router in Australia and New Zealand - Adve...
+- This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now - Lifehacker
+- These TP-Link Routers Are up to $100 Off in Amazon's Black Friday Sale - Life...
 
 [2026-11-25 - Daily Briefing (24 articles)](briefings/2026-11-25.md)
 
