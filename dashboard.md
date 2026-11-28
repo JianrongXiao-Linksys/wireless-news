@@ -1,6 +1,6 @@
 # Wireless Router & WiFi News Monitor
 
-Last updated: **2026-11-27 18:01**
+Last updated: **2026-11-28 16:45**
 
 Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ubiquiti** | **WiFi 7** | **WiFi 8** | **Mesh WiFi**
 
@@ -9,16 +9,22 @@ Tracking: **Linksys** | **Netgear** | **TP-Link** | **Asus** | **D-Link** | **Ub
 ## News Briefings
 
 <p style="color:red;font-weight:bold;font-size:1.1em;">
-  <a href="briefings/2026-11-27.md" style="color:red;font-weight:bold;">
-    2026-11-27 - Daily Briefing (26 articles)
+  <a href="briefings/2026-11-28.md" style="color:red;font-weight:bold;">
+    2026-11-28 - Daily Briefing (12 articles)
   </a>
 </p>
 
-<span style="color:red;">**- iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC**</span>  
-<span style="color:red;">**- Upgrade to Wi-Fi 7 with these stellar deals — TP-Link and Netgear Wi-Fi 7 rou...**</span>  
-<span style="color:red;">**- Upgrade to Wi-Fi 7 with these stellar savings**</span>  
-<span style="color:red;">**- Amazon's eero 7 Wi-Fi 7 mesh router drops to $139.99 - Android Authority**</span>  
-<span style="color:red;">**- Handy TP-Link 5-port gigabit ethernet switch returns to all-time low of $8 at...**</span>  
+<span style="color:red;">**- ASUS ExpertBook A7 Laptop Review - Comics Gaming Magazine**</span>  
+<span style="color:red;">**- Budget TP-Link Archer BE230 Wi-Fi 7 router is now even cheaper as Cyber Monda...**</span>  
+<span style="color:red;">**- Amazon eero 6+ mesh system with up to 4,500 square feet of coverage gets a 33...**</span>  
+<span style="color:red;">**- AI Helps Hackers Compromise Routers – State Special Communications Service - ...**</span>  
+<span style="color:red;">**- Best Black Friday motherboard deals 2026 — Big sales on Intel Z890 and AMD B8...**</span>  
+
+[2026-11-27 - Daily Briefing (26 articles)](briefings/2026-11-27.md)
+
+- iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC
+- Upgrade to Wi-Fi 7 with these stellar deals — TP-Link and Netgear Wi-Fi 7 rou...
+- Upgrade to Wi-Fi 7 with these stellar savings
 
 [2026-11-26 - Daily Briefing (30 articles)](briefings/2026-11-26.md)
 
